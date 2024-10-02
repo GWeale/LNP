@@ -1,0 +1,1071 @@
+Specimen,Subset,Statistic,Count,Total_Cells
+Specimen_002_CP49 PBA26 NP4 GFP-1.fcs,Specimen_002_CP49 PBA26 NP4 GFP-1.fcs/Comp-Pacific Blue-A subset,97.1,19422.0,20000
+Specimen_002_CP49 PBA26 NP4 GFP-1.fcs,Specimen_002_CP49 PBA26 NP4 GFP-1.fcs/Lymphocytes,82.8,16567.0,20000
+Specimen_002_CP49 PBA26 NP4 GFP-1.fcs,Specimen_002_CP49 PBA26 NP4 GFP-1.fcs/Lymphocytes/Single Cells,71.5,11844.0,20000
+Specimen_002_CP49 PBA26 NP4 GFP-1.fcs,"Specimen_002_CP49 PBA26 NP4 GFP-1.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",97.7,11567.0,20000
+Specimen_002_CP49 PBA26 NP4 GFP-1.fcs,Mean : Comp-FITC-A = 1956.153564453,1956.0,,20000
+Specimen_002_CP49 PBA26 NP4 GFP-1.fcs,"Specimen_002_CP49 PBA26 NP4 GFP-1.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",85.2,9853.0,20000
+Specimen_002_CP49 PBA26 NP4 GFP-1.fcs,"Specimen_002_CP49 PBA26 NP4 GFP-1.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",73.8,14761.0,20000
+Specimen_002_CP49 PBA26 NP4 GFP-1.fcs,"Specimen_002_CP49 PBA26 NP4 GFP-1.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",0.63,126.0,20000
+Specimen_002_CP49 PBA26 NP4 GFP-1.fcs,"Specimen_002_CP49 PBA26 NP4 GFP-1.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",2.15,429.0,20000
+Specimen_002_CP49 PBA26 NP4 GFP-1.fcs,"Specimen_002_CP49 PBA26 NP4 GFP-1.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",23.4,4684.0,20000
+Specimen_002_CP49 PBA26 NP4 GFP.fcs,Specimen_002_CP49 PBA26 NP4 GFP.fcs/Comp-Pacific Blue-A subset,97.3,19454.0,20000
+Specimen_002_CP49 PBA26 NP4 GFP.fcs,Specimen_002_CP49 PBA26 NP4 GFP.fcs/Lymphocytes,83.5,16706.0,20000
+Specimen_002_CP49 PBA26 NP4 GFP.fcs,Specimen_002_CP49 PBA26 NP4 GFP.fcs/Lymphocytes/Single Cells,70.7,11807.0,20000
+Specimen_002_CP49 PBA26 NP4 GFP.fcs,"Specimen_002_CP49 PBA26 NP4 GFP.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",98.0,11566.0,20000
+Specimen_002_CP49 PBA26 NP4 GFP.fcs,Mean : Comp-FITC-A = 1964.652954102,1965.0,,20000
+Specimen_002_CP49 PBA26 NP4 GFP.fcs,"Specimen_002_CP49 PBA26 NP4 GFP.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",85.0,9836.0,20000
+Specimen_002_CP49 PBA26 NP4 GFP.fcs,"Specimen_002_CP49 PBA26 NP4 GFP.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",74.4,14877.0,20000
+Specimen_002_CP49 PBA26 NP4 GFP.fcs,"Specimen_002_CP49 PBA26 NP4 GFP.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",0.53,105.0,20000
+Specimen_002_CP49 PBA26 NP4 GFP.fcs,"Specimen_002_CP49 PBA26 NP4 GFP.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",2.07,414.0,20000
+Specimen_002_CP49 PBA26 NP4 GFP.fcs,"Specimen_002_CP49 PBA26 NP4 GFP.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",23.0,4604.0,20000
+Specimen_002_CP49 PBA26 NP6 GFP.fcs,Specimen_002_CP49 PBA26 NP6 GFP.fcs/Comp-Pacific Blue-A subset,92.9,18583.0,20000
+Specimen_002_CP49 PBA26 NP6 GFP.fcs,Specimen_002_CP49 PBA26 NP6 GFP.fcs/Lymphocytes,85.9,17171.0,20000
+Specimen_002_CP49 PBA26 NP6 GFP.fcs,Specimen_002_CP49 PBA26 NP6 GFP.fcs/Lymphocytes/Single Cells,57.5,9872.0,20000
+Specimen_002_CP49 PBA26 NP6 GFP.fcs,"Specimen_002_CP49 PBA26 NP6 GFP.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",92.6,9138.0,20000
+Specimen_002_CP49 PBA26 NP6 GFP.fcs,Mean : Comp-FITC-A = 914.729431152,915.0,,20000
+Specimen_002_CP49 PBA26 NP6 GFP.fcs,"Specimen_002_CP49 PBA26 NP6 GFP.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",45.9,4195.0,20000
+Specimen_002_CP49 PBA26 NP6 GFP.fcs,"Specimen_002_CP49 PBA26 NP6 GFP.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",53.2,10648.0,20000
+Specimen_002_CP49 PBA26 NP6 GFP.fcs,"Specimen_002_CP49 PBA26 NP6 GFP.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",0.62,125.0,20000
+Specimen_002_CP49 PBA26 NP6 GFP.fcs,"Specimen_002_CP49 PBA26 NP6 GFP.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",6.21,1241.0,20000
+Specimen_002_CP49 PBA26 NP6 GFP.fcs,"Specimen_002_CP49 PBA26 NP6 GFP.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",39.9,7986.0,20000
+Specimen_002_CP49 PBA26 NP6 GFP1.fcs,Specimen_002_CP49 PBA26 NP6 GFP1.fcs/Comp-Pacific Blue-A subset,90.9,16561.0,18217
+Specimen_002_CP49 PBA26 NP6 GFP1.fcs,Specimen_002_CP49 PBA26 NP6 GFP1.fcs/Lymphocytes,85.7,15612.0,18217
+Specimen_002_CP49 PBA26 NP6 GFP1.fcs,Specimen_002_CP49 PBA26 NP6 GFP1.fcs/Lymphocytes/Single Cells,61.8,9655.0,18217
+Specimen_002_CP49 PBA26 NP6 GFP1.fcs,"Specimen_002_CP49 PBA26 NP6 GFP1.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",91.2,8810.0,18217
+Specimen_002_CP49 PBA26 NP6 GFP1.fcs,Mean : Comp-FITC-A = 894.162353516,894.0,,18217
+Specimen_002_CP49 PBA26 NP6 GFP1.fcs,"Specimen_002_CP49 PBA26 NP6 GFP1.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",45.3,3994.0,18217
+Specimen_002_CP49 PBA26 NP6 GFP1.fcs,"Specimen_002_CP49 PBA26 NP6 GFP1.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",49.4,9005.0,18217
+Specimen_002_CP49 PBA26 NP6 GFP1.fcs,"Specimen_002_CP49 PBA26 NP6 GFP1.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",0.6,109.0,18217
+Specimen_002_CP49 PBA26 NP6 GFP1.fcs,"Specimen_002_CP49 PBA26 NP6 GFP1.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",8.27,1506.0,18217
+Specimen_002_CP49 PBA26 NP6 GFP1.fcs,"Specimen_002_CP49 PBA26 NP6 GFP1.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",41.7,7597.0,18217
+Specimen_002_CP49 PBA31 NP6 GFP 1.fcs,Specimen_002_CP49 PBA31 NP6 GFP 1.fcs/Comp-Pacific Blue-A subset,95.5,19094.0,20000
+Specimen_002_CP49 PBA31 NP6 GFP 1.fcs,Specimen_002_CP49 PBA31 NP6 GFP 1.fcs/Lymphocytes,91.7,18344.0,20000
+Specimen_002_CP49 PBA31 NP6 GFP 1.fcs,Specimen_002_CP49 PBA31 NP6 GFP 1.fcs/Lymphocytes/Single Cells,69.6,12761.0,20000
+Specimen_002_CP49 PBA31 NP6 GFP 1.fcs,"Specimen_002_CP49 PBA31 NP6 GFP 1.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",97.0,12383.0,20000
+Specimen_002_CP49 PBA31 NP6 GFP 1.fcs,Mean : Comp-FITC-A = 673.669921875,674.0,,20000
+Specimen_002_CP49 PBA31 NP6 GFP 1.fcs,"Specimen_002_CP49 PBA31 NP6 GFP 1.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",33.2,4116.0,20000
+Specimen_002_CP49 PBA31 NP6 GFP 1.fcs,"Specimen_002_CP49 PBA31 NP6 GFP 1.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",35.2,7048.0,20000
+Specimen_002_CP49 PBA31 NP6 GFP 1.fcs,"Specimen_002_CP49 PBA31 NP6 GFP 1.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",0.33,65.0,20000
+Specimen_002_CP49 PBA31 NP6 GFP 1.fcs,"Specimen_002_CP49 PBA31 NP6 GFP 1.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",4.06,812.0,20000
+Specimen_002_CP49 PBA31 NP6 GFP 1.fcs,"Specimen_002_CP49 PBA31 NP6 GFP 1.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",60.4,12075.0,20000
+Specimen_002_CP49 PBA31 NP6 GFP.fcs,Specimen_002_CP49 PBA31 NP6 GFP.fcs/Comp-Pacific Blue-A subset,95.5,19102.0,20000
+Specimen_002_CP49 PBA31 NP6 GFP.fcs,Specimen_002_CP49 PBA31 NP6 GFP.fcs/Lymphocytes,92.1,18416.0,20000
+Specimen_002_CP49 PBA31 NP6 GFP.fcs,Specimen_002_CP49 PBA31 NP6 GFP.fcs/Lymphocytes/Single Cells,70.1,12907.0,20000
+Specimen_002_CP49 PBA31 NP6 GFP.fcs,"Specimen_002_CP49 PBA31 NP6 GFP.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",96.9,12511.0,20000
+Specimen_002_CP49 PBA31 NP6 GFP.fcs,Mean : Comp-FITC-A = 696.227294922,696.0,,20000
+Specimen_002_CP49 PBA31 NP6 GFP.fcs,"Specimen_002_CP49 PBA31 NP6 GFP.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",34.2,4283.0,20000
+Specimen_002_CP49 PBA31 NP6 GFP.fcs,"Specimen_002_CP49 PBA31 NP6 GFP.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",36.1,7220.0,20000
+Specimen_002_CP49 PBA31 NP6 GFP.fcs,"Specimen_002_CP49 PBA31 NP6 GFP.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",0.26,51.0,20000
+Specimen_002_CP49 PBA31 NP6 GFP.fcs,"Specimen_002_CP49 PBA31 NP6 GFP.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",4.06,812.0,20000
+Specimen_002_CP49 PBA31 NP6 GFP.fcs,"Specimen_002_CP49 PBA31 NP6 GFP.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",59.6,11917.0,20000
+Specimen_002_CP49PBA10 NP4 GFP-1.fcs,Specimen_002_CP49PBA10 NP4 GFP-1.fcs/Comp-Pacific Blue-A subset,96.7,19339.0,20000
+Specimen_002_CP49PBA10 NP4 GFP-1.fcs,Specimen_002_CP49PBA10 NP4 GFP-1.fcs/Lymphocytes,79.5,15901.0,20000
+Specimen_002_CP49PBA10 NP4 GFP-1.fcs,Specimen_002_CP49PBA10 NP4 GFP-1.fcs/Lymphocytes/Single Cells,76.5,12169.0,20000
+Specimen_002_CP49PBA10 NP4 GFP-1.fcs,"Specimen_002_CP49PBA10 NP4 GFP-1.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",97.3,11846.0,20000
+Specimen_002_CP49PBA10 NP4 GFP-1.fcs,Mean : Comp-FITC-A = 2263.326416016,2263.0,,20000
+Specimen_002_CP49PBA10 NP4 GFP-1.fcs,"Specimen_002_CP49PBA10 NP4 GFP-1.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",87.1,10312.0,20000
+Specimen_002_CP49PBA10 NP4 GFP-1.fcs,"Specimen_002_CP49PBA10 NP4 GFP-1.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",71.0,14201.0,20000
+Specimen_002_CP49PBA10 NP4 GFP-1.fcs,"Specimen_002_CP49PBA10 NP4 GFP-1.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",0.8,161.0,20000
+Specimen_002_CP49PBA10 NP4 GFP-1.fcs,"Specimen_002_CP49PBA10 NP4 GFP-1.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",2.32,464.0,20000
+Specimen_002_CP49PBA10 NP4 GFP-1.fcs,"Specimen_002_CP49PBA10 NP4 GFP-1.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",25.9,5174.0,20000
+Specimen_002_CP49PBA10 NP4 GFP.fcs,Specimen_002_CP49PBA10 NP4 GFP.fcs/Comp-Pacific Blue-A subset,96.6,19318.0,20000
+Specimen_002_CP49PBA10 NP4 GFP.fcs,Specimen_002_CP49PBA10 NP4 GFP.fcs/Lymphocytes,79.3,15856.0,20000
+Specimen_002_CP49PBA10 NP4 GFP.fcs,Specimen_002_CP49PBA10 NP4 GFP.fcs/Lymphocytes/Single Cells,76.4,12119.0,20000
+Specimen_002_CP49PBA10 NP4 GFP.fcs,"Specimen_002_CP49PBA10 NP4 GFP.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",97.4,11807.0,20000
+Specimen_002_CP49PBA10 NP4 GFP.fcs,Mean : Comp-FITC-A = 2267.587890625,2268.0,,20000
+Specimen_002_CP49PBA10 NP4 GFP.fcs,"Specimen_002_CP49PBA10 NP4 GFP.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",86.6,10224.0,20000
+Specimen_002_CP49PBA10 NP4 GFP.fcs,"Specimen_002_CP49PBA10 NP4 GFP.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",70.5,14098.0,20000
+Specimen_002_CP49PBA10 NP4 GFP.fcs,"Specimen_002_CP49PBA10 NP4 GFP.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",0.9,180.0,20000
+Specimen_002_CP49PBA10 NP4 GFP.fcs,"Specimen_002_CP49PBA10 NP4 GFP.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",2.35,471.0,20000
+Specimen_002_CP49PBA10 NP4 GFP.fcs,"Specimen_002_CP49PBA10 NP4 GFP.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",26.3,5251.0,20000
+Specimen_002_CP49PBA10 NP6 GFP-1.fcs,Specimen_002_CP49PBA10 NP6 GFP-1.fcs/Comp-Pacific Blue-A subset,94.8,18970.0,20000
+Specimen_002_CP49PBA10 NP6 GFP-1.fcs,Specimen_002_CP49PBA10 NP6 GFP-1.fcs/Lymphocytes,93.0,18606.0,20000
+Specimen_002_CP49PBA10 NP6 GFP-1.fcs,Specimen_002_CP49PBA10 NP6 GFP-1.fcs/Lymphocytes/Single Cells,75.9,14123.0,20000
+Specimen_002_CP49PBA10 NP6 GFP-1.fcs,"Specimen_002_CP49PBA10 NP6 GFP-1.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",96.1,13578.0,20000
+Specimen_002_CP49PBA10 NP6 GFP-1.fcs,Mean : Comp-FITC-A = 2017.369873047,2017.0,,20000
+Specimen_002_CP49PBA10 NP6 GFP-1.fcs,"Specimen_002_CP49PBA10 NP6 GFP-1.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",92.1,12511.0,20000
+Specimen_002_CP49PBA10 NP6 GFP-1.fcs,"Specimen_002_CP49PBA10 NP6 GFP-1.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",85.7,17135.0,20000
+Specimen_002_CP49PBA10 NP6 GFP-1.fcs,"Specimen_002_CP49PBA10 NP6 GFP-1.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",1.16,232.0,20000
+Specimen_002_CP49PBA10 NP6 GFP-1.fcs,"Specimen_002_CP49PBA10 NP6 GFP-1.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",3.76,752.0,20000
+Specimen_002_CP49PBA10 NP6 GFP-1.fcs,"Specimen_002_CP49PBA10 NP6 GFP-1.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",9.4,1881.0,20000
+Specimen_002_CP49PBA10 NP6 GFP_0011.fcs,Specimen_002_CP49PBA10 NP6 GFP_0011.fcs/Comp-Pacific Blue-A subset,95.1,19026.0,20000
+Specimen_002_CP49PBA10 NP6 GFP_0011.fcs,Specimen_002_CP49PBA10 NP6 GFP_0011.fcs/Lymphocytes,92.9,18588.0,20000
+Specimen_002_CP49PBA10 NP6 GFP_0011.fcs,Specimen_002_CP49PBA10 NP6 GFP_0011.fcs/Lymphocytes/Single Cells,74.7,13882.0,20000
+Specimen_002_CP49PBA10 NP6 GFP_0011.fcs,"Specimen_002_CP49PBA10 NP6 GFP_0011.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",96.3,13369.0,20000
+Specimen_002_CP49PBA10 NP6 GFP_0011.fcs,Mean : Comp-FITC-A = 2019.025024414,2019.0,,20000
+Specimen_002_CP49PBA10 NP6 GFP_0011.fcs,"Specimen_002_CP49PBA10 NP6 GFP_0011.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",92.4,12352.0,20000
+Specimen_002_CP49PBA10 NP6 GFP_0011.fcs,"Specimen_002_CP49PBA10 NP6 GFP_0011.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",85.9,17177.0,20000
+Specimen_002_CP49PBA10 NP6 GFP_0011.fcs,"Specimen_002_CP49PBA10 NP6 GFP_0011.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",1.09,218.0,20000
+Specimen_002_CP49PBA10 NP6 GFP_0011.fcs,"Specimen_002_CP49PBA10 NP6 GFP_0011.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",3.62,724.0,20000
+Specimen_002_CP49PBA10 NP6 GFP_0011.fcs,"Specimen_002_CP49PBA10 NP6 GFP_0011.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",9.4,1881.0,20000
+Specimen_002_CP49PBA31 NP4 GFP-1_001.fcs,Specimen_002_CP49PBA31 NP4 GFP-1_001.fcs/Comp-Pacific Blue-A subset,96.3,19267.0,20000
+Specimen_002_CP49PBA31 NP4 GFP-1_001.fcs,Specimen_002_CP49PBA31 NP4 GFP-1_001.fcs/Lymphocytes,81.4,16275.0,20000
+Specimen_002_CP49PBA31 NP4 GFP-1_001.fcs,Specimen_002_CP49PBA31 NP4 GFP-1_001.fcs/Lymphocytes/Single Cells,82.9,13486.0,20000
+Specimen_002_CP49PBA31 NP4 GFP-1_001.fcs,"Specimen_002_CP49PBA31 NP4 GFP-1_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",97.8,13183.0,20000
+Specimen_002_CP49PBA31 NP4 GFP-1_001.fcs,Mean : Comp-FITC-A = 2210.18359375,2210.0,,20000
+Specimen_002_CP49PBA31 NP4 GFP-1_001.fcs,"Specimen_002_CP49PBA31 NP4 GFP-1_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",88.7,11688.0,20000
+Specimen_002_CP49PBA31 NP4 GFP-1_001.fcs,"Specimen_002_CP49PBA31 NP4 GFP-1_001.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",72.4,14486.0,20000
+Specimen_002_CP49PBA31 NP4 GFP-1_001.fcs,"Specimen_002_CP49PBA31 NP4 GFP-1_001.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",0.99,198.0,20000
+Specimen_002_CP49PBA31 NP4 GFP-1_001.fcs,"Specimen_002_CP49PBA31 NP4 GFP-1_001.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",2.53,505.0,20000
+Specimen_002_CP49PBA31 NP4 GFP-1_001.fcs,"Specimen_002_CP49PBA31 NP4 GFP-1_001.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",24.1,4811.0,20000
+Specimen_002_CP49PBA31 NP4 GFP_001.fcs,Specimen_002_CP49PBA31 NP4 GFP_001.fcs/Comp-Pacific Blue-A subset,96.3,19262.0,20000
+Specimen_002_CP49PBA31 NP4 GFP_001.fcs,Specimen_002_CP49PBA31 NP4 GFP_001.fcs/Lymphocytes,81.4,16277.0,20000
+Specimen_002_CP49PBA31 NP4 GFP_001.fcs,Specimen_002_CP49PBA31 NP4 GFP_001.fcs/Lymphocytes/Single Cells,82.9,13497.0,20000
+Specimen_002_CP49PBA31 NP4 GFP_001.fcs,"Specimen_002_CP49PBA31 NP4 GFP_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",97.7,13185.0,20000
+Specimen_002_CP49PBA31 NP4 GFP_001.fcs,Mean : Comp-FITC-A = 2197.630126953,2198.0,,20000
+Specimen_002_CP49PBA31 NP4 GFP_001.fcs,"Specimen_002_CP49PBA31 NP4 GFP_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",87.7,11563.0,20000
+Specimen_002_CP49PBA31 NP4 GFP_001.fcs,"Specimen_002_CP49PBA31 NP4 GFP_001.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",71.7,14347.0,20000
+Specimen_002_CP49PBA31 NP4 GFP_001.fcs,"Specimen_002_CP49PBA31 NP4 GFP_001.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",0.92,185.0,20000
+Specimen_002_CP49PBA31 NP4 GFP_001.fcs,"Specimen_002_CP49PBA31 NP4 GFP_001.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",2.65,530.0,20000
+Specimen_002_CP49PBA31 NP4 GFP_001.fcs,"Specimen_002_CP49PBA31 NP4 GFP_001.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",24.7,4938.0,20000
+Specimen_002_CP49PBA31 NP10 GFP-1_002.fcs,Specimen_002_CP49PBA31 NP10 GFP-1_002.fcs/Comp-Pacific Blue-A subset,82.1,8061.0,9824
+Specimen_002_CP49PBA31 NP10 GFP-1_002.fcs,Specimen_002_CP49PBA31 NP10 GFP-1_002.fcs/Lymphocytes,78.0,7667.0,9824
+Specimen_002_CP49PBA31 NP10 GFP-1_002.fcs,Specimen_002_CP49PBA31 NP10 GFP-1_002.fcs/Lymphocytes/Single Cells,74.4,5701.0,9824
+Specimen_002_CP49PBA31 NP10 GFP-1_002.fcs,"Specimen_002_CP49PBA31 NP10 GFP-1_002.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",85.8,4890.0,9824
+Specimen_002_CP49PBA31 NP10 GFP-1_002.fcs,Mean : Comp-FITC-A = 108.611122131,109.0,,9824
+Specimen_002_CP49PBA31 NP10 GFP-1_002.fcs,"Specimen_002_CP49PBA31 NP10 GFP-1_002.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",3.7,181.0,9824
+Specimen_002_CP49PBA31 NP10 GFP-1_002.fcs,"Specimen_002_CP49PBA31 NP10 GFP-1_002.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",4.41,433.0,9824
+Specimen_002_CP49PBA31 NP10 GFP-1_002.fcs,"Specimen_002_CP49PBA31 NP10 GFP-1_002.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",0.56,55.0,9824
+Specimen_002_CP49PBA31 NP10 GFP-1_002.fcs,"Specimen_002_CP49PBA31 NP10 GFP-1_002.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",16.8,1653.0,9824
+Specimen_002_CP49PBA31 NP10 GFP-1_002.fcs,"Specimen_002_CP49PBA31 NP10 GFP-1_002.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",78.2,7683.0,9824
+Specimen_002_CP49PBA31 NP10 GFP_002.fcs,Specimen_002_CP49PBA31 NP10 GFP_002.fcs/Comp-Pacific Blue-A subset,87.6,17521.0,20000
+Specimen_002_CP49PBA31 NP10 GFP_002.fcs,Specimen_002_CP49PBA31 NP10 GFP_002.fcs/Lymphocytes,87.5,17510.0,20000
+Specimen_002_CP49PBA31 NP10 GFP_002.fcs,Specimen_002_CP49PBA31 NP10 GFP_002.fcs/Lymphocytes/Single Cells,68.9,12061.0,20000
+Specimen_002_CP49PBA31 NP10 GFP_002.fcs,"Specimen_002_CP49PBA31 NP10 GFP_002.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",88.6,10684.0,20000
+Specimen_002_CP49PBA31 NP10 GFP_002.fcs,Mean : Comp-FITC-A = 110.639099121,111.0,,20000
+Specimen_002_CP49PBA31 NP10 GFP_002.fcs,"Specimen_002_CP49PBA31 NP10 GFP_002.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",3.47,371.0,20000
+Specimen_002_CP49PBA31 NP10 GFP_002.fcs,"Specimen_002_CP49PBA31 NP10 GFP_002.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",5.41,1082.0,20000
+Specimen_002_CP49PBA31 NP10 GFP_002.fcs,"Specimen_002_CP49PBA31 NP10 GFP_002.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",0.46,92.0,20000
+Specimen_002_CP49PBA31 NP10 GFP_002.fcs,"Specimen_002_CP49PBA31 NP10 GFP_002.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",11.7,2331.0,20000
+Specimen_002_CP49PBA31 NP10 GFP_002.fcs,"Specimen_002_CP49PBA31 NP10 GFP_002.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",82.5,16495.0,20000
+Specimen_002_CP79 NP4 GFP-1_001.fcs,Specimen_002_CP79 NP4 GFP-1_001.fcs/Comp-Pacific Blue-A subset,95.8,19163.0,20000
+Specimen_002_CP79 NP4 GFP-1_001.fcs,Specimen_002_CP79 NP4 GFP-1_001.fcs/Lymphocytes,91.8,18354.0,20000
+Specimen_002_CP79 NP4 GFP-1_001.fcs,Specimen_002_CP79 NP4 GFP-1_001.fcs/Lymphocytes/Single Cells,71.8,13169.0,20000
+Specimen_002_CP79 NP4 GFP-1_001.fcs,"Specimen_002_CP79 NP4 GFP-1_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",98.0,12901.0,20000
+Specimen_002_CP79 NP4 GFP-1_001.fcs,Mean : Comp-FITC-A = 2207.254150391,2207.0,,20000
+Specimen_002_CP79 NP4 GFP-1_001.fcs,"Specimen_002_CP79 NP4 GFP-1_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",93.0,12000.0,20000
+Specimen_002_CP79 NP4 GFP-1_001.fcs,"Specimen_002_CP79 NP4 GFP-1_001.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",86.2,17235.0,20000
+Specimen_002_CP79 NP4 GFP-1_001.fcs,"Specimen_002_CP79 NP4 GFP-1_001.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",0.63,126.0,20000
+Specimen_002_CP79 NP4 GFP-1_001.fcs,"Specimen_002_CP79 NP4 GFP-1_001.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",3.38,675.0,20000
+Specimen_002_CP79 NP4 GFP-1_001.fcs,"Specimen_002_CP79 NP4 GFP-1_001.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",9.82,1964.0,20000
+Specimen_002_CP79 NP4 GFP_001.fcs,Specimen_002_CP79 NP4 GFP_001.fcs/Comp-Pacific Blue-A subset,96.0,19198.0,20000
+Specimen_002_CP79 NP4 GFP_001.fcs,Specimen_002_CP79 NP4 GFP_001.fcs/Lymphocytes,92.1,18423.0,20000
+Specimen_002_CP79 NP4 GFP_001.fcs,Specimen_002_CP79 NP4 GFP_001.fcs/Lymphocytes/Single Cells,71.7,13202.0,20000
+Specimen_002_CP79 NP4 GFP_001.fcs,"Specimen_002_CP79 NP4 GFP_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",98.1,12951.0,20000
+Specimen_002_CP79 NP4 GFP_001.fcs,Mean : Comp-FITC-A = 2161.937744141,2162.0,,20000
+Specimen_002_CP79 NP4 GFP_001.fcs,"Specimen_002_CP79 NP4 GFP_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",92.5,11976.0,20000
+Specimen_002_CP79 NP4 GFP_001.fcs,"Specimen_002_CP79 NP4 GFP_001.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",86.3,17263.0,20000
+Specimen_002_CP79 NP4 GFP_001.fcs,"Specimen_002_CP79 NP4 GFP_001.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",0.66,132.0,20000
+Specimen_002_CP79 NP4 GFP_001.fcs,"Specimen_002_CP79 NP4 GFP_001.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",3.21,641.0,20000
+Specimen_002_CP79 NP4 GFP_001.fcs,"Specimen_002_CP79 NP4 GFP_001.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",9.82,1964.0,20000
+Specimen_002_CP79 NP6 GFP.fcs,Specimen_002_CP79 NP6 GFP.fcs/Comp-Pacific Blue-A subset,94.9,18983.0,20000
+Specimen_002_CP79 NP6 GFP.fcs,Specimen_002_CP79 NP6 GFP.fcs/Lymphocytes,91.1,18215.0,20000
+Specimen_002_CP79 NP6 GFP.fcs,Specimen_002_CP79 NP6 GFP.fcs/Lymphocytes/Single Cells,70.7,12879.0,20000
+Specimen_002_CP79 NP6 GFP.fcs,"Specimen_002_CP79 NP6 GFP.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",96.7,12457.0,20000
+Specimen_002_CP79 NP6 GFP.fcs,Mean : Comp-FITC-A = 2172.081787109,2172.0,,20000
+Specimen_002_CP79 NP6 GFP.fcs,"Specimen_002_CP79 NP6 GFP.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",92.9,11575.0,20000
+Specimen_002_CP79 NP6 GFP.fcs,"Specimen_002_CP79 NP6 GFP.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",85.1,17017.0,20000
+Specimen_002_CP79 NP6 GFP.fcs,"Specimen_002_CP79 NP6 GFP.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",0.75,150.0,20000
+Specimen_002_CP79 NP6 GFP.fcs,"Specimen_002_CP79 NP6 GFP.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",4.15,829.0,20000
+Specimen_002_CP79 NP6 GFP.fcs,"Specimen_002_CP79 NP6 GFP.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",10.0,2004.0,20000
+Specimen_002_CP79 NP6 GFP1.fcs,Specimen_002_CP79 NP6 GFP1.fcs/Comp-Pacific Blue-A subset,94.5,18890.0,20000
+Specimen_002_CP79 NP6 GFP1.fcs,Specimen_002_CP79 NP6 GFP1.fcs/Lymphocytes,91.1,18221.0,20000
+Specimen_002_CP79 NP6 GFP1.fcs,Specimen_002_CP79 NP6 GFP1.fcs/Lymphocytes/Single Cells,71.5,13022.0,20000
+Specimen_002_CP79 NP6 GFP1.fcs,"Specimen_002_CP79 NP6 GFP1.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",96.3,12534.0,20000
+Specimen_002_CP79 NP6 GFP1.fcs,Mean : Comp-FITC-A = 2171.326416016,2171.0,,20000
+Specimen_002_CP79 NP6 GFP1.fcs,"Specimen_002_CP79 NP6 GFP1.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",93.4,11707.0,20000
+Specimen_002_CP79 NP6 GFP1.fcs,"Specimen_002_CP79 NP6 GFP1.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",84.8,16960.0,20000
+Specimen_002_CP79 NP6 GFP1.fcs,"Specimen_002_CP79 NP6 GFP1.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",0.88,176.0,20000
+Specimen_002_CP79 NP6 GFP1.fcs,"Specimen_002_CP79 NP6 GFP1.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",4.55,911.0,20000
+Specimen_002_CP79 NP6 GFP1.fcs,"Specimen_002_CP79 NP6 GFP1.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",9.77,1953.0,20000
+Specimen_002_CP79 NP10 GFP-1_002.fcs,Specimen_002_CP79 NP10 GFP-1_002.fcs/Comp-Pacific Blue-A subset,84.5,16899.0,20000
+Specimen_002_CP79 NP10 GFP-1_002.fcs,Specimen_002_CP79 NP10 GFP-1_002.fcs/Lymphocytes,87.2,17447.0,20000
+Specimen_002_CP79 NP10 GFP-1_002.fcs,Specimen_002_CP79 NP10 GFP-1_002.fcs/Lymphocytes/Single Cells,67.7,11806.0,20000
+Specimen_002_CP79 NP10 GFP-1_002.fcs,"Specimen_002_CP79 NP10 GFP-1_002.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",84.6,9987.0,20000
+Specimen_002_CP79 NP10 GFP-1_002.fcs,Mean : Comp-FITC-A = 385.134887695,385.0,,20000
+Specimen_002_CP79 NP10 GFP-1_002.fcs,"Specimen_002_CP79 NP10 GFP-1_002.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",19.8,1975.0,20000
+Specimen_002_CP79 NP10 GFP-1_002.fcs,"Specimen_002_CP79 NP10 GFP-1_002.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",22.7,4549.0,20000
+Specimen_002_CP79 NP10 GFP-1_002.fcs,"Specimen_002_CP79 NP10 GFP-1_002.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",0.5,99.0,20000
+Specimen_002_CP79 NP10 GFP-1_002.fcs,"Specimen_002_CP79 NP10 GFP-1_002.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",14.8,2955.0,20000
+Specimen_002_CP79 NP10 GFP-1_002.fcs,"Specimen_002_CP79 NP10 GFP-1_002.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",62.0,12397.0,20000
+Specimen_002_CP79 NP10 GFP_001.fcs,Specimen_002_CP79 NP10 GFP_001.fcs/Comp-Pacific Blue-A subset,83.9,16788.0,20000
+Specimen_002_CP79 NP10 GFP_001.fcs,Specimen_002_CP79 NP10 GFP_001.fcs/Lymphocytes,87.3,17467.0,20000
+Specimen_002_CP79 NP10 GFP_001.fcs,Specimen_002_CP79 NP10 GFP_001.fcs/Lymphocytes/Single Cells,68.9,12039.0,20000
+Specimen_002_CP79 NP10 GFP_001.fcs,"Specimen_002_CP79 NP10 GFP_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",84.5,10167.0,20000
+Specimen_002_CP79 NP10 GFP_001.fcs,Mean : Comp-FITC-A = 397.380126953,397.0,,20000
+Specimen_002_CP79 NP10 GFP_001.fcs,"Specimen_002_CP79 NP10 GFP_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",20.0,2038.0,20000
+Specimen_002_CP79 NP10 GFP_001.fcs,"Specimen_002_CP79 NP10 GFP_001.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",22.4,4475.0,20000
+Specimen_002_CP79 NP10 GFP_001.fcs,"Specimen_002_CP79 NP10 GFP_001.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",0.48,96.0,20000
+Specimen_002_CP79 NP10 GFP_001.fcs,"Specimen_002_CP79 NP10 GFP_001.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",15.4,3073.0,20000
+Specimen_002_CP79 NP10 GFP_001.fcs,"Specimen_002_CP79 NP10 GFP_001.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",61.8,12356.0,20000
+Specimen_002_L3k GFP.fcs,Specimen_002_L3k GFP.fcs/Comp-Pacific Blue-A subset,94.2,18844.0,20000
+Specimen_002_L3k GFP.fcs,Specimen_002_L3k GFP.fcs/Lymphocytes,54.8,10965.0,20000
+Specimen_002_L3k GFP.fcs,Specimen_002_L3k GFP.fcs/Lymphocytes/Single Cells,62.0,6801.0,20000
+Specimen_002_L3k GFP.fcs,"Specimen_002_L3k GFP.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",91.2,6201.0,20000
+Specimen_002_L3k GFP.fcs,Mean : Comp-FITC-A = 296.69140625,297.0,,20000
+Specimen_002_L3k GFP.fcs,"Specimen_002_L3k GFP.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",8.82,547.0,20000
+Specimen_002_L3k GFP.fcs,"Specimen_002_L3k GFP.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",13.6,2716.0,20000
+Specimen_002_L3k GFP.fcs,"Specimen_002_L3k GFP.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",1.62,324.0,20000
+Specimen_002_L3k GFP.fcs,"Specimen_002_L3k GFP.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",3.64,727.0,20000
+Specimen_002_L3k GFP.fcs,"Specimen_002_L3k GFP.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",81.2,16233.0,20000
+Specimen_002_L3k GFP_001.fcs,Specimen_002_L3k GFP_001.fcs/Comp-Pacific Blue-A subset,77.6,14421.0,18575
+Specimen_002_L3k GFP_001.fcs,Specimen_002_L3k GFP_001.fcs/Lymphocytes,21.8,4055.0,18575
+Specimen_002_L3k GFP_001.fcs,Specimen_002_L3k GFP_001.fcs/Lymphocytes/Single Cells,70.1,2844.0,18575
+Specimen_002_L3k GFP_001.fcs,"Specimen_002_L3k GFP_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",91.1,2590.0,18575
+Specimen_002_L3k GFP_001.fcs,Mean : Comp-FITC-A = 234.601394653,235.0,,18575
+Specimen_002_L3k GFP_001.fcs,"Specimen_002_L3k GFP_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",7.3,189.0,18575
+Specimen_002_L3k GFP_001.fcs,"Specimen_002_L3k GFP_001.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",4.24,788.0,18575
+Specimen_002_L3k GFP_001.fcs,"Specimen_002_L3k GFP_001.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",0.68,126.0,18575
+Specimen_002_L3k GFP_001.fcs,"Specimen_002_L3k GFP_001.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",18.8,3487.0,18575
+Specimen_002_L3k GFP_001.fcs,"Specimen_002_L3k GFP_001.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",76.3,14174.0,18575
+Specimen_002_WT-1_001.fcs,Specimen_002_WT-1_001.fcs/Comp-Pacific Blue-A subset,97.0,19391.0,20000
+Specimen_002_WT-1_001.fcs,Specimen_002_WT-1_001.fcs/Lymphocytes,81.0,16194.0,20000
+Specimen_002_WT-1_001.fcs,Specimen_002_WT-1_001.fcs/Lymphocytes/Single Cells,78.8,12759.0,20000
+Specimen_002_WT-1_001.fcs,"Specimen_002_WT-1_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",98.5,12564.0,20000
+Specimen_002_WT-1_001.fcs,Mean : Comp-FITC-A = 2034.14440918,2034.0,,20000
+Specimen_002_WT-1_001.fcs,"Specimen_002_WT-1_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",88.7,11149.0,20000
+Specimen_002_WT-1_001.fcs,"Specimen_002_WT-1_001.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",73.2,14635.0,20000
+Specimen_002_WT-1_001.fcs,"Specimen_002_WT-1_001.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",0.46,93.0,20000
+Specimen_002_WT-1_001.fcs,"Specimen_002_WT-1_001.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",2.46,493.0,20000
+Specimen_002_WT-1_001.fcs,"Specimen_002_WT-1_001.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",23.9,4779.0,20000
+Specimen_002_WT.fcs,Specimen_002_WT.fcs/Comp-Pacific Blue-A subset,97.1,19415.0,20000
+Specimen_002_WT.fcs,Specimen_002_WT.fcs/Lymphocytes,81.8,16369.0,20000
+Specimen_002_WT.fcs,Specimen_002_WT.fcs/Lymphocytes/Single Cells,78.4,12840.0,20000
+Specimen_002_WT.fcs,"Specimen_002_WT.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",98.4,12638.0,20000
+Specimen_002_WT.fcs,Mean : Comp-FITC-A = 2070.915771484,2071.0,,20000
+Specimen_002_WT.fcs,"Specimen_002_WT.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",89.7,11330.0,20000
+Specimen_002_WT.fcs,"Specimen_002_WT.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",74.4,14870.0,20000
+Specimen_002_WT.fcs,"Specimen_002_WT.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",0.48,97.0,20000
+Specimen_002_WT.fcs,"Specimen_002_WT.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",2.38,475.0,20000
+Specimen_002_WT.fcs,"Specimen_002_WT.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",22.8,4558.0,20000
+Specimen_001_CP49 NP4 GFP-1_001.fcs,Specimen_001_CP49 NP4 GFP-1_001.fcs/Comp-Pacific Blue-A subset,82.7,16544.0,20000
+Specimen_001_CP49 NP4 GFP-1_001.fcs,Specimen_001_CP49 NP4 GFP-1_001.fcs/Lymphocytes,77.6,15523.0,20000
+Specimen_001_CP49 NP4 GFP-1_001.fcs,Specimen_001_CP49 NP4 GFP-1_001.fcs/Lymphocytes/Single Cells,61.8,9586.0,20000
+Specimen_001_CP49 NP4 GFP-1_001.fcs,"Specimen_001_CP49 NP4 GFP-1_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",83.7,8021.0,20000
+Specimen_001_CP49 NP4 GFP-1_001.fcs,Mean : Comp-FITC-A = 783.220581055,783.0,,20000
+Specimen_001_CP49 NP4 GFP-1_001.fcs,"Specimen_001_CP49 NP4 GFP-1_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",26.5,2127.0,20000
+Specimen_001_CP49 NP4 GFP-1_001.fcs,"Specimen_001_CP49 NP4 GFP-1_001.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",34.2,6842.0,20000
+Specimen_001_CP49 NP4 GFP-1_001.fcs,"Specimen_001_CP49 NP4 GFP-1_001.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",2.31,462.0,20000
+Specimen_001_CP49 NP4 GFP-1_001.fcs,"Specimen_001_CP49 NP4 GFP-1_001.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",14.4,2871.0,20000
+Specimen_001_CP49 NP4 GFP-1_001.fcs,"Specimen_001_CP49 NP4 GFP-1_001.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",49.1,9825.0,20000
+Specimen_001_CP49 NP4 GFP_001.fcs,Specimen_001_CP49 NP4 GFP_001.fcs/Comp-Pacific Blue-A subset,79.5,15909.0,20000
+Specimen_001_CP49 NP4 GFP_001.fcs,Specimen_001_CP49 NP4 GFP_001.fcs/Lymphocytes,75.0,14992.0,20000
+Specimen_001_CP49 NP4 GFP_001.fcs,Specimen_001_CP49 NP4 GFP_001.fcs/Lymphocytes/Single Cells,65.6,9832.0,20000
+Specimen_001_CP49 NP4 GFP_001.fcs,"Specimen_001_CP49 NP4 GFP_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",81.5,8014.0,20000
+Specimen_001_CP49 NP4 GFP_001.fcs,Mean : Comp-FITC-A = 788.947753906,789.0,,20000
+Specimen_001_CP49 NP4 GFP_001.fcs,"Specimen_001_CP49 NP4 GFP_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",26.8,2150.0,20000
+Specimen_001_CP49 NP4 GFP_001.fcs,"Specimen_001_CP49 NP4 GFP_001.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",28.6,5727.0,20000
+Specimen_001_CP49 NP4 GFP_001.fcs,"Specimen_001_CP49 NP4 GFP_001.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",1.99,399.0,20000
+Specimen_001_CP49 NP4 GFP_001.fcs,"Specimen_001_CP49 NP4 GFP_001.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",18.1,3610.0,20000
+Specimen_001_CP49 NP4 GFP_001.fcs,"Specimen_001_CP49 NP4 GFP_001.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",51.3,10264.0,20000
+Specimen_001_CP49 NP6 GFP_001.fcs,Specimen_001_CP49 NP6 GFP_001.fcs/Comp-Pacific Blue-A subset,56.5,11300.0,20000
+Specimen_001_CP49 NP6 GFP_001.fcs,Specimen_001_CP49 NP6 GFP_001.fcs/Lymphocytes,46.6,9316.0,20000
+Specimen_001_CP49 NP6 GFP_001.fcs,Specimen_001_CP49 NP6 GFP_001.fcs/Lymphocytes/Single Cells,76.7,7143.0,20000
+Specimen_001_CP49 NP6 GFP_001.fcs,"Specimen_001_CP49 NP6 GFP_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",49.5,3535.0,20000
+Specimen_001_CP49 NP6 GFP_001.fcs,Mean : Comp-FITC-A = 210.66116333,211.0,,20000
+Specimen_001_CP49 NP6 GFP_001.fcs,"Specimen_001_CP49 NP6 GFP_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",6.08,215.0,20000
+Specimen_001_CP49 NP6 GFP_001.fcs,"Specimen_001_CP49 NP6 GFP_001.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",6.73,1345.0,20000
+Specimen_001_CP49 NP6 GFP_001.fcs,"Specimen_001_CP49 NP6 GFP_001.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",3.61,722.0,20000
+Specimen_001_CP49 NP6 GFP_001.fcs,"Specimen_001_CP49 NP6 GFP_001.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",39.2,7850.0,20000
+Specimen_001_CP49 NP6 GFP_001.fcs,"Specimen_001_CP49 NP6 GFP_001.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",50.4,10083.0,20000
+Specimen_001_CP49 NP6 GFP_002.fcs,Specimen_001_CP49 NP6 GFP_002.fcs/Comp-Pacific Blue-A subset,56.4,8730.0,15491
+Specimen_001_CP49 NP6 GFP_002.fcs,Specimen_001_CP49 NP6 GFP_002.fcs/Lymphocytes,40.2,6235.0,15491
+Specimen_001_CP49 NP6 GFP_002.fcs,Specimen_001_CP49 NP6 GFP_002.fcs/Lymphocytes/Single Cells,80.5,5020.0,15491
+Specimen_001_CP49 NP6 GFP_002.fcs,"Specimen_001_CP49 NP6 GFP_002.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",48.4,2429.0,15491
+Specimen_001_CP49 NP6 GFP_002.fcs,Mean : Comp-FITC-A = 180.380767822,180.0,,15491
+Specimen_001_CP49 NP6 GFP_002.fcs,"Specimen_001_CP49 NP6 GFP_002.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",5.31,129.0,15491
+Specimen_001_CP49 NP6 GFP_002.fcs,"Specimen_001_CP49 NP6 GFP_002.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",4.9,759.0,15491
+Specimen_001_CP49 NP6 GFP_002.fcs,"Specimen_001_CP49 NP6 GFP_002.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",2.63,408.0,15491
+Specimen_001_CP49 NP6 GFP_002.fcs,"Specimen_001_CP49 NP6 GFP_002.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",40.2,6235.0,15491
+Specimen_001_CP49 NP6 GFP_002.fcs,"Specimen_001_CP49 NP6 GFP_002.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",52.2,8089.0,15491
+Specimen_001_CP49 NP10 GFP-1_002.fcs,Specimen_001_CP49 NP10 GFP-1_002.fcs/Comp-Pacific Blue-A subset,56.4,11282.0,20000
+Specimen_001_CP49 NP10 GFP-1_002.fcs,Specimen_001_CP49 NP10 GFP-1_002.fcs/Lymphocytes,48.4,9675.0,20000
+Specimen_001_CP49 NP10 GFP-1_002.fcs,Specimen_001_CP49 NP10 GFP-1_002.fcs/Lymphocytes/Single Cells,75.4,7296.0,20000
+Specimen_001_CP49 NP10 GFP-1_002.fcs,"Specimen_001_CP49 NP10 GFP-1_002.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",50.0,3647.0,20000
+Specimen_001_CP49 NP10 GFP-1_002.fcs,Mean : Comp-FITC-A = 166.356781006,166.0,,20000
+Specimen_001_CP49 NP10 GFP-1_002.fcs,"Specimen_001_CP49 NP10 GFP-1_002.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",5.1,186.0,20000
+Specimen_001_CP49 NP10 GFP-1_002.fcs,"Specimen_001_CP49 NP10 GFP-1_002.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",7.56,1511.0,20000
+Specimen_001_CP49 NP10 GFP-1_002.fcs,"Specimen_001_CP49 NP10 GFP-1_002.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",3.6,719.0,20000
+Specimen_001_CP49 NP10 GFP-1_002.fcs,"Specimen_001_CP49 NP10 GFP-1_002.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",39.4,7871.0,20000
+Specimen_001_CP49 NP10 GFP-1_002.fcs,"Specimen_001_CP49 NP10 GFP-1_002.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",49.5,9899.0,20000
+Specimen_001_CP49 NP10 GFP_001.fcs,Specimen_001_CP49 NP10 GFP_001.fcs/Comp-Pacific Blue-A subset,58.0,10433.0,17998
+Specimen_001_CP49 NP10 GFP_001.fcs,Specimen_001_CP49 NP10 GFP_001.fcs/Lymphocytes,41.2,7417.0,17998
+Specimen_001_CP49 NP10 GFP_001.fcs,Specimen_001_CP49 NP10 GFP_001.fcs/Lymphocytes/Single Cells,78.3,5805.0,17998
+Specimen_001_CP49 NP10 GFP_001.fcs,"Specimen_001_CP49 NP10 GFP_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",47.3,2746.0,17998
+Specimen_001_CP49 NP10 GFP_001.fcs,Mean : Comp-FITC-A = 185.899154663,186.0,,17998
+Specimen_001_CP49 NP10 GFP_001.fcs,"Specimen_001_CP49 NP10 GFP_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",5.83,160.0,17998
+Specimen_001_CP49 NP10 GFP_001.fcs,"Specimen_001_CP49 NP10 GFP_001.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",5.36,964.0,17998
+Specimen_001_CP49 NP10 GFP_001.fcs,"Specimen_001_CP49 NP10 GFP_001.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",2.93,528.0,17998
+Specimen_001_CP49 NP10 GFP_001.fcs,"Specimen_001_CP49 NP10 GFP_001.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",38.2,6876.0,17998
+Specimen_001_CP49 NP10 GFP_001.fcs,"Specimen_001_CP49 NP10 GFP_001.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",53.5,9630.0,17998
+Specimen_001_CP49 PBA26 NP4 GFP-1.fcs,Specimen_001_CP49 PBA26 NP4 GFP-1.fcs/Comp-Pacific Blue-A subset,89.8,17955.0,20000
+Specimen_001_CP49 PBA26 NP4 GFP-1.fcs,Specimen_001_CP49 PBA26 NP4 GFP-1.fcs/Lymphocytes,86.4,17284.0,20000
+Specimen_001_CP49 PBA26 NP4 GFP-1.fcs,Specimen_001_CP49 PBA26 NP4 GFP-1.fcs/Lymphocytes/Single Cells,65.2,11263.0,20000
+Specimen_001_CP49 PBA26 NP4 GFP-1.fcs,"Specimen_001_CP49 PBA26 NP4 GFP-1.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",92.3,10393.0,20000
+Specimen_001_CP49 PBA26 NP4 GFP-1.fcs,Mean : Comp-FITC-A = 1523.43371582,1523.0,,20000
+Specimen_001_CP49 PBA26 NP4 GFP-1.fcs,"Specimen_001_CP49 PBA26 NP4 GFP-1.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",51.1,5312.0,20000
+Specimen_001_CP49 PBA26 NP4 GFP-1.fcs,"Specimen_001_CP49 PBA26 NP4 GFP-1.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",53.8,10767.0,20000
+Specimen_001_CP49 PBA26 NP4 GFP-1.fcs,"Specimen_001_CP49 PBA26 NP4 GFP-1.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",1.64,327.0,20000
+Specimen_001_CP49 PBA26 NP4 GFP-1.fcs,"Specimen_001_CP49 PBA26 NP4 GFP-1.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",8.27,1653.0,20000
+Specimen_001_CP49 PBA26 NP4 GFP-1.fcs,"Specimen_001_CP49 PBA26 NP4 GFP-1.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",36.3,7253.0,20000
+Specimen_001_CP49 PBA26 NP4 GFP.fcs,Specimen_001_CP49 PBA26 NP4 GFP.fcs/Comp-Pacific Blue-A subset,89.9,17977.0,20000
+Specimen_001_CP49 PBA26 NP4 GFP.fcs,Specimen_001_CP49 PBA26 NP4 GFP.fcs/Lymphocytes,86.0,17200.0,20000
+Specimen_001_CP49 PBA26 NP4 GFP.fcs,Specimen_001_CP49 PBA26 NP4 GFP.fcs/Lymphocytes/Single Cells,64.8,11148.0,20000
+Specimen_001_CP49 PBA26 NP4 GFP.fcs,"Specimen_001_CP49 PBA26 NP4 GFP.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",92.4,10300.0,20000
+Specimen_001_CP49 PBA26 NP4 GFP.fcs,Mean : Comp-FITC-A = 1547.293945312,1547.0,,20000
+Specimen_001_CP49 PBA26 NP4 GFP.fcs,"Specimen_001_CP49 PBA26 NP4 GFP.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",51.8,5331.0,20000
+Specimen_001_CP49 PBA26 NP4 GFP.fcs,"Specimen_001_CP49 PBA26 NP4 GFP.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",54.1,10830.0,20000
+Specimen_001_CP49 PBA26 NP4 GFP.fcs,"Specimen_001_CP49 PBA26 NP4 GFP.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",1.88,376.0,20000
+Specimen_001_CP49 PBA26 NP4 GFP.fcs,"Specimen_001_CP49 PBA26 NP4 GFP.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",7.83,1566.0,20000
+Specimen_001_CP49 PBA26 NP4 GFP.fcs,"Specimen_001_CP49 PBA26 NP4 GFP.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",36.1,7228.0,20000
+Specimen_001_CP49 PBA26 NP6 GFP.fcs,Specimen_001_CP49 PBA26 NP6 GFP.fcs/Comp-Pacific Blue-A subset,84.1,16825.0,20000
+Specimen_001_CP49 PBA26 NP6 GFP.fcs,Specimen_001_CP49 PBA26 NP6 GFP.fcs/Lymphocytes,81.2,16238.0,20000
+Specimen_001_CP49 PBA26 NP6 GFP.fcs,Specimen_001_CP49 PBA26 NP6 GFP.fcs/Lymphocytes/Single Cells,64.3,10434.0,20000
+Specimen_001_CP49 PBA26 NP6 GFP.fcs,"Specimen_001_CP49 PBA26 NP6 GFP.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",88.8,9265.0,20000
+Specimen_001_CP49 PBA26 NP6 GFP.fcs,Mean : Comp-FITC-A = 1383.424194336,1383.0,,20000
+Specimen_001_CP49 PBA26 NP6 GFP.fcs,"Specimen_001_CP49 PBA26 NP6 GFP.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",49.8,4613.0,20000
+Specimen_001_CP49 PBA26 NP6 GFP.fcs,"Specimen_001_CP49 PBA26 NP6 GFP.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",51.0,10191.0,20000
+Specimen_001_CP49 PBA26 NP6 GFP.fcs,"Specimen_001_CP49 PBA26 NP6 GFP.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",1.94,388.0,20000
+Specimen_001_CP49 PBA26 NP6 GFP.fcs,"Specimen_001_CP49 PBA26 NP6 GFP.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",13.5,2704.0,20000
+Specimen_001_CP49 PBA26 NP6 GFP.fcs,"Specimen_001_CP49 PBA26 NP6 GFP.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",33.6,6717.0,20000
+Specimen_001_CP49 PBA26 NP6 GFP1.fcs,Specimen_001_CP49 PBA26 NP6 GFP1.fcs/Comp-Pacific Blue-A subset,83.7,16737.0,20000
+Specimen_001_CP49 PBA26 NP6 GFP1.fcs,Specimen_001_CP49 PBA26 NP6 GFP1.fcs/Lymphocytes,81.2,16245.0,20000
+Specimen_001_CP49 PBA26 NP6 GFP1.fcs,Specimen_001_CP49 PBA26 NP6 GFP1.fcs/Lymphocytes/Single Cells,65.4,10621.0,20000
+Specimen_001_CP49 PBA26 NP6 GFP1.fcs,"Specimen_001_CP49 PBA26 NP6 GFP1.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",88.4,9392.0,20000
+Specimen_001_CP49 PBA26 NP6 GFP1.fcs,Mean : Comp-FITC-A = 1295.28527832,1295.0,,20000
+Specimen_001_CP49 PBA26 NP6 GFP1.fcs,"Specimen_001_CP49 PBA26 NP6 GFP1.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",48.5,4554.0,20000
+Specimen_001_CP49 PBA26 NP6 GFP1.fcs,"Specimen_001_CP49 PBA26 NP6 GFP1.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",48.7,9740.0,20000
+Specimen_001_CP49 PBA26 NP6 GFP1.fcs,"Specimen_001_CP49 PBA26 NP6 GFP1.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",1.82,365.0,20000
+Specimen_001_CP49 PBA26 NP6 GFP1.fcs,"Specimen_001_CP49 PBA26 NP6 GFP1.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",14.1,2824.0,20000
+Specimen_001_CP49 PBA26 NP6 GFP1.fcs,"Specimen_001_CP49 PBA26 NP6 GFP1.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",35.4,7071.0,20000
+Specimen_001_CP49 PBA26 NP10 GFP-1.fcs,Specimen_001_CP49 PBA26 NP10 GFP-1.fcs/Comp-Pacific Blue-A subset,62.8,7574.0,12066
+Specimen_001_CP49 PBA26 NP10 GFP-1.fcs,Specimen_001_CP49 PBA26 NP10 GFP-1.fcs/Lymphocytes,56.2,6787.0,12066
+Specimen_001_CP49 PBA26 NP10 GFP-1.fcs,Specimen_001_CP49 PBA26 NP10 GFP-1.fcs/Lymphocytes/Single Cells,76.7,5206.0,12066
+Specimen_001_CP49 PBA26 NP10 GFP-1.fcs,"Specimen_001_CP49 PBA26 NP10 GFP-1.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",69.2,3600.0,12066
+Specimen_001_CP49 PBA26 NP10 GFP-1.fcs,Mean : Comp-FITC-A = 208.973907471,209.0,,12066
+Specimen_001_CP49 PBA26 NP10 GFP-1.fcs,"Specimen_001_CP49 PBA26 NP10 GFP-1.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",7.0,252.0,12066
+Specimen_001_CP49 PBA26 NP10 GFP-1.fcs,"Specimen_001_CP49 PBA26 NP10 GFP-1.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",8.98,1083.0,12066
+Specimen_001_CP49 PBA26 NP10 GFP-1.fcs,"Specimen_001_CP49 PBA26 NP10 GFP-1.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",2.69,325.0,12066
+Specimen_001_CP49 PBA26 NP10 GFP-1.fcs,"Specimen_001_CP49 PBA26 NP10 GFP-1.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",33.9,4086.0,12066
+Specimen_001_CP49 PBA26 NP10 GFP-1.fcs,"Specimen_001_CP49 PBA26 NP10 GFP-1.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",54.5,6572.0,12066
+Specimen_001_CP49 PBA26 NP10 GFP.fcs,Specimen_001_CP49 PBA26 NP10 GFP.fcs/Comp-Pacific Blue-A subset,64.6,12911.0,20000
+Specimen_001_CP49 PBA26 NP10 GFP.fcs,Specimen_001_CP49 PBA26 NP10 GFP.fcs/Lymphocytes,61.1,12218.0,20000
+Specimen_001_CP49 PBA26 NP10 GFP.fcs,Specimen_001_CP49 PBA26 NP10 GFP.fcs/Lymphocytes/Single Cells,72.6,8874.0,20000
+Specimen_001_CP49 PBA26 NP10 GFP.fcs,"Specimen_001_CP49 PBA26 NP10 GFP.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",71.4,6340.0,20000
+Specimen_001_CP49 PBA26 NP10 GFP.fcs,Mean : Comp-FITC-A = 228.168884277,228.0,,20000
+Specimen_001_CP49 PBA26 NP10 GFP.fcs,"Specimen_001_CP49 PBA26 NP10 GFP.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",7.6,482.0,20000
+Specimen_001_CP49 PBA26 NP10 GFP.fcs,"Specimen_001_CP49 PBA26 NP10 GFP.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",12.1,2423.0,20000
+Specimen_001_CP49 PBA26 NP10 GFP.fcs,"Specimen_001_CP49 PBA26 NP10 GFP.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",3.42,684.0,20000
+Specimen_001_CP49 PBA26 NP10 GFP.fcs,"Specimen_001_CP49 PBA26 NP10 GFP.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",31.3,6261.0,20000
+Specimen_001_CP49 PBA26 NP10 GFP.fcs,"Specimen_001_CP49 PBA26 NP10 GFP.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",53.2,10632.0,20000
+Specimen_001_CP49PBA10 NP4 GFP-1.fcs,Specimen_001_CP49PBA10 NP4 GFP-1.fcs/Comp-Pacific Blue-A subset,89.1,17826.0,20000
+Specimen_001_CP49PBA10 NP4 GFP-1.fcs,Specimen_001_CP49PBA10 NP4 GFP-1.fcs/Lymphocytes,82.5,16501.0,20000
+Specimen_001_CP49PBA10 NP4 GFP-1.fcs,Specimen_001_CP49PBA10 NP4 GFP-1.fcs/Lymphocytes/Single Cells,63.7,10512.0,20000
+Specimen_001_CP49PBA10 NP4 GFP-1.fcs,"Specimen_001_CP49PBA10 NP4 GFP-1.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",91.8,9655.0,20000
+Specimen_001_CP49PBA10 NP4 GFP-1.fcs,Mean : Comp-FITC-A = 3097.112792969,3097.0,,20000
+Specimen_001_CP49PBA10 NP4 GFP-1.fcs,"Specimen_001_CP49PBA10 NP4 GFP-1.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",89.2,8612.0,20000
+Specimen_001_CP49PBA10 NP4 GFP-1.fcs,"Specimen_001_CP49PBA10 NP4 GFP-1.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",75.1,15027.0,20000
+Specimen_001_CP49PBA10 NP4 GFP-1.fcs,"Specimen_001_CP49PBA10 NP4 GFP-1.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",3.42,684.0,20000
+Specimen_001_CP49PBA10 NP4 GFP-1.fcs,"Specimen_001_CP49PBA10 NP4 GFP-1.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",6.91,1381.0,20000
+Specimen_001_CP49PBA10 NP4 GFP-1.fcs,"Specimen_001_CP49PBA10 NP4 GFP-1.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",14.5,2908.0,20000
+Specimen_001_CP49PBA10 NP4 GFP.fcs,Specimen_001_CP49PBA10 NP4 GFP.fcs/Comp-Pacific Blue-A subset,89.9,17982.0,20000
+Specimen_001_CP49PBA10 NP4 GFP.fcs,Specimen_001_CP49PBA10 NP4 GFP.fcs/Lymphocytes,82.1,16414.0,20000
+Specimen_001_CP49PBA10 NP4 GFP.fcs,Specimen_001_CP49PBA10 NP4 GFP.fcs/Lymphocytes/Single Cells,62.7,10298.0,20000
+Specimen_001_CP49PBA10 NP4 GFP.fcs,"Specimen_001_CP49PBA10 NP4 GFP.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",92.1,9483.0,20000
+Specimen_001_CP49PBA10 NP4 GFP.fcs,Mean : Comp-FITC-A = 3087.766845703,3088.0,,20000
+Specimen_001_CP49PBA10 NP4 GFP.fcs,"Specimen_001_CP49PBA10 NP4 GFP.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",89.1,8447.0,20000
+Specimen_001_CP49PBA10 NP4 GFP.fcs,"Specimen_001_CP49PBA10 NP4 GFP.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",75.8,15155.0,20000
+Specimen_001_CP49PBA10 NP4 GFP.fcs,"Specimen_001_CP49PBA10 NP4 GFP.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",3.28,656.0,20000
+Specimen_001_CP49PBA10 NP4 GFP.fcs,"Specimen_001_CP49PBA10 NP4 GFP.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",6.37,1273.0,20000
+Specimen_001_CP49PBA10 NP4 GFP.fcs,"Specimen_001_CP49PBA10 NP4 GFP.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",14.6,2916.0,20000
+Specimen_001_CP49PBA10 NP6 GFP-1.fcs,Specimen_001_CP49PBA10 NP6 GFP-1.fcs/Comp-Pacific Blue-A subset,86.1,17229.0,20005
+Specimen_001_CP49PBA10 NP6 GFP-1.fcs,Specimen_001_CP49PBA10 NP6 GFP-1.fcs/Lymphocytes,84.8,16972.0,20005
+Specimen_001_CP49PBA10 NP6 GFP-1.fcs,Specimen_001_CP49PBA10 NP6 GFP-1.fcs/Lymphocytes/Single Cells,67.5,11455.0,20005
+Specimen_001_CP49PBA10 NP6 GFP-1.fcs,"Specimen_001_CP49PBA10 NP6 GFP-1.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",88.6,10147.0,20005
+Specimen_001_CP49PBA10 NP6 GFP-1.fcs,Mean : Comp-FITC-A = 2427.225830078,2427.0,,20005
+Specimen_001_CP49PBA10 NP6 GFP-1.fcs,"Specimen_001_CP49PBA10 NP6 GFP-1.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",78.4,7954.0,20005
+Specimen_001_CP49PBA10 NP6 GFP-1.fcs,"Specimen_001_CP49PBA10 NP6 GFP-1.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",68.7,13753.0,20005
+Specimen_001_CP49PBA10 NP6 GFP-1.fcs,"Specimen_001_CP49PBA10 NP6 GFP-1.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",2.63,527.0,20005
+Specimen_001_CP49PBA10 NP6 GFP-1.fcs,"Specimen_001_CP49PBA10 NP6 GFP-1.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",10.9,2177.0,20005
+Specimen_001_CP49PBA10 NP6 GFP-1.fcs,"Specimen_001_CP49PBA10 NP6 GFP-1.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",17.7,3548.0,20005
+Specimen_001_CP49PBA10 NP6 GFP_0011.fcs,Specimen_001_CP49PBA10 NP6 GFP_0011.fcs/Comp-Pacific Blue-A subset,87.2,17436.0,20000
+Specimen_001_CP49PBA10 NP6 GFP_0011.fcs,Specimen_001_CP49PBA10 NP6 GFP_0011.fcs/Lymphocytes,85.1,17013.0,20000
+Specimen_001_CP49PBA10 NP6 GFP_0011.fcs,Specimen_001_CP49PBA10 NP6 GFP_0011.fcs/Lymphocytes/Single Cells,64.3,10933.0,20000
+Specimen_001_CP49PBA10 NP6 GFP_0011.fcs,"Specimen_001_CP49PBA10 NP6 GFP_0011.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",88.9,9724.0,20000
+Specimen_001_CP49PBA10 NP6 GFP_0011.fcs,Mean : Comp-FITC-A = 2461.652099609,2462.0,,20000
+Specimen_001_CP49PBA10 NP6 GFP_0011.fcs,"Specimen_001_CP49PBA10 NP6 GFP_0011.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",78.5,7636.0,20000
+Specimen_001_CP49PBA10 NP6 GFP_0011.fcs,"Specimen_001_CP49PBA10 NP6 GFP_0011.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",70.8,14166.0,20000
+Specimen_001_CP49PBA10 NP6 GFP_0011.fcs,"Specimen_001_CP49PBA10 NP6 GFP_0011.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",2.89,578.0,20000
+Specimen_001_CP49PBA10 NP6 GFP_0011.fcs,"Specimen_001_CP49PBA10 NP6 GFP_0011.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",9.59,1917.0,20000
+Specimen_001_CP49PBA10 NP6 GFP_0011.fcs,"Specimen_001_CP49PBA10 NP6 GFP_0011.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",16.7,3339.0,20000
+Specimen_001_CP49PBA10 NP10 GFP-1.fcs,Specimen_001_CP49PBA10 NP10 GFP-1.fcs/Comp-Pacific Blue-A subset,54.3,4915.0,9047
+Specimen_001_CP49PBA10 NP10 GFP-1.fcs,Specimen_001_CP49PBA10 NP10 GFP-1.fcs/Lymphocytes,42.2,3822.0,9047
+Specimen_001_CP49PBA10 NP10 GFP-1.fcs,Specimen_001_CP49PBA10 NP10 GFP-1.fcs/Lymphocytes/Single Cells,80.2,3065.0,9047
+Specimen_001_CP49PBA10 NP10 GFP-1.fcs,"Specimen_001_CP49PBA10 NP10 GFP-1.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",52.8,1619.0,9047
+Specimen_001_CP49PBA10 NP10 GFP-1.fcs,Mean : Comp-FITC-A = 185.771636963,186.0,,9047
+Specimen_001_CP49PBA10 NP10 GFP-1.fcs,"Specimen_001_CP49PBA10 NP10 GFP-1.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",5.37,87.0,9047
+Specimen_001_CP49PBA10 NP10 GFP-1.fcs,"Specimen_001_CP49PBA10 NP10 GFP-1.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",4.99,451.0,9047
+Specimen_001_CP49PBA10 NP10 GFP-1.fcs,"Specimen_001_CP49PBA10 NP10 GFP-1.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",3.47,314.0,9047
+Specimen_001_CP49PBA10 NP10 GFP-1.fcs,"Specimen_001_CP49PBA10 NP10 GFP-1.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",41.5,3755.0,9047
+Specimen_001_CP49PBA10 NP10 GFP-1.fcs,"Specimen_001_CP49PBA10 NP10 GFP-1.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",50.0,4527.0,9047
+Specimen_001_CP49PBA10 NP10 GFP.fcs,Specimen_001_CP49PBA10 NP10 GFP.fcs/Comp-Pacific Blue-A subset,54.1,10824.0,20000
+Specimen_001_CP49PBA10 NP10 GFP.fcs,Specimen_001_CP49PBA10 NP10 GFP.fcs/Lymphocytes,50.3,10070.0,20000
+Specimen_001_CP49PBA10 NP10 GFP.fcs,Specimen_001_CP49PBA10 NP10 GFP.fcs/Lymphocytes/Single Cells,76.1,7665.0,20000
+Specimen_001_CP49PBA10 NP10 GFP.fcs,"Specimen_001_CP49PBA10 NP10 GFP.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",55.4,4249.0,20000
+Specimen_001_CP49PBA10 NP10 GFP.fcs,Mean : Comp-FITC-A = 199.942047119,200.0,,20000
+Specimen_001_CP49PBA10 NP10 GFP.fcs,"Specimen_001_CP49PBA10 NP10 GFP.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",6.28,267.0,20000
+Specimen_001_CP49PBA10 NP10 GFP.fcs,"Specimen_001_CP49PBA10 NP10 GFP.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",7.72,1544.0,20000
+Specimen_001_CP49PBA10 NP10 GFP.fcs,"Specimen_001_CP49PBA10 NP10 GFP.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",3.82,763.0,20000
+Specimen_001_CP49PBA10 NP10 GFP.fcs,"Specimen_001_CP49PBA10 NP10 GFP.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",41.5,8294.0,20000
+Specimen_001_CP49PBA10 NP10 GFP.fcs,"Specimen_001_CP49PBA10 NP10 GFP.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",47.0,9399.0,20000
+Specimen_001_L3k GFP.fcs,Specimen_001_L3k GFP.fcs/Comp-Pacific Blue-A subset,86.6,17328.0,20000
+Specimen_001_L3k GFP.fcs,Specimen_001_L3k GFP.fcs/Lymphocytes,41.0,8199.0,20000
+Specimen_001_L3k GFP.fcs,Specimen_001_L3k GFP.fcs/Lymphocytes/Single Cells,84.4,6921.0,20000
+Specimen_001_L3k GFP.fcs,"Specimen_001_L3k GFP.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",77.1,5336.0,20000
+Specimen_001_L3k GFP.fcs,Mean : Comp-FITC-A = 179.670150757,180.0,,20000
+Specimen_001_L3k GFP.fcs,"Specimen_001_L3k GFP.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",5.85,312.0,20000
+Specimen_001_L3k GFP.fcs,"Specimen_001_L3k GFP.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",6.69,1338.0,20000
+Specimen_001_L3k GFP.fcs,"Specimen_001_L3k GFP.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",2.38,477.0,20000
+Specimen_001_L3k GFP.fcs,"Specimen_001_L3k GFP.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",10.1,2029.0,20000
+Specimen_001_L3k GFP.fcs,"Specimen_001_L3k GFP.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",80.8,16156.0,20000
+Specimen_001_L3k GFP_001.fcs,Specimen_001_L3k GFP_001.fcs/Comp-Pacific Blue-A subset,87.7,17543.0,20004
+Specimen_001_L3k GFP_001.fcs,Specimen_001_L3k GFP_001.fcs/Lymphocytes,37.8,7559.0,20004
+Specimen_001_L3k GFP_001.fcs,Specimen_001_L3k GFP_001.fcs/Lymphocytes/Single Cells,87.3,6596.0,20004
+Specimen_001_L3k GFP_001.fcs,"Specimen_001_L3k GFP_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",76.5,5045.0,20004
+Specimen_001_L3k GFP_001.fcs,Mean : Comp-FITC-A = 186.670059204,187.0,,20004
+Specimen_001_L3k GFP_001.fcs,"Specimen_001_L3k GFP_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",6.09,307.0,20004
+Specimen_001_L3k GFP_001.fcs,"Specimen_001_L3k GFP_001.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",5.29,1058.0,20004
+Specimen_001_L3k GFP_001.fcs,"Specimen_001_L3k GFP_001.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",1.98,397.0,20004
+Specimen_001_L3k GFP_001.fcs,"Specimen_001_L3k GFP_001.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",9.63,1927.0,20004
+Specimen_001_L3k GFP_001.fcs,"Specimen_001_L3k GFP_001.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",83.1,16622.0,20004
+Specimen_001_WT-1_001.fcs,Specimen_001_WT-1_001.fcs/Comp-Pacific Blue-A subset,94.5,18908.0,20000
+Specimen_001_WT-1_001.fcs,Specimen_001_WT-1_001.fcs/Lymphocytes,85.2,17031.0,20000
+Specimen_001_WT-1_001.fcs,Specimen_001_WT-1_001.fcs/Lymphocytes/Single Cells,62.5,10636.0,20000
+Specimen_001_WT-1_001.fcs,"Specimen_001_WT-1_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",95.0,10106.0,20000
+Specimen_001_WT-1_001.fcs,Mean : Comp-FITC-A = 3180.629882812,3181.0,,20000
+Specimen_001_WT-1_001.fcs,"Specimen_001_WT-1_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",89.2,9012.0,20000
+Specimen_001_WT-1_001.fcs,"Specimen_001_WT-1_001.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",77.3,15461.0,20000
+Specimen_001_WT-1_001.fcs,"Specimen_001_WT-1_001.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",1.21,242.0,20000
+Specimen_001_WT-1_001.fcs,"Specimen_001_WT-1_001.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",4.04,808.0,20000
+Specimen_001_WT-1_001.fcs,"Specimen_001_WT-1_001.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",17.4,3489.0,20000
+Specimen_001_WT.fcs,Specimen_001_WT.fcs/Comp-Pacific Blue-A subset,94.9,18974.0,20000
+Specimen_001_WT.fcs,Specimen_001_WT.fcs/Lymphocytes,85.4,17087.0,20000
+Specimen_001_WT.fcs,Specimen_001_WT.fcs/Lymphocytes/Single Cells,60.9,10401.0,20000
+Specimen_001_WT.fcs,"Specimen_001_WT.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",95.3,9914.0,20000
+Specimen_001_WT.fcs,Mean : Comp-FITC-A = 3237.620849609,3238.0,,20000
+Specimen_001_WT.fcs,"Specimen_001_WT.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",89.6,8882.0,20000
+Specimen_001_WT.fcs,"Specimen_001_WT.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",78.2,15647.0,20000
+Specimen_001_WT.fcs,"Specimen_001_WT.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",1.04,209.0,20000
+Specimen_001_WT.fcs,"Specimen_001_WT.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",3.88,776.0,20000
+Specimen_001_WT.fcs,"Specimen_001_WT.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",16.8,3368.0,20000
+Specimen_001_30 percent.fcs,Specimen_001_30 percent.fcs/Comp-Pacific Blue-A subset,87.1,17414.0,20000
+Specimen_001_30 percent.fcs,Specimen_001_30 percent.fcs/Lymphocytes,84.4,16876.0,20000
+Specimen_001_30 percent.fcs,Specimen_001_30 percent.fcs/Lymphocytes/Single Cells,51.4,8666.0,20000
+Specimen_001_30 percent.fcs,"Specimen_001_30 percent.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",89.3,7736.0,20000
+Specimen_001_30 percent.fcs,Mean : Comp-FITC-A = 3547.834960938,3548.0,,20000
+Specimen_001_30 percent.fcs,"Specimen_001_30 percent.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",89.9,6956.0,20000
+Specimen_001_30 percent.fcs,"Specimen_001_30 percent.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",75.3,15061.0,20000
+Specimen_001_30 percent.fcs,"Specimen_001_30 percent.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",5.63,1126.0,20000
+Specimen_001_30 percent.fcs,"Specimen_001_30 percent.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",5.9,1179.0,20000
+Specimen_001_30 percent.fcs,"Specimen_001_30 percent.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",13.2,2634.0,20000
+Specimen_003_CP49 PBA26 NP4 GFP.fcs,Specimen_003_CP49 PBA26 NP4 GFP.fcs/Comp-Pacific Blue-A subset,87.8,13212.0,15050
+Specimen_003_CP49 PBA26 NP4 GFP.fcs,Specimen_003_CP49 PBA26 NP4 GFP.fcs/Lymphocytes,35.3,5316.0,15050
+Specimen_003_CP49 PBA26 NP4 GFP.fcs,Specimen_003_CP49 PBA26 NP4 GFP.fcs/Lymphocytes/Single Cells,80.2,4265.0,15050
+Specimen_003_CP49 PBA26 NP4 GFP.fcs,"Specimen_003_CP49 PBA26 NP4 GFP.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",77.9,3324.0,15050
+Specimen_003_CP49 PBA26 NP4 GFP.fcs,Mean : Comp-FITC-A = 580.585449219,581.0,,15050
+Specimen_003_CP49 PBA26 NP4 GFP.fcs,"Specimen_003_CP49 PBA26 NP4 GFP.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",12.7,423.0,15050
+Specimen_003_CP49 PBA26 NP4 GFP.fcs,"Specimen_003_CP49 PBA26 NP4 GFP.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",10.0,1512.0,15050
+Specimen_003_CP49 PBA26 NP4 GFP.fcs,"Specimen_003_CP49 PBA26 NP4 GFP.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",5.13,772.0,15050
+Specimen_003_CP49 PBA26 NP4 GFP.fcs,"Specimen_003_CP49 PBA26 NP4 GFP.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",5.81,874.0,15050
+Specimen_003_CP49 PBA26 NP4 GFP.fcs,"Specimen_003_CP49 PBA26 NP4 GFP.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",79.0,11892.0,15050
+Specimen_003_CP49 PBA26 NP6 GFP.fcs,Specimen_003_CP49 PBA26 NP6 GFP.fcs/Comp-Pacific Blue-A subset,75.2,10799.0,14352
+Specimen_003_CP49 PBA26 NP6 GFP.fcs,Specimen_003_CP49 PBA26 NP6 GFP.fcs/Lymphocytes,39.6,5678.0,14352
+Specimen_003_CP49 PBA26 NP6 GFP.fcs,Specimen_003_CP49 PBA26 NP6 GFP.fcs/Lymphocytes/Single Cells,73.2,4155.0,14352
+Specimen_003_CP49 PBA26 NP6 GFP.fcs,"Specimen_003_CP49 PBA26 NP6 GFP.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",49.2,2046.0,14352
+Specimen_003_CP49 PBA26 NP6 GFP.fcs,Mean : Comp-FITC-A = 1102.256469727,1102.0,,14352
+Specimen_003_CP49 PBA26 NP6 GFP.fcs,"Specimen_003_CP49 PBA26 NP6 GFP.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",22.3,457.0,14352
+Specimen_003_CP49 PBA26 NP6 GFP.fcs,"Specimen_003_CP49 PBA26 NP6 GFP.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",11.7,1685.0,14352
+Specimen_003_CP49 PBA26 NP6 GFP.fcs,"Specimen_003_CP49 PBA26 NP6 GFP.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",7.25,1041.0,14352
+Specimen_003_CP49 PBA26 NP6 GFP.fcs,"Specimen_003_CP49 PBA26 NP6 GFP.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",14.8,2126.0,14352
+Specimen_003_CP49 PBA26 NP6 GFP.fcs,"Specimen_003_CP49 PBA26 NP6 GFP.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",66.2,9500.0,14352
+Specimen_003_CP49 PBA26 NP10 GFP-1_001.fcs,Specimen_003_CP49 PBA26 NP10 GFP-1_001.fcs/Comp-Pacific Blue-A subset,48.4,9687.0,20000
+Specimen_003_CP49 PBA26 NP10 GFP-1_001.fcs,Specimen_003_CP49 PBA26 NP10 GFP-1_001.fcs/Lymphocytes,30.3,6052.0,20000
+Specimen_003_CP49 PBA26 NP10 GFP-1_001.fcs,Specimen_003_CP49 PBA26 NP10 GFP-1_001.fcs/Lymphocytes/Single Cells,92.9,5621.0,20000
+Specimen_003_CP49 PBA26 NP10 GFP-1_001.fcs,"Specimen_003_CP49 PBA26 NP10 GFP-1_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",13.2,742.0,20000
+Specimen_003_CP49 PBA26 NP10 GFP-1_001.fcs,Mean : Comp-FITC-A = 281.026062012,281.0,,20000
+Specimen_003_CP49 PBA26 NP10 GFP-1_001.fcs,"Specimen_003_CP49 PBA26 NP10 GFP-1_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",4.45,33.0,20000
+Specimen_003_CP49 PBA26 NP10 GFP-1_001.fcs,"Specimen_003_CP49 PBA26 NP10 GFP-1_001.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",1.47,295.0,20000
+Specimen_003_CP49 PBA26 NP10 GFP-1_001.fcs,"Specimen_003_CP49 PBA26 NP10 GFP-1_001.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",6.53,1305.0,20000
+Specimen_003_CP49 PBA26 NP10 GFP-1_001.fcs,"Specimen_003_CP49 PBA26 NP10 GFP-1_001.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",41.8,8353.0,20000
+Specimen_003_CP49 PBA26 NP10 GFP-1_001.fcs,"Specimen_003_CP49 PBA26 NP10 GFP-1_001.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",50.2,10047.0,20000
+Specimen_003_CP49 PBA26 NP10 GFP-1_002.fcs,Specimen_003_CP49 PBA26 NP10 GFP-1_002.fcs/Comp-Pacific Blue-A subset,52.2,5385.0,10311
+Specimen_003_CP49 PBA26 NP10 GFP-1_002.fcs,Specimen_003_CP49 PBA26 NP10 GFP-1_002.fcs/Lymphocytes,25.0,2576.0,10311
+Specimen_003_CP49 PBA26 NP10 GFP-1_002.fcs,Specimen_003_CP49 PBA26 NP10 GFP-1_002.fcs/Lymphocytes/Single Cells,94.0,2421.0,10311
+Specimen_003_CP49 PBA26 NP10 GFP-1_002.fcs,"Specimen_003_CP49 PBA26 NP10 GFP-1_002.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",15.8,383.0,10311
+Specimen_003_CP49 PBA26 NP10 GFP-1_002.fcs,Mean : Comp-FITC-A = 195.427368164,195.0,,10311
+Specimen_003_CP49 PBA26 NP10 GFP-1_002.fcs,"Specimen_003_CP49 PBA26 NP10 GFP-1_002.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",4.18,16.0,10311
+Specimen_003_CP49 PBA26 NP10 GFP-1_002.fcs,"Specimen_003_CP49 PBA26 NP10 GFP-1_002.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",1.48,153.0,10311
+Specimen_003_CP49 PBA26 NP10 GFP-1_002.fcs,"Specimen_003_CP49 PBA26 NP10 GFP-1_002.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",4.18,431.0,10311
+Specimen_003_CP49 PBA26 NP10 GFP-1_002.fcs,"Specimen_003_CP49 PBA26 NP10 GFP-1_002.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",39.7,4095.0,10311
+Specimen_003_CP49 PBA26 NP10 GFP-1_002.fcs,"Specimen_003_CP49 PBA26 NP10 GFP-1_002.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",54.6,5632.0,10311
+Specimen_003_CP49 PBA31 NP6 GFP 1.fcs,Specimen_003_CP49 PBA31 NP6 GFP 1.fcs/Comp-Pacific Blue-A subset,83.6,16716.0,20000
+Specimen_003_CP49 PBA31 NP6 GFP 1.fcs,Specimen_003_CP49 PBA31 NP6 GFP 1.fcs/Lymphocytes,41.3,8267.0,20000
+Specimen_003_CP49 PBA31 NP6 GFP 1.fcs,Specimen_003_CP49 PBA31 NP6 GFP 1.fcs/Lymphocytes/Single Cells,69.5,5744.0,20000
+Specimen_003_CP49 PBA31 NP6 GFP 1.fcs,"Specimen_003_CP49 PBA31 NP6 GFP 1.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",72.8,4183.0,20000
+Specimen_003_CP49 PBA31 NP6 GFP 1.fcs,Mean : Comp-FITC-A = 1041.422485352,1041.0,,20000
+Specimen_003_CP49 PBA31 NP6 GFP 1.fcs,"Specimen_003_CP49 PBA31 NP6 GFP 1.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",21.7,907.0,20000
+Specimen_003_CP49 PBA31 NP6 GFP 1.fcs,"Specimen_003_CP49 PBA31 NP6 GFP 1.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",15.0,3009.0,20000
+Specimen_003_CP49 PBA31 NP6 GFP 1.fcs,"Specimen_003_CP49 PBA31 NP6 GFP 1.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",7.7,1539.0,20000
+Specimen_003_CP49 PBA31 NP6 GFP 1.fcs,"Specimen_003_CP49 PBA31 NP6 GFP 1.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",6.97,1394.0,20000
+Specimen_003_CP49 PBA31 NP6 GFP 1.fcs,"Specimen_003_CP49 PBA31 NP6 GFP 1.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",70.3,14058.0,20000
+Specimen_003_CP49PBA31 NP4 GFP-1_001.fcs,Specimen_003_CP49PBA31 NP4 GFP-1_001.fcs/Comp-Pacific Blue-A subset,65.7,4001.0,6088
+Specimen_003_CP49PBA31 NP4 GFP-1_001.fcs,Specimen_003_CP49PBA31 NP4 GFP-1_001.fcs/Lymphocytes,7.69,468.0,6088
+Specimen_003_CP49PBA31 NP4 GFP-1_001.fcs,Specimen_003_CP49PBA31 NP4 GFP-1_001.fcs/Lymphocytes/Single Cells,72.6,340.0,6088
+Specimen_003_CP49PBA31 NP4 GFP-1_001.fcs,"Specimen_003_CP49PBA31 NP4 GFP-1_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",87.9,299.0,6088
+Specimen_003_CP49PBA31 NP4 GFP-1_001.fcs,Mean : Comp-FITC-A = 310.794616699,311.0,,6088
+Specimen_003_CP49PBA31 NP4 GFP-1_001.fcs,"Specimen_003_CP49PBA31 NP4 GFP-1_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",8.36,25.0,6088
+Specimen_003_CP49PBA31 NP4 GFP-1_001.fcs,"Specimen_003_CP49PBA31 NP4 GFP-1_001.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",2.07,126.0,6088
+Specimen_003_CP49PBA31 NP4 GFP-1_001.fcs,"Specimen_003_CP49PBA31 NP4 GFP-1_001.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",1.15,70.0,6088
+Specimen_003_CP49PBA31 NP4 GFP-1_001.fcs,"Specimen_003_CP49PBA31 NP4 GFP-1_001.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",29.4,1788.0,6088
+Specimen_003_CP49PBA31 NP4 GFP-1_001.fcs,"Specimen_003_CP49PBA31 NP4 GFP-1_001.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",67.4,4104.0,6088
+Specimen_003_CP49PBA31 NP4 GFP_001.fcs,Specimen_003_CP49PBA31 NP4 GFP_001.fcs/Comp-Pacific Blue-A subset,89.0,17805.0,20000
+Specimen_003_CP49PBA31 NP4 GFP_001.fcs,Specimen_003_CP49PBA31 NP4 GFP_001.fcs/Lymphocytes,37.1,7426.0,20000
+Specimen_003_CP49PBA31 NP4 GFP_001.fcs,Specimen_003_CP49PBA31 NP4 GFP_001.fcs/Lymphocytes/Single Cells,75.9,5633.0,20000
+Specimen_003_CP49PBA31 NP4 GFP_001.fcs,"Specimen_003_CP49PBA31 NP4 GFP_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",78.9,4442.0,20000
+Specimen_003_CP49PBA31 NP4 GFP_001.fcs,Mean : Comp-FITC-A = 711.167907715,711.0,,20000
+Specimen_003_CP49PBA31 NP4 GFP_001.fcs,"Specimen_003_CP49PBA31 NP4 GFP_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",15.2,675.0,20000
+Specimen_003_CP49PBA31 NP4 GFP_001.fcs,"Specimen_003_CP49PBA31 NP4 GFP_001.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",12.6,2520.0,20000
+Specimen_003_CP49PBA31 NP4 GFP_001.fcs,"Specimen_003_CP49PBA31 NP4 GFP_001.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",5.33,1065.0,20000
+Specimen_003_CP49PBA31 NP4 GFP_001.fcs,"Specimen_003_CP49PBA31 NP4 GFP_001.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",4.44,888.0,20000
+Specimen_003_CP49PBA31 NP4 GFP_001.fcs,"Specimen_003_CP49PBA31 NP4 GFP_001.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",77.6,15527.0,20000
+Specimen_003_CP49PBA31 NP10 GFP-1_002.fcs,Specimen_003_CP49PBA31 NP10 GFP-1_002.fcs/Comp-Pacific Blue-A subset,60.0,7818.0,13030
+Specimen_003_CP49PBA31 NP10 GFP-1_002.fcs,Specimen_003_CP49PBA31 NP10 GFP-1_002.fcs/Lymphocytes,16.4,2135.0,13030
+Specimen_003_CP49PBA31 NP10 GFP-1_002.fcs,Specimen_003_CP49PBA31 NP10 GFP-1_002.fcs/Lymphocytes/Single Cells,86.8,1853.0,13030
+Specimen_003_CP49PBA31 NP10 GFP-1_002.fcs,"Specimen_003_CP49PBA31 NP10 GFP-1_002.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",26.9,498.0,13030
+Specimen_003_CP49PBA31 NP10 GFP-1_002.fcs,Mean : Comp-FITC-A = 124.700393677,125.0,,13030
+Specimen_003_CP49PBA31 NP10 GFP-1_002.fcs,"Specimen_003_CP49PBA31 NP10 GFP-1_002.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",3.82,19.0,13030
+Specimen_003_CP49PBA31 NP10 GFP-1_002.fcs,"Specimen_003_CP49PBA31 NP10 GFP-1_002.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",1.3,169.0,13030
+Specimen_003_CP49PBA31 NP10 GFP-1_002.fcs,"Specimen_003_CP49PBA31 NP10 GFP-1_002.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",2.0,260.0,13030
+Specimen_003_CP49PBA31 NP10 GFP-1_002.fcs,"Specimen_003_CP49PBA31 NP10 GFP-1_002.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",34.2,4461.0,13030
+Specimen_003_CP49PBA31 NP10 GFP-1_002.fcs,"Specimen_003_CP49PBA31 NP10 GFP-1_002.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",62.5,8140.0,13030
+Specimen_003_CP49PBA31 NP10 GFP_002.fcs,Specimen_003_CP49PBA31 NP10 GFP_002.fcs/Comp-Pacific Blue-A subset,47.6,9520.0,20001
+Specimen_003_CP49PBA31 NP10 GFP_002.fcs,Specimen_003_CP49PBA31 NP10 GFP_002.fcs/Lymphocytes,37.8,7551.0,20001
+Specimen_003_CP49PBA31 NP10 GFP_002.fcs,Specimen_003_CP49PBA31 NP10 GFP_002.fcs/Lymphocytes/Single Cells,85.4,6448.0,20001
+Specimen_003_CP49PBA31 NP10 GFP_002.fcs,"Specimen_003_CP49PBA31 NP10 GFP_002.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",16.6,1070.0,20001
+Specimen_003_CP49PBA31 NP10 GFP_002.fcs,Mean : Comp-FITC-A = 266.899932861,267.0,,20001
+Specimen_003_CP49PBA31 NP10 GFP_002.fcs,"Specimen_003_CP49PBA31 NP10 GFP_002.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",8.41,90.0,20001
+Specimen_003_CP49PBA31 NP10 GFP_002.fcs,"Specimen_003_CP49PBA31 NP10 GFP_002.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",2.4,481.0,20001
+Specimen_003_CP49PBA31 NP10 GFP_002.fcs,"Specimen_003_CP49PBA31 NP10 GFP_002.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",6.54,1309.0,20001
+Specimen_003_CP49PBA31 NP10 GFP_002.fcs,"Specimen_003_CP49PBA31 NP10 GFP_002.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",42.6,8512.0,20001
+Specimen_003_CP49PBA31 NP10 GFP_002.fcs,"Specimen_003_CP49PBA31 NP10 GFP_002.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",48.5,9699.0,20001
+Specimen_003_CP49PBA45 NP4 GFP.fcs,Specimen_003_CP49PBA45 NP4 GFP.fcs/Comp-Pacific Blue-A subset,86.9,17374.0,20000
+Specimen_003_CP49PBA45 NP4 GFP.fcs,Specimen_003_CP49PBA45 NP4 GFP.fcs/Lymphocytes,37.0,7410.0,20000
+Specimen_003_CP49PBA45 NP4 GFP.fcs,Specimen_003_CP49PBA45 NP4 GFP.fcs/Lymphocytes/Single Cells,78.0,5782.0,20000
+Specimen_003_CP49PBA45 NP4 GFP.fcs,"Specimen_003_CP49PBA45 NP4 GFP.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",74.7,4317.0,20000
+Specimen_003_CP49PBA45 NP4 GFP.fcs,Mean : Comp-FITC-A = 599.342468262,599.0,,20000
+Specimen_003_CP49PBA45 NP4 GFP.fcs,"Specimen_003_CP49PBA45 NP4 GFP.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",12.9,558.0,20000
+Specimen_003_CP49PBA45 NP4 GFP.fcs,"Specimen_003_CP49PBA45 NP4 GFP.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",10.7,2144.0,20000
+Specimen_003_CP49PBA45 NP4 GFP.fcs,"Specimen_003_CP49PBA45 NP4 GFP.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",5.46,1093.0,20000
+Specimen_003_CP49PBA45 NP4 GFP.fcs,"Specimen_003_CP49PBA45 NP4 GFP.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",6.39,1278.0,20000
+Specimen_003_CP49PBA45 NP4 GFP.fcs,"Specimen_003_CP49PBA45 NP4 GFP.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",77.4,15485.0,20000
+Specimen_003_CP49PBA45 NP6 GFP-1.fcs,Specimen_003_CP49PBA45 NP6 GFP-1.fcs/Comp-Pacific Blue-A subset,73.7,13925.0,18899
+Specimen_003_CP49PBA45 NP6 GFP-1.fcs,Specimen_003_CP49PBA45 NP6 GFP-1.fcs/Lymphocytes,16.5,3109.0,18899
+Specimen_003_CP49PBA45 NP6 GFP-1.fcs,Specimen_003_CP49PBA45 NP6 GFP-1.fcs/Lymphocytes/Single Cells,77.5,2408.0,18899
+Specimen_003_CP49PBA45 NP6 GFP-1.fcs,"Specimen_003_CP49PBA45 NP6 GFP-1.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",79.4,1911.0,18899
+Specimen_003_CP49PBA45 NP6 GFP-1.fcs,Mean : Comp-FITC-A = 635.726379395,636.0,,18899
+Specimen_003_CP49PBA45 NP6 GFP-1.fcs,"Specimen_003_CP49PBA45 NP6 GFP-1.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",14.1,270.0,18899
+Specimen_003_CP49PBA45 NP6 GFP-1.fcs,"Specimen_003_CP49PBA45 NP6 GFP-1.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",4.71,891.0,18899
+Specimen_003_CP49PBA45 NP6 GFP-1.fcs,"Specimen_003_CP49PBA45 NP6 GFP-1.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",1.89,357.0,18899
+Specimen_003_CP49PBA45 NP6 GFP-1.fcs,"Specimen_003_CP49PBA45 NP6 GFP-1.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",21.4,4047.0,18899
+Specimen_003_CP49PBA45 NP6 GFP-1.fcs,"Specimen_003_CP49PBA45 NP6 GFP-1.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",72.0,13604.0,18899
+Specimen_003_CP49PBA45 NP6 GFP_0011.fcs,Specimen_003_CP49PBA45 NP6 GFP_0011.fcs/Comp-Pacific Blue-A subset,84.6,16918.0,20000
+Specimen_003_CP49PBA45 NP6 GFP_0011.fcs,Specimen_003_CP49PBA45 NP6 GFP_0011.fcs/Lymphocytes,43.0,8590.0,20000
+Specimen_003_CP49PBA45 NP6 GFP_0011.fcs,Specimen_003_CP49PBA45 NP6 GFP_0011.fcs/Lymphocytes/Single Cells,68.6,5895.0,20000
+Specimen_003_CP49PBA45 NP6 GFP_0011.fcs,"Specimen_003_CP49PBA45 NP6 GFP_0011.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",75.8,4467.0,20000
+Specimen_003_CP49PBA45 NP6 GFP_0011.fcs,Mean : Comp-FITC-A = 1048.673583984,1049.0,,20000
+Specimen_003_CP49PBA45 NP6 GFP_0011.fcs,"Specimen_003_CP49PBA45 NP6 GFP_0011.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",22.2,992.0,20000
+Specimen_003_CP49PBA45 NP6 GFP_0011.fcs,"Specimen_003_CP49PBA45 NP6 GFP_0011.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",17.0,3398.0,20000
+Specimen_003_CP49PBA45 NP6 GFP_0011.fcs,"Specimen_003_CP49PBA45 NP6 GFP_0011.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",8.1,1620.0,20000
+Specimen_003_CP49PBA45 NP6 GFP_0011.fcs,"Specimen_003_CP49PBA45 NP6 GFP_0011.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",5.76,1152.0,20000
+Specimen_003_CP49PBA45 NP6 GFP_0011.fcs,"Specimen_003_CP49PBA45 NP6 GFP_0011.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",69.2,13830.0,20000
+Specimen_003_CP49PBA45 NP10 GFP-1_001.fcs,Specimen_003_CP49PBA45 NP10 GFP-1_001.fcs/Comp-Pacific Blue-A subset,57.0,11406.0,20000
+Specimen_003_CP49PBA45 NP10 GFP-1_001.fcs,Specimen_003_CP49PBA45 NP10 GFP-1_001.fcs/Lymphocytes,32.7,6536.0,20000
+Specimen_003_CP49PBA45 NP10 GFP-1_001.fcs,Specimen_003_CP49PBA45 NP10 GFP-1_001.fcs/Lymphocytes/Single Cells,84.8,5545.0,20000
+Specimen_003_CP49PBA45 NP10 GFP-1_001.fcs,"Specimen_003_CP49PBA45 NP10 GFP-1_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",23.5,1305.0,20000
+Specimen_003_CP49PBA45 NP10 GFP-1_001.fcs,Mean : Comp-FITC-A = 241.597167969,242.0,,20000
+Specimen_003_CP49PBA45 NP10 GFP-1_001.fcs,"Specimen_003_CP49PBA45 NP10 GFP-1_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",6.21,81.0,20000
+Specimen_003_CP49PBA45 NP10 GFP-1_001.fcs,"Specimen_003_CP49PBA45 NP10 GFP-1_001.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",2.37,474.0,20000
+Specimen_003_CP49PBA45 NP10 GFP-1_001.fcs,"Specimen_003_CP49PBA45 NP10 GFP-1_001.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",5.37,1073.0,20000
+Specimen_003_CP49PBA45 NP10 GFP-1_001.fcs,"Specimen_003_CP49PBA45 NP10 GFP-1_001.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",34.7,6933.0,20000
+Specimen_003_CP49PBA45 NP10 GFP-1_001.fcs,"Specimen_003_CP49PBA45 NP10 GFP-1_001.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",57.6,11520.0,20000
+Specimen_003_CP76PBA3 NP4 GFP-1_007.fcs,Specimen_003_CP76PBA3 NP4 GFP-1_007.fcs/Comp-Pacific Blue-A subset,87.1,17424.0,20000
+Specimen_003_CP76PBA3 NP4 GFP-1_007.fcs,Specimen_003_CP76PBA3 NP4 GFP-1_007.fcs/Lymphocytes,37.6,7524.0,20000
+Specimen_003_CP76PBA3 NP4 GFP-1_007.fcs,Specimen_003_CP76PBA3 NP4 GFP-1_007.fcs/Lymphocytes/Single Cells,81.5,6131.0,20000
+Specimen_003_CP76PBA3 NP4 GFP-1_007.fcs,"Specimen_003_CP76PBA3 NP4 GFP-1_007.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",70.5,4321.0,20000
+Specimen_003_CP76PBA3 NP4 GFP-1_007.fcs,Mean : Comp-FITC-A = 727.151672363,727.0,,20000
+Specimen_003_CP76PBA3 NP4 GFP-1_007.fcs,"Specimen_003_CP76PBA3 NP4 GFP-1_007.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",17.7,766.0,20000
+Specimen_003_CP76PBA3 NP4 GFP-1_007.fcs,"Specimen_003_CP76PBA3 NP4 GFP-1_007.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",12.2,2442.0,20000
+Specimen_003_CP76PBA3 NP4 GFP-1_007.fcs,"Specimen_003_CP76PBA3 NP4 GFP-1_007.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",1.77,354.0,20000
+Specimen_003_CP76PBA3 NP4 GFP-1_007.fcs,"Specimen_003_CP76PBA3 NP4 GFP-1_007.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",10.1,2029.0,20000
+Specimen_003_CP76PBA3 NP4 GFP-1_007.fcs,"Specimen_003_CP76PBA3 NP4 GFP-1_007.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",75.9,15175.0,20000
+Specimen_003_CP76PBA3 NP6 GFP-1_009.fcs,Specimen_003_CP76PBA3 NP6 GFP-1_009.fcs/Comp-Pacific Blue-A subset,54.1,10828.0,20000
+Specimen_003_CP76PBA3 NP6 GFP-1_009.fcs,Specimen_003_CP76PBA3 NP6 GFP-1_009.fcs/Lymphocytes,36.1,7222.0,20000
+Specimen_003_CP76PBA3 NP6 GFP-1_009.fcs,Specimen_003_CP76PBA3 NP6 GFP-1_009.fcs/Lymphocytes/Single Cells,80.4,5806.0,20000
+Specimen_003_CP76PBA3 NP6 GFP-1_009.fcs,"Specimen_003_CP76PBA3 NP6 GFP-1_009.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",21.2,1228.0,20000
+Specimen_003_CP76PBA3 NP6 GFP-1_009.fcs,Mean : Comp-FITC-A = 1815.821655273,1816.0,,20000
+Specimen_003_CP76PBA3 NP6 GFP-1_009.fcs,"Specimen_003_CP76PBA3 NP6 GFP-1_009.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",38.4,472.0,20000
+Specimen_003_CP76PBA3 NP6 GFP-1_009.fcs,"Specimen_003_CP76PBA3 NP6 GFP-1_009.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",8.64,1728.0,20000
+Specimen_003_CP76PBA3 NP6 GFP-1_009.fcs,"Specimen_003_CP76PBA3 NP6 GFP-1_009.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",3.55,709.0,20000
+Specimen_003_CP76PBA3 NP6 GFP-1_009.fcs,"Specimen_003_CP76PBA3 NP6 GFP-1_009.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",39.4,7881.0,20000
+Specimen_003_CP76PBA3 NP6 GFP-1_009.fcs,"Specimen_003_CP76PBA3 NP6 GFP-1_009.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",48.4,9682.0,20000
+Specimen_003_CP76PBA3 NP10 GFP-1_005.fcs,Specimen_003_CP76PBA3 NP10 GFP-1_005.fcs/Comp-Pacific Blue-A subset,47.7,9541.0,20000
+Specimen_003_CP76PBA3 NP10 GFP-1_005.fcs,Specimen_003_CP76PBA3 NP10 GFP-1_005.fcs/Lymphocytes,31.1,6224.0,20000
+Specimen_003_CP76PBA3 NP10 GFP-1_005.fcs,Specimen_003_CP76PBA3 NP10 GFP-1_005.fcs/Lymphocytes/Single Cells,91.6,5701.0,20000
+Specimen_003_CP76PBA3 NP10 GFP-1_005.fcs,"Specimen_003_CP76PBA3 NP10 GFP-1_005.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",15.8,902.0,20000
+Specimen_003_CP76PBA3 NP10 GFP-1_005.fcs,Mean : Comp-FITC-A = 181.696929932,182.0,,20000
+Specimen_003_CP76PBA3 NP10 GFP-1_005.fcs,"Specimen_003_CP76PBA3 NP10 GFP-1_005.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",4.43,40.0,20000
+Specimen_003_CP76PBA3 NP10 GFP-1_005.fcs,"Specimen_003_CP76PBA3 NP10 GFP-1_005.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",1.7,340.0,20000
+Specimen_003_CP76PBA3 NP10 GFP-1_005.fcs,"Specimen_003_CP76PBA3 NP10 GFP-1_005.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",3.72,744.0,20000
+Specimen_003_CP76PBA3 NP10 GFP-1_005.fcs,"Specimen_003_CP76PBA3 NP10 GFP-1_005.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",45.2,9048.0,20000
+Specimen_003_CP76PBA3 NP10 GFP-1_005.fcs,"Specimen_003_CP76PBA3 NP10 GFP-1_005.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",49.3,9868.0,20000
+Specimen_003_CP76PBA18 NP4 GFP-1_005.fcs,Specimen_003_CP76PBA18 NP4 GFP-1_005.fcs/Comp-Pacific Blue-A subset,73.2,14640.0,20000
+Specimen_003_CP76PBA18 NP4 GFP-1_005.fcs,Specimen_003_CP76PBA18 NP4 GFP-1_005.fcs/Lymphocytes,29.1,5819.0,20000
+Specimen_003_CP76PBA18 NP4 GFP-1_005.fcs,Specimen_003_CP76PBA18 NP4 GFP-1_005.fcs/Lymphocytes/Single Cells,79.2,4607.0,20000
+Specimen_003_CP76PBA18 NP4 GFP-1_005.fcs,"Specimen_003_CP76PBA18 NP4 GFP-1_005.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",54.6,2516.0,20000
+Specimen_003_CP76PBA18 NP4 GFP-1_005.fcs,Mean : Comp-FITC-A = 976.432312012,976.0,,20000
+Specimen_003_CP76PBA18 NP4 GFP-1_005.fcs,"Specimen_003_CP76PBA18 NP4 GFP-1_005.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",20.8,523.0,20000
+Specimen_003_CP76PBA18 NP4 GFP-1_005.fcs,"Specimen_003_CP76PBA18 NP4 GFP-1_005.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",8.31,1662.0,20000
+Specimen_003_CP76PBA18 NP4 GFP-1_005.fcs,"Specimen_003_CP76PBA18 NP4 GFP-1_005.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",2.75,550.0,20000
+Specimen_003_CP76PBA18 NP4 GFP-1_005.fcs,"Specimen_003_CP76PBA18 NP4 GFP-1_005.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",21.9,4379.0,20000
+Specimen_003_CP76PBA18 NP4 GFP-1_005.fcs,"Specimen_003_CP76PBA18 NP4 GFP-1_005.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",67.0,13409.0,20000
+Specimen_003_CP76PBA18 NP6 GFP-1_007.fcs,Specimen_003_CP76PBA18 NP6 GFP-1_007.fcs/Comp-Pacific Blue-A subset,50.1,10023.0,20000
+Specimen_003_CP76PBA18 NP6 GFP-1_007.fcs,Specimen_003_CP76PBA18 NP6 GFP-1_007.fcs/Lymphocytes,40.0,8009.0,20000
+Specimen_003_CP76PBA18 NP6 GFP-1_007.fcs,Specimen_003_CP76PBA18 NP6 GFP-1_007.fcs/Lymphocytes/Single Cells,85.9,6880.0,20000
+Specimen_003_CP76PBA18 NP6 GFP-1_007.fcs,"Specimen_003_CP76PBA18 NP6 GFP-1_007.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",18.1,1242.0,20000
+Specimen_003_CP76PBA18 NP6 GFP-1_007.fcs,Mean : Comp-FITC-A = 1641.592285156,1642.0,,20000
+Specimen_003_CP76PBA18 NP6 GFP-1_007.fcs,"Specimen_003_CP76PBA18 NP6 GFP-1_007.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",36.1,448.0,20000
+Specimen_003_CP76PBA18 NP6 GFP-1_007.fcs,"Specimen_003_CP76PBA18 NP6 GFP-1_007.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",7.69,1538.0,20000
+Specimen_003_CP76PBA18 NP6 GFP-1_007.fcs,"Specimen_003_CP76PBA18 NP6 GFP-1_007.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",3.77,754.0,20000
+Specimen_003_CP76PBA18 NP6 GFP-1_007.fcs,"Specimen_003_CP76PBA18 NP6 GFP-1_007.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",43.1,8616.0,20000
+Specimen_003_CP76PBA18 NP6 GFP-1_007.fcs,"Specimen_003_CP76PBA18 NP6 GFP-1_007.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",45.5,9092.0,20000
+Specimen_003_CP76PBA18 NP10 GFP-1_003.fcs,Specimen_003_CP76PBA18 NP10 GFP-1_003.fcs/Comp-Pacific Blue-A subset,48.4,9261.0,19136
+Specimen_003_CP76PBA18 NP10 GFP-1_003.fcs,Specimen_003_CP76PBA18 NP10 GFP-1_003.fcs/Lymphocytes,31.1,5950.0,19136
+Specimen_003_CP76PBA18 NP10 GFP-1_003.fcs,Specimen_003_CP76PBA18 NP10 GFP-1_003.fcs/Lymphocytes/Single Cells,89.8,5341.0,19136
+Specimen_003_CP76PBA18 NP10 GFP-1_003.fcs,"Specimen_003_CP76PBA18 NP10 GFP-1_003.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",15.9,849.0,19136
+Specimen_003_CP76PBA18 NP10 GFP-1_003.fcs,Mean : Comp-FITC-A = 477.215942383,477.0,,19136
+Specimen_003_CP76PBA18 NP10 GFP-1_003.fcs,"Specimen_003_CP76PBA18 NP10 GFP-1_003.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",10.2,87.0,19136
+Specimen_003_CP76PBA18 NP10 GFP-1_003.fcs,"Specimen_003_CP76PBA18 NP10 GFP-1_003.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",2.62,501.0,19136
+Specimen_003_CP76PBA18 NP10 GFP-1_003.fcs,"Specimen_003_CP76PBA18 NP10 GFP-1_003.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",3.19,611.0,19136
+Specimen_003_CP76PBA18 NP10 GFP-1_003.fcs,"Specimen_003_CP76PBA18 NP10 GFP-1_003.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",45.2,8645.0,19136
+Specimen_003_CP76PBA18 NP10 GFP-1_003.fcs,"Specimen_003_CP76PBA18 NP10 GFP-1_003.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",49.0,9379.0,19136
+Specimen_003_CP79 NP4 GFP-1_001.fcs,Specimen_003_CP79 NP4 GFP-1_001.fcs/Comp-Pacific Blue-A subset,91.3,18263.0,20000
+Specimen_003_CP79 NP4 GFP-1_001.fcs,Specimen_003_CP79 NP4 GFP-1_001.fcs/Lymphocytes,41.0,8196.0,20000
+Specimen_003_CP79 NP4 GFP-1_001.fcs,Specimen_003_CP79 NP4 GFP-1_001.fcs/Lymphocytes/Single Cells,73.0,5980.0,20000
+Specimen_003_CP79 NP4 GFP-1_001.fcs,"Specimen_003_CP79 NP4 GFP-1_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",79.2,4739.0,20000
+Specimen_003_CP79 NP4 GFP-1_001.fcs,Mean : Comp-FITC-A = 1133.341308594,1133.0,,20000
+Specimen_003_CP79 NP4 GFP-1_001.fcs,"Specimen_003_CP79 NP4 GFP-1_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",24.6,1168.0,20000
+Specimen_003_CP79 NP4 GFP-1_001.fcs,"Specimen_003_CP79 NP4 GFP-1_001.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",19.1,3821.0,20000
+Specimen_003_CP79 NP4 GFP-1_001.fcs,"Specimen_003_CP79 NP4 GFP-1_001.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",2.61,523.0,20000
+Specimen_003_CP79 NP4 GFP-1_001.fcs,"Specimen_003_CP79 NP4 GFP-1_001.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",5.27,1054.0,20000
+Specimen_003_CP79 NP4 GFP-1_001.fcs,"Specimen_003_CP79 NP4 GFP-1_001.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",73.0,14602.0,20000
+Specimen_003_CP79 NP4 GFP_001.fcs,Specimen_003_CP79 NP4 GFP_001.fcs/Comp-Pacific Blue-A subset,85.9,3903.0,4546
+Specimen_003_CP79 NP4 GFP_001.fcs,Specimen_003_CP79 NP4 GFP_001.fcs/Lymphocytes,24.9,1131.0,4546
+Specimen_003_CP79 NP4 GFP_001.fcs,Specimen_003_CP79 NP4 GFP_001.fcs/Lymphocytes/Single Cells,87.6,991.0,4546
+Specimen_003_CP79 NP4 GFP_001.fcs,"Specimen_003_CP79 NP4 GFP_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",83.0,823.0,4546
+Specimen_003_CP79 NP4 GFP_001.fcs,Mean : Comp-FITC-A = 462.779266357,463.0,,4546
+Specimen_003_CP79 NP4 GFP_001.fcs,"Specimen_003_CP79 NP4 GFP_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",12.0,99.0,4546
+Specimen_003_CP79 NP4 GFP_001.fcs,"Specimen_003_CP79 NP4 GFP_001.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",5.92,269.0,4546
+Specimen_003_CP79 NP4 GFP_001.fcs,"Specimen_003_CP79 NP4 GFP_001.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",1.32,60.0,4546
+Specimen_003_CP79 NP4 GFP_001.fcs,"Specimen_003_CP79 NP4 GFP_001.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",11.6,526.0,4546
+Specimen_003_CP79 NP4 GFP_001.fcs,"Specimen_003_CP79 NP4 GFP_001.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",81.2,3691.0,4546
+Specimen_003_CP79 NP6 GFP.fcs,Specimen_003_CP79 NP6 GFP.fcs/Comp-Pacific Blue-A subset,83.4,16689.0,20000
+Specimen_003_CP79 NP6 GFP.fcs,Specimen_003_CP79 NP6 GFP.fcs/Lymphocytes,40.3,8067.0,20000
+Specimen_003_CP79 NP6 GFP.fcs,Specimen_003_CP79 NP6 GFP.fcs/Lymphocytes/Single Cells,74.3,5993.0,20000
+Specimen_003_CP79 NP6 GFP.fcs,"Specimen_003_CP79 NP6 GFP.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",63.6,3809.0,20000
+Specimen_003_CP79 NP6 GFP.fcs,Mean : Comp-FITC-A = 1102.343505859,1102.0,,20000
+Specimen_003_CP79 NP6 GFP.fcs,"Specimen_003_CP79 NP6 GFP.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",22.3,850.0,20000
+Specimen_003_CP79 NP6 GFP.fcs,"Specimen_003_CP79 NP6 GFP.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",15.8,3158.0,20000
+Specimen_003_CP79 NP6 GFP.fcs,"Specimen_003_CP79 NP6 GFP.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",2.92,584.0,20000
+Specimen_003_CP79 NP6 GFP.fcs,"Specimen_003_CP79 NP6 GFP.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",12.3,2462.0,20000
+Specimen_003_CP79 NP6 GFP.fcs,"Specimen_003_CP79 NP6 GFP.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",69.0,13796.0,20000
+Specimen_003_CP79 NP10 GFP-1_002.fcs,Specimen_003_CP79 NP10 GFP-1_002.fcs/Comp-Pacific Blue-A subset,54.2,2753.0,5079
+Specimen_003_CP79 NP10 GFP-1_002.fcs,Specimen_003_CP79 NP10 GFP-1_002.fcs/Lymphocytes,22.7,1151.0,5079
+Specimen_003_CP79 NP10 GFP-1_002.fcs,Specimen_003_CP79 NP10 GFP-1_002.fcs/Lymphocytes/Single Cells,90.1,1037.0,5079
+Specimen_003_CP79 NP10 GFP-1_002.fcs,"Specimen_003_CP79 NP10 GFP-1_002.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",21.1,219.0,5079
+Specimen_003_CP79 NP10 GFP-1_002.fcs,Mean : Comp-FITC-A = 142.188659668,142.0,,5079
+Specimen_003_CP79 NP10 GFP-1_002.fcs,"Specimen_003_CP79 NP10 GFP-1_002.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",5.94,13.0,5079
+Specimen_003_CP79 NP10 GFP-1_002.fcs,"Specimen_003_CP79 NP10 GFP-1_002.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",1.34,68.0,5079
+Specimen_003_CP79 NP10 GFP-1_002.fcs,"Specimen_003_CP79 NP10 GFP-1_002.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",2.46,125.0,5079
+Specimen_003_CP79 NP10 GFP-1_002.fcs,"Specimen_003_CP79 NP10 GFP-1_002.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",39.9,2026.0,5079
+Specimen_003_CP79 NP10 GFP-1_002.fcs,"Specimen_003_CP79 NP10 GFP-1_002.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",56.3,2860.0,5079
+Specimen_003_CP79 NP10 GFP_001.fcs,Specimen_003_CP79 NP10 GFP_001.fcs/Comp-Pacific Blue-A subset,44.5,8893.0,20000
+Specimen_003_CP79 NP10 GFP_001.fcs,Specimen_003_CP79 NP10 GFP_001.fcs/Lymphocytes,35.6,7126.0,20000
+Specimen_003_CP79 NP10 GFP_001.fcs,Specimen_003_CP79 NP10 GFP_001.fcs/Lymphocytes/Single Cells,86.2,6144.0,20000
+Specimen_003_CP79 NP10 GFP_001.fcs,"Specimen_003_CP79 NP10 GFP_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",14.8,909.0,20000
+Specimen_003_CP79 NP10 GFP_001.fcs,Mean : Comp-FITC-A = 335.514343262,336.0,,20000
+Specimen_003_CP79 NP10 GFP_001.fcs,"Specimen_003_CP79 NP10 GFP_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",12.8,116.0,20000
+Specimen_003_CP79 NP10 GFP_001.fcs,"Specimen_003_CP79 NP10 GFP_001.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",3.5,699.0,20000
+Specimen_003_CP79 NP10 GFP_001.fcs,"Specimen_003_CP79 NP10 GFP_001.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",4.0,801.0,20000
+Specimen_003_CP79 NP10 GFP_001.fcs,"Specimen_003_CP79 NP10 GFP_001.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",47.9,9589.0,20000
+Specimen_003_CP79 NP10 GFP_001.fcs,"Specimen_003_CP79 NP10 GFP_001.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",44.6,8911.0,20000
+Specimen_003_L3k high GFP_002.fcs,Specimen_003_L3k high GFP_002.fcs/Comp-Pacific Blue-A subset,88.3,16849.0,19088
+Specimen_003_L3k high GFP_002.fcs,Specimen_003_L3k high GFP_002.fcs/Lymphocytes,28.7,5482.0,19088
+Specimen_003_L3k high GFP_002.fcs,Specimen_003_L3k high GFP_002.fcs/Lymphocytes/Single Cells,92.4,5063.0,19088
+Specimen_003_L3k high GFP_002.fcs,"Specimen_003_L3k high GFP_002.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",67.0,3391.0,19088
+Specimen_003_L3k high GFP_002.fcs,Mean : Comp-FITC-A = 104.10344696,104.0,,19088
+Specimen_003_L3k high GFP_002.fcs,"Specimen_003_L3k high GFP_002.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",1.39,47.0,19088
+Specimen_003_L3k high GFP_002.fcs,"Specimen_003_L3k high GFP_002.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",3.76,718.0,19088
+Specimen_003_L3k high GFP_002.fcs,"Specimen_003_L3k high GFP_002.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",5.25,1002.0,19088
+Specimen_003_L3k high GFP_002.fcs,"Specimen_003_L3k high GFP_002.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",4.63,884.0,19088
+Specimen_003_L3k high GFP_002.fcs,"Specimen_003_L3k high GFP_002.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",86.4,16484.0,19088
+Specimen_003_L3k low GFP.fcs,Specimen_003_L3k low GFP.fcs/Comp-Pacific Blue-A subset,91.4,15051.0,16465
+Specimen_003_L3k low GFP.fcs,Specimen_003_L3k low GFP.fcs/Lymphocytes,28.7,4719.0,16465
+Specimen_003_L3k low GFP.fcs,Specimen_003_L3k low GFP.fcs/Lymphocytes/Single Cells,92.7,4374.0,16465
+Specimen_003_L3k low GFP.fcs,"Specimen_003_L3k low GFP.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",77.7,3397.0,16465
+Specimen_003_L3k low GFP.fcs,Mean : Comp-FITC-A = 108.695556641,109.0,,16465
+Specimen_003_L3k low GFP.fcs,"Specimen_003_L3k low GFP.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",1.68,57.0,16465
+Specimen_003_L3k low GFP.fcs,"Specimen_003_L3k low GFP.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",4.4,725.0,16465
+Specimen_003_L3k low GFP.fcs,"Specimen_003_L3k low GFP.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",2.73,449.0,16465
+Specimen_003_L3k low GFP.fcs,"Specimen_003_L3k low GFP.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",4.51,743.0,16465
+Specimen_003_L3k low GFP.fcs,"Specimen_003_L3k low GFP.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",88.4,14548.0,16465
+Specimen_005_CP49 NP4 GFP-1_001.fcs,Specimen_005_CP49 NP4 GFP-1_001.fcs/Comp-Pacific Blue-A subset,84.2,16830.0,20000
+Specimen_005_CP49 NP4 GFP-1_001.fcs,Specimen_005_CP49 NP4 GFP-1_001.fcs/Lymphocytes,84.9,16970.0,20000
+Specimen_005_CP49 NP4 GFP-1_001.fcs,Specimen_005_CP49 NP4 GFP-1_001.fcs/Lymphocytes/Single Cells,64.9,11013.0,20000
+Specimen_005_CP49 NP4 GFP-1_001.fcs,"Specimen_005_CP49 NP4 GFP-1_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",83.2,9168.0,20000
+Specimen_005_CP49 NP4 GFP-1_001.fcs,Mean : Comp-FITC-A = 2023.944580078,2024.0,,20000
+Specimen_005_CP49 NP4 GFP-1_001.fcs,"Specimen_005_CP49 NP4 GFP-1_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",91.3,8374.0,20000
+Specimen_005_CP49 NP4 GFP-1_001.fcs,"Specimen_005_CP49 NP4 GFP-1_001.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",73.6,14714.0,20000
+Specimen_005_CP49 NP4 GFP-1_001.fcs,"Specimen_005_CP49 NP4 GFP-1_001.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",1.49,297.0,20000
+Specimen_005_CP49 NP4 GFP-1_001.fcs,"Specimen_005_CP49 NP4 GFP-1_001.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",14.0,2790.0,20000
+Specimen_005_CP49 NP4 GFP-1_001.fcs,"Specimen_005_CP49 NP4 GFP-1_001.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",11.0,2199.0,20000
+Specimen_005_CP49 NP4 GFP_001.fcs,Specimen_005_CP49 NP4 GFP_001.fcs/Comp-Pacific Blue-A subset,84.3,16858.0,20000
+Specimen_005_CP49 NP4 GFP_001.fcs,Specimen_005_CP49 NP4 GFP_001.fcs/Lymphocytes,84.9,16979.0,20000
+Specimen_005_CP49 NP4 GFP_001.fcs,Specimen_005_CP49 NP4 GFP_001.fcs/Lymphocytes/Single Cells,65.0,11038.0,20000
+Specimen_005_CP49 NP4 GFP_001.fcs,"Specimen_005_CP49 NP4 GFP_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",84.0,9273.0,20000
+Specimen_005_CP49 NP4 GFP_001.fcs,Mean : Comp-FITC-A = 2046.354736328,2046.0,,20000
+Specimen_005_CP49 NP4 GFP_001.fcs,"Specimen_005_CP49 NP4 GFP_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",91.3,8469.0,20000
+Specimen_005_CP49 NP4 GFP_001.fcs,"Specimen_005_CP49 NP4 GFP_001.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",74.1,14826.0,20000
+Specimen_005_CP49 NP4 GFP_001.fcs,"Specimen_005_CP49 NP4 GFP_001.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",1.47,293.0,20000
+Specimen_005_CP49 NP4 GFP_001.fcs,"Specimen_005_CP49 NP4 GFP_001.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",13.9,2787.0,20000
+Specimen_005_CP49 NP4 GFP_001.fcs,"Specimen_005_CP49 NP4 GFP_001.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",10.5,2094.0,20000
+Specimen_005_CP49 NP6 GFP.fcs,Specimen_005_CP49 NP6 GFP.fcs/Comp-Pacific Blue-A subset,74.2,14846.0,20000
+Specimen_005_CP49 NP6 GFP.fcs,Specimen_005_CP49 NP6 GFP.fcs/Lymphocytes,74.5,14905.0,20000
+Specimen_005_CP49 NP6 GFP.fcs,Specimen_005_CP49 NP6 GFP.fcs/Lymphocytes/Single Cells,62.5,9321.0,20000
+Specimen_005_CP49 NP6 GFP.fcs,"Specimen_005_CP49 NP6 GFP.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",68.8,6417.0,20000
+Specimen_005_CP49 NP6 GFP.fcs,Mean : Comp-FITC-A = 1974.032836914,1974.0,,20000
+Specimen_005_CP49 NP6 GFP.fcs,"Specimen_005_CP49 NP6 GFP.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",82.7,5308.0,20000
+Specimen_005_CP49 NP6 GFP.fcs,"Specimen_005_CP49 NP6 GFP.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",58.2,11646.0,20000
+Specimen_005_CP49 NP6 GFP.fcs,"Specimen_005_CP49 NP6 GFP.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",2.21,443.0,20000
+Specimen_005_CP49 NP6 GFP.fcs,"Specimen_005_CP49 NP6 GFP.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",22.9,4587.0,20000
+Specimen_005_CP49 NP6 GFP.fcs,"Specimen_005_CP49 NP6 GFP.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",16.6,3324.0,20000
+Specimen_005_CP49 NP6 GFP_001.fcs,Specimen_005_CP49 NP6 GFP_001.fcs/Comp-Pacific Blue-A subset,73.2,14635.0,20000
+Specimen_005_CP49 NP6 GFP_001.fcs,Specimen_005_CP49 NP6 GFP_001.fcs/Lymphocytes,74.3,14869.0,20000
+Specimen_005_CP49 NP6 GFP_001.fcs,Specimen_005_CP49 NP6 GFP_001.fcs/Lymphocytes/Single Cells,63.8,9486.0,20000
+Specimen_005_CP49 NP6 GFP_001.fcs,"Specimen_005_CP49 NP6 GFP_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",69.3,6578.0,20000
+Specimen_005_CP49 NP6 GFP_001.fcs,Mean : Comp-FITC-A = 1980.209228516,1980.0,,20000
+Specimen_005_CP49 NP6 GFP_001.fcs,"Specimen_005_CP49 NP6 GFP_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",83.1,5467.0,20000
+Specimen_005_CP49 NP6 GFP_001.fcs,"Specimen_005_CP49 NP6 GFP_001.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",57.6,11512.0,20000
+Specimen_005_CP49 NP6 GFP_001.fcs,"Specimen_005_CP49 NP6 GFP_001.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",2.18,436.0,20000
+Specimen_005_CP49 NP6 GFP_001.fcs,"Specimen_005_CP49 NP6 GFP_001.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",24.0,4795.0,20000
+Specimen_005_CP49 NP6 GFP_001.fcs,"Specimen_005_CP49 NP6 GFP_001.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",16.3,3257.0,20000
+Specimen_005_CP49 NP10 GFP-1_002.fcs,Specimen_005_CP49 NP10 GFP-1_002.fcs/Comp-Pacific Blue-A subset,52.6,10519.0,20000
+Specimen_005_CP49 NP10 GFP-1_002.fcs,Specimen_005_CP49 NP10 GFP-1_002.fcs/Lymphocytes,54.4,10882.0,20000
+Specimen_005_CP49 NP10 GFP-1_002.fcs,Specimen_005_CP49 NP10 GFP-1_002.fcs/Lymphocytes/Single Cells,80.6,8773.0,20000
+Specimen_005_CP49 NP10 GFP-1_002.fcs,"Specimen_005_CP49 NP10 GFP-1_002.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",47.6,4172.0,20000
+Specimen_005_CP49 NP10 GFP-1_002.fcs,Mean : Comp-FITC-A = 161.759231567,162.0,,20000
+Specimen_005_CP49 NP10 GFP-1_002.fcs,"Specimen_005_CP49 NP10 GFP-1_002.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",5.06,211.0,20000
+Specimen_005_CP49 NP10 GFP-1_002.fcs,"Specimen_005_CP49 NP10 GFP-1_002.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",2.9,580.0,20000
+Specimen_005_CP49 NP10 GFP-1_002.fcs,"Specimen_005_CP49 NP10 GFP-1_002.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",1.75,350.0,20000
+Specimen_005_CP49 NP10 GFP-1_002.fcs,"Specimen_005_CP49 NP10 GFP-1_002.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",44.7,8933.0,20000
+Specimen_005_CP49 NP10 GFP-1_002.fcs,"Specimen_005_CP49 NP10 GFP-1_002.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",50.7,10137.0,20000
+Specimen_005_CP49 NP10 GFP_001.fcs,Specimen_005_CP49 NP10 GFP_001.fcs/Comp-Pacific Blue-A subset,53.3,10670.0,20000
+Specimen_005_CP49 NP10 GFP_001.fcs,Specimen_005_CP49 NP10 GFP_001.fcs/Lymphocytes,53.6,10720.0,20000
+Specimen_005_CP49 NP10 GFP_001.fcs,Specimen_005_CP49 NP10 GFP_001.fcs/Lymphocytes/Single Cells,79.6,8528.0,20000
+Specimen_005_CP49 NP10 GFP_001.fcs,"Specimen_005_CP49 NP10 GFP_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",47.9,4083.0,20000
+Specimen_005_CP49 NP10 GFP_001.fcs,Mean : Comp-FITC-A = 157.195465088,157.0,,20000
+Specimen_005_CP49 NP10 GFP_001.fcs,"Specimen_005_CP49 NP10 GFP_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",4.97,203.0,20000
+Specimen_005_CP49 NP10 GFP_001.fcs,"Specimen_005_CP49 NP10 GFP_001.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",2.94,588.0,20000
+Specimen_005_CP49 NP10 GFP_001.fcs,"Specimen_005_CP49 NP10 GFP_001.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",1.95,390.0,20000
+Specimen_005_CP49 NP10 GFP_001.fcs,"Specimen_005_CP49 NP10 GFP_001.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",43.7,8734.0,20000
+Specimen_005_CP49 NP10 GFP_001.fcs,"Specimen_005_CP49 NP10 GFP_001.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",51.4,10288.0,20000
+Specimen_005_CP49 PBA26 NP4 GFP.fcs,Specimen_005_CP49 PBA26 NP4 GFP.fcs/Comp-Pacific Blue-A subset,81.7,16347.0,20000
+Specimen_005_CP49 PBA26 NP4 GFP.fcs,Specimen_005_CP49 PBA26 NP4 GFP.fcs/Lymphocytes,82.0,16391.0,20000
+Specimen_005_CP49 PBA26 NP4 GFP.fcs,Specimen_005_CP49 PBA26 NP4 GFP.fcs/Lymphocytes/Single Cells,66.0,10817.0,20000
+Specimen_005_CP49 PBA26 NP4 GFP.fcs,"Specimen_005_CP49 PBA26 NP4 GFP.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",82.8,8960.0,20000
+Specimen_005_CP49 PBA26 NP4 GFP.fcs,Mean : Comp-FITC-A = 1369.972412109,1370.0,,20000
+Specimen_005_CP49 PBA26 NP4 GFP.fcs,"Specimen_005_CP49 PBA26 NP4 GFP.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",78.1,6998.0,20000
+Specimen_005_CP49 PBA26 NP4 GFP.fcs,"Specimen_005_CP49 PBA26 NP4 GFP.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",61.9,12375.0,20000
+Specimen_005_CP49 PBA26 NP4 GFP.fcs,"Specimen_005_CP49 PBA26 NP4 GFP.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",1.19,237.0,20000
+Specimen_005_CP49 PBA26 NP4 GFP.fcs,"Specimen_005_CP49 PBA26 NP4 GFP.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",16.6,3325.0,20000
+Specimen_005_CP49 PBA26 NP4 GFP.fcs,"Specimen_005_CP49 PBA26 NP4 GFP.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",20.3,4063.0,20000
+Specimen_005_CP49 PBA26 NP6 GFP.fcs,Specimen_005_CP49 PBA26 NP6 GFP.fcs/Comp-Pacific Blue-A subset,80.2,16047.0,20000
+Specimen_005_CP49 PBA26 NP6 GFP.fcs,Specimen_005_CP49 PBA26 NP6 GFP.fcs/Lymphocytes,83.6,16715.0,20000
+Specimen_005_CP49 PBA26 NP6 GFP.fcs,Specimen_005_CP49 PBA26 NP6 GFP.fcs/Lymphocytes/Single Cells,65.9,11017.0,20000
+Specimen_005_CP49 PBA26 NP6 GFP.fcs,"Specimen_005_CP49 PBA26 NP6 GFP.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",80.1,8821.0,20000
+Specimen_005_CP49 PBA26 NP6 GFP.fcs,Mean : Comp-FITC-A = 1926.674072266,1927.0,,20000
+Specimen_005_CP49 PBA26 NP6 GFP.fcs,"Specimen_005_CP49 PBA26 NP6 GFP.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",86.7,7652.0,20000
+Specimen_005_CP49 PBA26 NP6 GFP.fcs,"Specimen_005_CP49 PBA26 NP6 GFP.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",66.8,13368.0,20000
+Specimen_005_CP49 PBA26 NP6 GFP.fcs,"Specimen_005_CP49 PBA26 NP6 GFP.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",1.32,264.0,20000
+Specimen_005_CP49 PBA26 NP6 GFP.fcs,"Specimen_005_CP49 PBA26 NP6 GFP.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",17.9,3587.0,20000
+Specimen_005_CP49 PBA26 NP6 GFP.fcs,"Specimen_005_CP49 PBA26 NP6 GFP.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",13.9,2781.0,20000
+Specimen_005_CP49 PBA26 NP10 GFP-1_002.fcs,Specimen_005_CP49 PBA26 NP10 GFP-1_002.fcs/Comp-Pacific Blue-A subset,65.3,13063.0,20000
+Specimen_005_CP49 PBA26 NP10 GFP-1_002.fcs,Specimen_005_CP49 PBA26 NP10 GFP-1_002.fcs/Lymphocytes,68.6,13716.0,20000
+Specimen_005_CP49 PBA26 NP10 GFP-1_002.fcs,Specimen_005_CP49 PBA26 NP10 GFP-1_002.fcs/Lymphocytes/Single Cells,67.2,9212.0,20000
+Specimen_005_CP49 PBA26 NP10 GFP-1_002.fcs,"Specimen_005_CP49 PBA26 NP10 GFP-1_002.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",62.8,5787.0,20000
+Specimen_005_CP49 PBA26 NP10 GFP-1_002.fcs,Mean : Comp-FITC-A = 261.243835449,261.0,,20000
+Specimen_005_CP49 PBA26 NP10 GFP-1_002.fcs,"Specimen_005_CP49 PBA26 NP10 GFP-1_002.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",12.2,708.0,20000
+Specimen_005_CP49 PBA26 NP10 GFP-1_002.fcs,"Specimen_005_CP49 PBA26 NP10 GFP-1_002.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",10.1,2021.0,20000
+Specimen_005_CP49 PBA26 NP10 GFP-1_002.fcs,"Specimen_005_CP49 PBA26 NP10 GFP-1_002.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",1.37,274.0,20000
+Specimen_005_CP49 PBA26 NP10 GFP-1_002.fcs,"Specimen_005_CP49 PBA26 NP10 GFP-1_002.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",32.4,6472.0,20000
+Specimen_005_CP49 PBA26 NP10 GFP-1_002.fcs,"Specimen_005_CP49 PBA26 NP10 GFP-1_002.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",56.2,11233.0,20000
+Specimen_005_CP49 PBA26 Np6 GFP-1_001.fcs,Specimen_005_CP49 PBA26 Np6 GFP-1_001.fcs/Comp-Pacific Blue-A subset,77.6,15516.0,20000
+Specimen_005_CP49 PBA26 Np6 GFP-1_001.fcs,Specimen_005_CP49 PBA26 Np6 GFP-1_001.fcs/Lymphocytes,81.4,16286.0,20000
+Specimen_005_CP49 PBA26 Np6 GFP-1_001.fcs,Specimen_005_CP49 PBA26 Np6 GFP-1_001.fcs/Lymphocytes/Single Cells,67.3,10966.0,20000
+Specimen_005_CP49 PBA26 Np6 GFP-1_001.fcs,"Specimen_005_CP49 PBA26 Np6 GFP-1_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",79.4,8711.0,20000
+Specimen_005_CP49 PBA26 Np6 GFP-1_001.fcs,Mean : Comp-FITC-A = 1915.774902344,1916.0,,20000
+Specimen_005_CP49 PBA26 Np6 GFP-1_001.fcs,"Specimen_005_CP49 PBA26 Np6 GFP-1_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",87.5,7621.0,20000
+Specimen_005_CP49 PBA26 Np6 GFP-1_001.fcs,"Specimen_005_CP49 PBA26 Np6 GFP-1_001.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",64.8,12968.0,20000
+Specimen_005_CP49 PBA26 Np6 GFP-1_001.fcs,"Specimen_005_CP49 PBA26 Np6 GFP-1_001.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",1.28,256.0,20000
+Specimen_005_CP49 PBA26 Np6 GFP-1_001.fcs,"Specimen_005_CP49 PBA26 Np6 GFP-1_001.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",20.8,4151.0,20000
+Specimen_005_CP49 PBA26 Np6 GFP-1_001.fcs,"Specimen_005_CP49 PBA26 Np6 GFP-1_001.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",13.1,2625.0,20000
+Specimen_005_CP49 PBA31 NP6 GFP 1_001.fcs,Specimen_005_CP49 PBA31 NP6 GFP 1_001.fcs/Comp-Pacific Blue-A subset,84.9,16970.0,20000
+Specimen_005_CP49 PBA31 NP6 GFP 1_001.fcs,Specimen_005_CP49 PBA31 NP6 GFP 1_001.fcs/Lymphocytes,82.7,16546.0,20000
+Specimen_005_CP49 PBA31 NP6 GFP 1_001.fcs,Specimen_005_CP49 PBA31 NP6 GFP 1_001.fcs/Lymphocytes/Single Cells,64.5,10665.0,20000
+Specimen_005_CP49 PBA31 NP6 GFP 1_001.fcs,"Specimen_005_CP49 PBA31 NP6 GFP 1_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",84.2,8981.0,20000
+Specimen_005_CP49 PBA31 NP6 GFP 1_001.fcs,Mean : Comp-FITC-A = 1303.497192383,1303.0,,20000
+Specimen_005_CP49 PBA31 NP6 GFP 1_001.fcs,"Specimen_005_CP49 PBA31 NP6 GFP 1_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",77.5,6960.0,20000
+Specimen_005_CP49 PBA31 NP6 GFP 1_001.fcs,"Specimen_005_CP49 PBA31 NP6 GFP 1_001.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",63.8,12770.0,20000
+Specimen_005_CP49 PBA31 NP6 GFP 1_001.fcs,"Specimen_005_CP49 PBA31 NP6 GFP 1_001.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",0.81,163.0,20000
+Specimen_005_CP49 PBA31 NP6 GFP 1_001.fcs,"Specimen_005_CP49 PBA31 NP6 GFP 1_001.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",13.7,2737.0,20000
+Specimen_005_CP49 PBA31 NP6 GFP 1_001.fcs,"Specimen_005_CP49 PBA31 NP6 GFP 1_001.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",21.6,4330.0,20000
+Specimen_005_CP49 PBA31 NP6 GFP 1.fcs,Specimen_005_CP49 PBA31 NP6 GFP 1.fcs/Comp-Pacific Blue-A subset,85.2,17041.0,20000
+Specimen_005_CP49 PBA31 NP6 GFP 1.fcs,Specimen_005_CP49 PBA31 NP6 GFP 1.fcs/Lymphocytes,82.7,16536.0,20000
+Specimen_005_CP49 PBA31 NP6 GFP 1.fcs,Specimen_005_CP49 PBA31 NP6 GFP 1.fcs/Lymphocytes/Single Cells,63.9,10560.0,20000
+Specimen_005_CP49 PBA31 NP6 GFP 1.fcs,"Specimen_005_CP49 PBA31 NP6 GFP 1.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",84.5,8918.0,20000
+Specimen_005_CP49 PBA31 NP6 GFP 1.fcs,Mean : Comp-FITC-A = 1312.433837891,1312.0,,20000
+Specimen_005_CP49 PBA31 NP6 GFP 1.fcs,"Specimen_005_CP49 PBA31 NP6 GFP 1.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",77.4,6901.0,20000
+Specimen_005_CP49 PBA31 NP6 GFP 1.fcs,"Specimen_005_CP49 PBA31 NP6 GFP 1.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",64.1,12813.0,20000
+Specimen_005_CP49 PBA31 NP6 GFP 1.fcs,"Specimen_005_CP49 PBA31 NP6 GFP 1.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",0.88,176.0,20000
+Specimen_005_CP49 PBA31 NP6 GFP 1.fcs,"Specimen_005_CP49 PBA31 NP6 GFP 1.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",13.4,2684.0,20000
+Specimen_005_CP49 PBA31 NP6 GFP 1.fcs,"Specimen_005_CP49 PBA31 NP6 GFP 1.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",21.6,4327.0,20000
+Specimen_005_CP49PBA31 NP4 GFP-1_001.fcs,Specimen_005_CP49PBA31 NP4 GFP-1_001.fcs/Comp-Pacific Blue-A subset,87.6,17522.0,20000
+Specimen_005_CP49PBA31 NP4 GFP-1_001.fcs,Specimen_005_CP49PBA31 NP4 GFP-1_001.fcs/Lymphocytes,77.2,15440.0,20000
+Specimen_005_CP49PBA31 NP4 GFP-1_001.fcs,Specimen_005_CP49PBA31 NP4 GFP-1_001.fcs/Lymphocytes/Single Cells,60.3,9308.0,20000
+Specimen_005_CP49PBA31 NP4 GFP-1_001.fcs,"Specimen_005_CP49PBA31 NP4 GFP-1_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",84.8,7893.0,20000
+Specimen_005_CP49PBA31 NP4 GFP-1_001.fcs,Mean : Comp-FITC-A = 2062.903808594,2063.0,,20000
+Specimen_005_CP49PBA31 NP4 GFP-1_001.fcs,"Specimen_005_CP49PBA31 NP4 GFP-1_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",85.8,6769.0,20000
+Specimen_005_CP49PBA31 NP4 GFP-1_001.fcs,"Specimen_005_CP49PBA31 NP4 GFP-1_001.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",68.7,13743.0,20000
+Specimen_005_CP49PBA31 NP4 GFP-1_001.fcs,"Specimen_005_CP49PBA31 NP4 GFP-1_001.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",1.12,224.0,20000
+Specimen_005_CP49PBA31 NP4 GFP-1_001.fcs,"Specimen_005_CP49PBA31 NP4 GFP-1_001.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",10.8,2166.0,20000
+Specimen_005_CP49PBA31 NP4 GFP-1_001.fcs,"Specimen_005_CP49PBA31 NP4 GFP-1_001.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",19.3,3867.0,20000
+Specimen_005_CP49PBA31 NP4 GFP_001.fcs,Specimen_005_CP49PBA31 NP4 GFP_001.fcs/Comp-Pacific Blue-A subset,87.6,17545.0,20038
+Specimen_005_CP49PBA31 NP4 GFP_001.fcs,Specimen_005_CP49PBA31 NP4 GFP_001.fcs/Lymphocytes,77.5,15523.0,20038
+Specimen_005_CP49PBA31 NP4 GFP_001.fcs,Specimen_005_CP49PBA31 NP4 GFP_001.fcs/Lymphocytes/Single Cells,59.9,9292.0,20038
+Specimen_005_CP49PBA31 NP4 GFP_001.fcs,"Specimen_005_CP49PBA31 NP4 GFP_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",84.9,7892.0,20038
+Specimen_005_CP49PBA31 NP4 GFP_001.fcs,Mean : Comp-FITC-A = 2051.013183594,2051.0,,20038
+Specimen_005_CP49PBA31 NP4 GFP_001.fcs,"Specimen_005_CP49PBA31 NP4 GFP_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",85.5,6744.0,20038
+Specimen_005_CP49PBA31 NP4 GFP_001.fcs,"Specimen_005_CP49PBA31 NP4 GFP_001.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",68.8,13778.0,20038
+Specimen_005_CP49PBA31 NP4 GFP_001.fcs,"Specimen_005_CP49PBA31 NP4 GFP_001.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",1.04,209.0,20038
+Specimen_005_CP49PBA31 NP4 GFP_001.fcs,"Specimen_005_CP49PBA31 NP4 GFP_001.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",11.0,2209.0,20038
+Specimen_005_CP49PBA31 NP4 GFP_001.fcs,"Specimen_005_CP49PBA31 NP4 GFP_001.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",19.2,3842.0,20038
+Specimen_005_CP49PBA31 NP10 GFP-1_002.fcs,Specimen_005_CP49PBA31 NP10 GFP-1_002.fcs/Comp-Pacific Blue-A subset,67.9,13584.0,20007
+Specimen_005_CP49PBA31 NP10 GFP-1_002.fcs,Specimen_005_CP49PBA31 NP10 GFP-1_002.fcs/Lymphocytes,76.5,15301.0,20007
+Specimen_005_CP49PBA31 NP10 GFP-1_002.fcs,Specimen_005_CP49PBA31 NP10 GFP-1_002.fcs/Lymphocytes/Single Cells,70.0,10708.0,20007
+Specimen_005_CP49PBA31 NP10 GFP-1_002.fcs,"Specimen_005_CP49PBA31 NP10 GFP-1_002.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",64.4,6901.0,20007
+Specimen_005_CP49PBA31 NP10 GFP-1_002.fcs,Mean : Comp-FITC-A = 284.116027832,284.0,,20007
+Specimen_005_CP49PBA31 NP10 GFP-1_002.fcs,"Specimen_005_CP49PBA31 NP10 GFP-1_002.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",13.4,926.0,20007
+Specimen_005_CP49PBA31 NP10 GFP-1_002.fcs,"Specimen_005_CP49PBA31 NP10 GFP-1_002.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",10.2,2032.0,20007
+Specimen_005_CP49PBA31 NP10 GFP-1_002.fcs,"Specimen_005_CP49PBA31 NP10 GFP-1_002.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",0.55,111.0,20007
+Specimen_005_CP49PBA31 NP10 GFP-1_002.fcs,"Specimen_005_CP49PBA31 NP10 GFP-1_002.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",31.0,6198.0,20007
+Specimen_005_CP49PBA31 NP10 GFP-1_002.fcs,"Specimen_005_CP49PBA31 NP10 GFP-1_002.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",58.3,11666.0,20007
+Specimen_005_CP49PBA31 NP10 GFP-1_003.fcs,Specimen_005_CP49PBA31 NP10 GFP-1_003.fcs/Comp-Pacific Blue-A subset,67.2,13440.0,20000
+Specimen_005_CP49PBA31 NP10 GFP-1_003.fcs,Specimen_005_CP49PBA31 NP10 GFP-1_003.fcs/Lymphocytes,76.2,15236.0,20000
+Specimen_005_CP49PBA31 NP10 GFP-1_003.fcs,Specimen_005_CP49PBA31 NP10 GFP-1_003.fcs/Lymphocytes/Single Cells,70.1,10679.0,20000
+Specimen_005_CP49PBA31 NP10 GFP-1_003.fcs,"Specimen_005_CP49PBA31 NP10 GFP-1_003.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",63.7,6801.0,20000
+Specimen_005_CP49PBA31 NP10 GFP-1_003.fcs,Mean : Comp-FITC-A = 275.996063232,276.0,,20000
+Specimen_005_CP49PBA31 NP10 GFP-1_003.fcs,"Specimen_005_CP49PBA31 NP10 GFP-1_003.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",13.2,898.0,20000
+Specimen_005_CP49PBA31 NP10 GFP-1_003.fcs,"Specimen_005_CP49PBA31 NP10 GFP-1_003.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",9.82,1964.0,20000
+Specimen_005_CP49PBA31 NP10 GFP-1_003.fcs,"Specimen_005_CP49PBA31 NP10 GFP-1_003.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",0.47,95.0,20000
+Specimen_005_CP49PBA31 NP10 GFP-1_003.fcs,"Specimen_005_CP49PBA31 NP10 GFP-1_003.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",31.7,6334.0,20000
+Specimen_005_CP49PBA31 NP10 GFP-1_003.fcs,"Specimen_005_CP49PBA31 NP10 GFP-1_003.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",58.0,11607.0,20000
+Specimen_005_CP49PBA45 NP4 GFP.fcs,Specimen_005_CP49PBA45 NP4 GFP.fcs/Comp-Pacific Blue-A subset,86.7,17340.0,20000
+Specimen_005_CP49PBA45 NP4 GFP.fcs,Specimen_005_CP49PBA45 NP4 GFP.fcs/Lymphocytes,84.2,16831.0,20000
+Specimen_005_CP49PBA45 NP4 GFP.fcs,Specimen_005_CP49PBA45 NP4 GFP.fcs/Lymphocytes/Single Cells,66.4,11180.0,20000
+Specimen_005_CP49PBA45 NP4 GFP.fcs,"Specimen_005_CP49PBA45 NP4 GFP.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",86.9,9718.0,20000
+Specimen_005_CP49PBA45 NP4 GFP.fcs,Mean : Comp-FITC-A = 2064.419677734,2064.0,,20000
+Specimen_005_CP49PBA45 NP4 GFP.fcs,"Specimen_005_CP49PBA45 NP4 GFP.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",89.3,8683.0,20000
+Specimen_005_CP49PBA45 NP4 GFP.fcs,"Specimen_005_CP49PBA45 NP4 GFP.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",72.2,14437.0,20000
+Specimen_005_CP49PBA45 NP4 GFP.fcs,"Specimen_005_CP49PBA45 NP4 GFP.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",1.04,209.0,20000
+Specimen_005_CP49PBA45 NP4 GFP.fcs,"Specimen_005_CP49PBA45 NP4 GFP.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",11.9,2382.0,20000
+Specimen_005_CP49PBA45 NP4 GFP.fcs,"Specimen_005_CP49PBA45 NP4 GFP.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",14.9,2972.0,20000
+Specimen_005_CP49PBA45 NP6 GFP-1.fcs,Specimen_005_CP49PBA45 NP6 GFP-1.fcs/Comp-Pacific Blue-A subset,82.4,16487.0,20000
+Specimen_005_CP49PBA45 NP6 GFP-1.fcs,Specimen_005_CP49PBA45 NP6 GFP-1.fcs/Lymphocytes,85.0,17000.0,20000
+Specimen_005_CP49PBA45 NP6 GFP-1.fcs,Specimen_005_CP49PBA45 NP6 GFP-1.fcs/Lymphocytes/Single Cells,67.6,11485.0,20000
+Specimen_005_CP49PBA45 NP6 GFP-1.fcs,"Specimen_005_CP49PBA45 NP6 GFP-1.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",83.6,9604.0,20000
+Specimen_005_CP49PBA45 NP6 GFP-1.fcs,Mean : Comp-FITC-A = 1592.176025391,1592.0,,20000
+Specimen_005_CP49PBA45 NP6 GFP-1.fcs,"Specimen_005_CP49PBA45 NP6 GFP-1.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",89.9,8633.0,20000
+Specimen_005_CP49PBA45 NP6 GFP-1.fcs,"Specimen_005_CP49PBA45 NP6 GFP-1.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",71.2,14250.0,20000
+Specimen_005_CP49PBA45 NP6 GFP-1.fcs,"Specimen_005_CP49PBA45 NP6 GFP-1.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",1.11,223.0,20000
+Specimen_005_CP49PBA45 NP6 GFP-1.fcs,"Specimen_005_CP49PBA45 NP6 GFP-1.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",16.1,3210.0,20000
+Specimen_005_CP49PBA45 NP6 GFP-1.fcs,"Specimen_005_CP49PBA45 NP6 GFP-1.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",11.6,2317.0,20000
+Specimen_005_CP49PBA45 NP6 GFP_0011.fcs,Specimen_005_CP49PBA45 NP6 GFP_0011.fcs/Comp-Pacific Blue-A subset,82.1,16429.0,20000
+Specimen_005_CP49PBA45 NP6 GFP_0011.fcs,Specimen_005_CP49PBA45 NP6 GFP_0011.fcs/Lymphocytes,85.1,17025.0,20000
+Specimen_005_CP49PBA45 NP6 GFP_0011.fcs,Specimen_005_CP49PBA45 NP6 GFP_0011.fcs/Lymphocytes/Single Cells,67.7,11520.0,20000
+Specimen_005_CP49PBA45 NP6 GFP_0011.fcs,"Specimen_005_CP49PBA45 NP6 GFP_0011.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",83.3,9594.0,20000
+Specimen_005_CP49PBA45 NP6 GFP_0011.fcs,Mean : Comp-FITC-A = 1615.190185547,1615.0,,20000
+Specimen_005_CP49PBA45 NP6 GFP_0011.fcs,"Specimen_005_CP49PBA45 NP6 GFP_0011.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",90.0,8635.0,20000
+Specimen_005_CP49PBA45 NP6 GFP_0011.fcs,"Specimen_005_CP49PBA45 NP6 GFP_0011.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",71.2,14240.0,20000
+Specimen_005_CP49PBA45 NP6 GFP_0011.fcs,"Specimen_005_CP49PBA45 NP6 GFP_0011.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",1.2,240.0,20000
+Specimen_005_CP49PBA45 NP6 GFP_0011.fcs,"Specimen_005_CP49PBA45 NP6 GFP_0011.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",16.3,3265.0,20000
+Specimen_005_CP49PBA45 NP6 GFP_0011.fcs,"Specimen_005_CP49PBA45 NP6 GFP_0011.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",11.3,2255.0,20000
+Specimen_005_CP49PBA45 NP10 GFP-1_001.fcs,Specimen_005_CP49PBA45 NP10 GFP-1_001.fcs/Comp-Pacific Blue-A subset,68.5,13698.0,20000
+Specimen_005_CP49PBA45 NP10 GFP-1_001.fcs,Specimen_005_CP49PBA45 NP10 GFP-1_001.fcs/Lymphocytes,74.9,14986.0,20000
+Specimen_005_CP49PBA45 NP10 GFP-1_001.fcs,Specimen_005_CP49PBA45 NP10 GFP-1_001.fcs/Lymphocytes/Single Cells,69.9,10477.0,20000
+Specimen_005_CP49PBA45 NP10 GFP-1_001.fcs,"Specimen_005_CP49PBA45 NP10 GFP-1_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",65.6,6876.0,20000
+Specimen_005_CP49PBA45 NP10 GFP-1_001.fcs,Mean : Comp-FITC-A = 612.710388184,613.0,,20000
+Specimen_005_CP49PBA45 NP10 GFP-1_001.fcs,"Specimen_005_CP49PBA45 NP10 GFP-1_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",34.6,2379.0,20000
+Specimen_005_CP49PBA45 NP10 GFP-1_001.fcs,"Specimen_005_CP49PBA45 NP10 GFP-1_001.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",25.4,5079.0,20000
+Specimen_005_CP49PBA45 NP10 GFP-1_001.fcs,"Specimen_005_CP49PBA45 NP10 GFP-1_001.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",1.64,327.0,20000
+Specimen_005_CP49PBA45 NP10 GFP-1_001.fcs,"Specimen_005_CP49PBA45 NP10 GFP-1_001.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",29.1,5830.0,20000
+Specimen_005_CP49PBA45 NP10 GFP-1_001.fcs,"Specimen_005_CP49PBA45 NP10 GFP-1_001.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",43.8,8764.0,20000
+Specimen_005_CP49PBA45 NP10 GFP-1_002.fcs,Specimen_005_CP49PBA45 NP10 GFP-1_002.fcs/Comp-Pacific Blue-A subset,66.8,13350.0,20000
+Specimen_005_CP49PBA45 NP10 GFP-1_002.fcs,Specimen_005_CP49PBA45 NP10 GFP-1_002.fcs/Lymphocytes,72.5,14505.0,20000
+Specimen_005_CP49PBA45 NP10 GFP-1_002.fcs,Specimen_005_CP49PBA45 NP10 GFP-1_002.fcs/Lymphocytes/Single Cells,71.0,10299.0,20000
+Specimen_005_CP49PBA45 NP10 GFP-1_002.fcs,"Specimen_005_CP49PBA45 NP10 GFP-1_002.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",65.8,6778.0,20000
+Specimen_005_CP49PBA45 NP10 GFP-1_002.fcs,Mean : Comp-FITC-A = 606.359802246,606.0,,20000
+Specimen_005_CP49PBA45 NP10 GFP-1_002.fcs,"Specimen_005_CP49PBA45 NP10 GFP-1_002.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",35.0,2374.0,20000
+Specimen_005_CP49PBA45 NP10 GFP-1_002.fcs,"Specimen_005_CP49PBA45 NP10 GFP-1_002.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",24.7,4936.0,20000
+Specimen_005_CP49PBA45 NP10 GFP-1_002.fcs,"Specimen_005_CP49PBA45 NP10 GFP-1_002.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",1.25,250.0,20000
+Specimen_005_CP49PBA45 NP10 GFP-1_002.fcs,"Specimen_005_CP49PBA45 NP10 GFP-1_002.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",31.4,6271.0,20000
+Specimen_005_CP49PBA45 NP10 GFP-1_002.fcs,"Specimen_005_CP49PBA45 NP10 GFP-1_002.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",42.7,8543.0,20000
+Specimen_005_CP49PBA77 NP4 GFP-1_007.fcs,Specimen_005_CP49PBA77 NP4 GFP-1_007.fcs/Comp-Pacific Blue-A subset,88.4,17683.0,20000
+Specimen_005_CP49PBA77 NP4 GFP-1_007.fcs,Specimen_005_CP49PBA77 NP4 GFP-1_007.fcs/Lymphocytes,79.5,15908.0,20000
+Specimen_005_CP49PBA77 NP4 GFP-1_007.fcs,Specimen_005_CP49PBA77 NP4 GFP-1_007.fcs/Lymphocytes/Single Cells,66.2,10531.0,20000
+Specimen_005_CP49PBA77 NP4 GFP-1_007.fcs,"Specimen_005_CP49PBA77 NP4 GFP-1_007.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",88.2,9286.0,20000
+Specimen_005_CP49PBA77 NP4 GFP-1_007.fcs,Mean : Comp-FITC-A = 1783.91394043,1784.0,,20000
+Specimen_005_CP49PBA77 NP4 GFP-1_007.fcs,"Specimen_005_CP49PBA77 NP4 GFP-1_007.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",86.5,8028.0,20000
+Specimen_005_CP49PBA77 NP4 GFP-1_007.fcs,"Specimen_005_CP49PBA77 NP4 GFP-1_007.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",69.1,13822.0,20000
+Specimen_005_CP49PBA77 NP4 GFP-1_007.fcs,"Specimen_005_CP49PBA77 NP4 GFP-1_007.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",0.91,182.0,20000
+Specimen_005_CP49PBA77 NP4 GFP-1_007.fcs,"Specimen_005_CP49PBA77 NP4 GFP-1_007.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",10.4,2083.0,20000
+Specimen_005_CP49PBA77 NP4 GFP-1_007.fcs,"Specimen_005_CP49PBA77 NP4 GFP-1_007.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",19.6,3913.0,20000
+Specimen_005_CP49PBA77 NP4 GFP-1_009.fcs,Specimen_005_CP49PBA77 NP4 GFP-1_009.fcs/Comp-Pacific Blue-A subset,88.2,17650.0,20000
+Specimen_005_CP49PBA77 NP4 GFP-1_009.fcs,Specimen_005_CP49PBA77 NP4 GFP-1_009.fcs/Lymphocytes,79.3,15851.0,20000
+Specimen_005_CP49PBA77 NP4 GFP-1_009.fcs,Specimen_005_CP49PBA77 NP4 GFP-1_009.fcs/Lymphocytes/Single Cells,65.8,10431.0,20000
+Specimen_005_CP49PBA77 NP4 GFP-1_009.fcs,"Specimen_005_CP49PBA77 NP4 GFP-1_009.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",87.8,9156.0,20000
+Specimen_005_CP49PBA77 NP4 GFP-1_009.fcs,Mean : Comp-FITC-A = 1752.62890625,1753.0,,20000
+Specimen_005_CP49PBA77 NP4 GFP-1_009.fcs,"Specimen_005_CP49PBA77 NP4 GFP-1_009.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",86.3,7902.0,20000
+Specimen_005_CP49PBA77 NP4 GFP-1_009.fcs,"Specimen_005_CP49PBA77 NP4 GFP-1_009.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",68.7,13738.0,20000
+Specimen_005_CP49PBA77 NP4 GFP-1_009.fcs,"Specimen_005_CP49PBA77 NP4 GFP-1_009.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",0.83,167.0,20000
+Specimen_005_CP49PBA77 NP4 GFP-1_009.fcs,"Specimen_005_CP49PBA77 NP4 GFP-1_009.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",10.7,2139.0,20000
+Specimen_005_CP49PBA77 NP4 GFP-1_009.fcs,"Specimen_005_CP49PBA77 NP4 GFP-1_009.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",19.8,3956.0,20000
+Specimen_005_CP49PBA77 NP10 GFP-1_006.fcs,Specimen_005_CP49PBA77 NP10 GFP-1_006.fcs/Comp-Pacific Blue-A subset,87.6,17511.0,20000
+Specimen_005_CP49PBA77 NP10 GFP-1_006.fcs,Specimen_005_CP49PBA77 NP10 GFP-1_006.fcs/Lymphocytes,78.9,15778.0,20000
+Specimen_005_CP49PBA77 NP10 GFP-1_006.fcs,Specimen_005_CP49PBA77 NP10 GFP-1_006.fcs/Lymphocytes/Single Cells,54.6,8618.0,20000
+Specimen_005_CP49PBA77 NP10 GFP-1_006.fcs,"Specimen_005_CP49PBA77 NP10 GFP-1_006.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",84.6,7288.0,20000
+Specimen_005_CP49PBA77 NP10 GFP-1_006.fcs,Mean : Comp-FITC-A = 1256.233642578,1256.0,,20000
+Specimen_005_CP49PBA77 NP10 GFP-1_006.fcs,"Specimen_005_CP49PBA77 NP10 GFP-1_006.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",79.0,5758.0,20000
+Specimen_005_CP49PBA77 NP10 GFP-1_006.fcs,"Specimen_005_CP49PBA77 NP10 GFP-1_006.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",66.3,13253.0,20000
+Specimen_005_CP49PBA77 NP10 GFP-1_006.fcs,"Specimen_005_CP49PBA77 NP10 GFP-1_006.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",0.74,149.0,20000
+Specimen_005_CP49PBA77 NP10 GFP-1_006.fcs,"Specimen_005_CP49PBA77 NP10 GFP-1_006.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",11.4,2271.0,20000
+Specimen_005_CP49PBA77 NP10 GFP-1_006.fcs,"Specimen_005_CP49PBA77 NP10 GFP-1_006.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",21.6,4327.0,20000
+Specimen_005_CP49PBA77 NP10 GFP-1_008.fcs,Specimen_005_CP49PBA77 NP10 GFP-1_008.fcs/Comp-Pacific Blue-A subset,87.0,17390.0,20000
+Specimen_005_CP49PBA77 NP10 GFP-1_008.fcs,Specimen_005_CP49PBA77 NP10 GFP-1_008.fcs/Lymphocytes,78.5,15705.0,20000
+Specimen_005_CP49PBA77 NP10 GFP-1_008.fcs,Specimen_005_CP49PBA77 NP10 GFP-1_008.fcs/Lymphocytes/Single Cells,55.2,8668.0,20000
+Specimen_005_CP49PBA77 NP10 GFP-1_008.fcs,"Specimen_005_CP49PBA77 NP10 GFP-1_008.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",84.0,7281.0,20000
+Specimen_005_CP49PBA77 NP10 GFP-1_008.fcs,Mean : Comp-FITC-A = 1229.879638672,1230.0,,20000
+Specimen_005_CP49PBA77 NP10 GFP-1_008.fcs,"Specimen_005_CP49PBA77 NP10 GFP-1_008.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",77.9,5671.0,20000
+Specimen_005_CP49PBA77 NP10 GFP-1_008.fcs,"Specimen_005_CP49PBA77 NP10 GFP-1_008.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",64.9,12972.0,20000
+Specimen_005_CP49PBA77 NP10 GFP-1_008.fcs,"Specimen_005_CP49PBA77 NP10 GFP-1_008.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",0.76,152.0,20000
+Specimen_005_CP49PBA77 NP10 GFP-1_008.fcs,"Specimen_005_CP49PBA77 NP10 GFP-1_008.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",12.0,2396.0,20000
+Specimen_005_CP49PBA77 NP10 GFP-1_008.fcs,"Specimen_005_CP49PBA77 NP10 GFP-1_008.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",22.4,4480.0,20000
+Specimen_005_CP49PB77 NP6 GFP-1_009.fcs,Specimen_005_CP49PB77 NP6 GFP-1_009.fcs/Comp-Pacific Blue-A subset,79.6,15916.0,20000
+Specimen_005_CP49PB77 NP6 GFP-1_009.fcs,Specimen_005_CP49PB77 NP6 GFP-1_009.fcs/Lymphocytes,79.5,15901.0,20000
+Specimen_005_CP49PB77 NP6 GFP-1_009.fcs,Specimen_005_CP49PB77 NP6 GFP-1_009.fcs/Lymphocytes/Single Cells,62.5,9933.0,20000
+Specimen_005_CP49PB77 NP6 GFP-1_009.fcs,"Specimen_005_CP49PB77 NP6 GFP-1_009.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",77.8,7725.0,20000
+Specimen_005_CP49PB77 NP6 GFP-1_009.fcs,Mean : Comp-FITC-A = 1674.697265625,1675.0,,20000
+Specimen_005_CP49PB77 NP6 GFP-1_009.fcs,"Specimen_005_CP49PB77 NP6 GFP-1_009.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",86.7,6698.0,20000
+Specimen_005_CP49PB77 NP6 GFP-1_009.fcs,"Specimen_005_CP49PB77 NP6 GFP-1_009.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",64.7,12939.0,20000
+Specimen_005_CP49PB77 NP6 GFP-1_009.fcs,"Specimen_005_CP49PB77 NP6 GFP-1_009.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",1.26,251.0,20000
+Specimen_005_CP49PB77 NP6 GFP-1_009.fcs,"Specimen_005_CP49PB77 NP6 GFP-1_009.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",18.8,3751.0,20000
+Specimen_005_CP49PB77 NP6 GFP-1_009.fcs,"Specimen_005_CP49PB77 NP6 GFP-1_009.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",15.3,3059.0,20000
+Specimen_005_CP49PB77 NP6 GFP-1_010.fcs,Specimen_005_CP49PB77 NP6 GFP-1_010.fcs/Comp-Pacific Blue-A subset,80.0,16010.0,20000
+Specimen_005_CP49PB77 NP6 GFP-1_010.fcs,Specimen_005_CP49PB77 NP6 GFP-1_010.fcs/Lymphocytes,79.6,15917.0,20000
+Specimen_005_CP49PB77 NP6 GFP-1_010.fcs,Specimen_005_CP49PB77 NP6 GFP-1_010.fcs/Lymphocytes/Single Cells,62.4,9926.0,20000
+Specimen_005_CP49PB77 NP6 GFP-1_010.fcs,"Specimen_005_CP49PB77 NP6 GFP-1_010.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",78.4,7780.0,20000
+Specimen_005_CP49PB77 NP6 GFP-1_010.fcs,Mean : Comp-FITC-A = 1683.561401367,1684.0,,20000
+Specimen_005_CP49PB77 NP6 GFP-1_010.fcs,"Specimen_005_CP49PB77 NP6 GFP-1_010.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",86.5,6732.0,20000
+Specimen_005_CP49PB77 NP6 GFP-1_010.fcs,"Specimen_005_CP49PB77 NP6 GFP-1_010.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",65.1,13016.0,20000
+Specimen_005_CP49PB77 NP6 GFP-1_010.fcs,"Specimen_005_CP49PB77 NP6 GFP-1_010.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",1.15,230.0,20000
+Specimen_005_CP49PB77 NP6 GFP-1_010.fcs,"Specimen_005_CP49PB77 NP6 GFP-1_010.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",18.3,3666.0,20000
+Specimen_005_CP49PB77 NP6 GFP-1_010.fcs,"Specimen_005_CP49PB77 NP6 GFP-1_010.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",15.4,3088.0,20000
+Specimen_005_CP76PBA18 NP4 GFP-1_005.fcs,Specimen_005_CP76PBA18 NP4 GFP-1_005.fcs/Comp-Pacific Blue-A subset,71.8,14362.0,20000
+Specimen_005_CP76PBA18 NP4 GFP-1_005.fcs,Specimen_005_CP76PBA18 NP4 GFP-1_005.fcs/Lymphocytes,78.3,15668.0,20000
+Specimen_005_CP76PBA18 NP4 GFP-1_005.fcs,Specimen_005_CP76PBA18 NP4 GFP-1_005.fcs/Lymphocytes/Single Cells,71.1,11146.0,20000
+Specimen_005_CP76PBA18 NP4 GFP-1_005.fcs,"Specimen_005_CP76PBA18 NP4 GFP-1_005.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",64.6,7197.0,20000
+Specimen_005_CP76PBA18 NP4 GFP-1_005.fcs,Mean : Comp-FITC-A = 1760.976318359,1761.0,,20000
+Specimen_005_CP76PBA18 NP4 GFP-1_005.fcs,"Specimen_005_CP76PBA18 NP4 GFP-1_005.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",86.6,6233.0,20000
+Specimen_005_CP76PBA18 NP4 GFP-1_005.fcs,"Specimen_005_CP76PBA18 NP4 GFP-1_005.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",55.6,11121.0,20000
+Specimen_005_CP76PBA18 NP4 GFP-1_005.fcs,"Specimen_005_CP76PBA18 NP4 GFP-1_005.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",1.69,337.0,20000
+Specimen_005_CP76PBA18 NP4 GFP-1_005.fcs,"Specimen_005_CP76PBA18 NP4 GFP-1_005.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",25.9,5174.0,20000
+Specimen_005_CP76PBA18 NP4 GFP-1_005.fcs,"Specimen_005_CP76PBA18 NP4 GFP-1_005.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",16.8,3368.0,20000
+Specimen_005_CP76PBA18 NP4 GFP-1_006.fcs,Specimen_005_CP76PBA18 NP4 GFP-1_006.fcs/Comp-Pacific Blue-A subset,70.7,14134.0,20000
+Specimen_005_CP76PBA18 NP4 GFP-1_006.fcs,Specimen_005_CP76PBA18 NP4 GFP-1_006.fcs/Lymphocytes,78.1,15616.0,20000
+Specimen_005_CP76PBA18 NP4 GFP-1_006.fcs,Specimen_005_CP76PBA18 NP4 GFP-1_006.fcs/Lymphocytes/Single Cells,71.6,11175.0,20000
+Specimen_005_CP76PBA18 NP4 GFP-1_006.fcs,"Specimen_005_CP76PBA18 NP4 GFP-1_006.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",64.6,7222.0,20000
+Specimen_005_CP76PBA18 NP4 GFP-1_006.fcs,Mean : Comp-FITC-A = 1762.846557617,1763.0,,20000
+Specimen_005_CP76PBA18 NP4 GFP-1_006.fcs,"Specimen_005_CP76PBA18 NP4 GFP-1_006.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",86.8,6266.0,20000
+Specimen_005_CP76PBA18 NP4 GFP-1_006.fcs,"Specimen_005_CP76PBA18 NP4 GFP-1_006.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",55.1,11012.0,20000
+Specimen_005_CP76PBA18 NP4 GFP-1_006.fcs,"Specimen_005_CP76PBA18 NP4 GFP-1_006.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",1.65,329.0,20000
+Specimen_005_CP76PBA18 NP4 GFP-1_006.fcs,"Specimen_005_CP76PBA18 NP4 GFP-1_006.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",26.8,5362.0,20000
+Specimen_005_CP76PBA18 NP4 GFP-1_006.fcs,"Specimen_005_CP76PBA18 NP4 GFP-1_006.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",16.5,3297.0,20000
+Specimen_005_CP76PBA18 NP6 GFP-1_007.fcs,Specimen_005_CP76PBA18 NP6 GFP-1_007.fcs/Comp-Pacific Blue-A subset,65.5,13107.0,20000
+Specimen_005_CP76PBA18 NP6 GFP-1_007.fcs,Specimen_005_CP76PBA18 NP6 GFP-1_007.fcs/Lymphocytes,82.2,16443.0,20000
+Specimen_005_CP76PBA18 NP6 GFP-1_007.fcs,Specimen_005_CP76PBA18 NP6 GFP-1_007.fcs/Lymphocytes/Single Cells,75.3,12388.0,20000
+Specimen_005_CP76PBA18 NP6 GFP-1_007.fcs,"Specimen_005_CP76PBA18 NP6 GFP-1_007.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",57.1,7078.0,20000
+Specimen_005_CP76PBA18 NP6 GFP-1_007.fcs,Mean : Comp-FITC-A = 1655.707641602,1656.0,,20000
+Specimen_005_CP76PBA18 NP6 GFP-1_007.fcs,"Specimen_005_CP76PBA18 NP6 GFP-1_007.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",87.9,6224.0,20000
+Specimen_005_CP76PBA18 NP6 GFP-1_007.fcs,"Specimen_005_CP76PBA18 NP6 GFP-1_007.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",51.2,10242.0,20000
+Specimen_005_CP76PBA18 NP6 GFP-1_007.fcs,"Specimen_005_CP76PBA18 NP6 GFP-1_007.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",1.04,209.0,20000
+Specimen_005_CP76PBA18 NP6 GFP-1_007.fcs,"Specimen_005_CP76PBA18 NP6 GFP-1_007.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",32.8,6555.0,20000
+Specimen_005_CP76PBA18 NP6 GFP-1_007.fcs,"Specimen_005_CP76PBA18 NP6 GFP-1_007.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",15.0,2994.0,20000
+Specimen_005_CP76PBA18 NP10 GFP-1_003.fcs,Specimen_005_CP76PBA18 NP10 GFP-1_003.fcs/Comp-Pacific Blue-A subset,60.7,12149.0,20000
+Specimen_005_CP76PBA18 NP10 GFP-1_003.fcs,Specimen_005_CP76PBA18 NP10 GFP-1_003.fcs/Lymphocytes,66.0,13190.0,20000
+Specimen_005_CP76PBA18 NP10 GFP-1_003.fcs,Specimen_005_CP76PBA18 NP10 GFP-1_003.fcs/Lymphocytes/Single Cells,67.3,8871.0,20000
+Specimen_005_CP76PBA18 NP10 GFP-1_003.fcs,"Specimen_005_CP76PBA18 NP10 GFP-1_003.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",55.2,4895.0,20000
+Specimen_005_CP76PBA18 NP10 GFP-1_003.fcs,Mean : Comp-FITC-A = 200.341201782,200.0,,20000
+Specimen_005_CP76PBA18 NP10 GFP-1_003.fcs,"Specimen_005_CP76PBA18 NP10 GFP-1_003.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",8.19,401.0,20000
+Specimen_005_CP76PBA18 NP10 GFP-1_003.fcs,"Specimen_005_CP76PBA18 NP10 GFP-1_003.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",5.93,1187.0,20000
+Specimen_005_CP76PBA18 NP10 GFP-1_003.fcs,"Specimen_005_CP76PBA18 NP10 GFP-1_003.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",1.09,218.0,20000
+Specimen_005_CP76PBA18 NP10 GFP-1_003.fcs,"Specimen_005_CP76PBA18 NP10 GFP-1_003.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",37.2,7441.0,20000
+Specimen_005_CP76PBA18 NP10 GFP-1_003.fcs,"Specimen_005_CP76PBA18 NP10 GFP-1_003.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",55.8,11154.0,20000
+Specimen_005_L3k low GFP.fcs,Specimen_005_L3k low GFP.fcs/Comp-Pacific Blue-A subset,87.1,17422.0,20000
+Specimen_005_L3k low GFP.fcs,Specimen_005_L3k low GFP.fcs/Lymphocytes,41.1,8219.0,20000
+Specimen_005_L3k low GFP.fcs,Specimen_005_L3k low GFP.fcs/Lymphocytes/Single Cells,69.1,5681.0,20000
+Specimen_005_L3k low GFP.fcs,"Specimen_005_L3k low GFP.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",82.7,4699.0,20000
+Specimen_005_L3k low GFP.fcs,Mean : Comp-FITC-A = 154.063842773,154.0,,20000
+Specimen_005_L3k low GFP.fcs,"Specimen_005_L3k low GFP.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",6.9,324.0,20000
+Specimen_005_L3k low GFP.fcs,"Specimen_005_L3k low GFP.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",9.39,1878.0,20000
+Specimen_005_L3k low GFP.fcs,"Specimen_005_L3k low GFP.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",0.21,43.0,20000
+Specimen_005_L3k low GFP.fcs,"Specimen_005_L3k low GFP.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",12.2,2447.0,20000
+Specimen_005_L3k low GFP.fcs,"Specimen_005_L3k low GFP.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",78.2,15632.0,20000
+Specimen_005_WT-1_001.fcs,Specimen_005_WT-1_001.fcs/Comp-Pacific Blue-A subset,81.7,16345.0,20000
+Specimen_005_WT-1_001.fcs,Specimen_005_WT-1_001.fcs/Lymphocytes,83.6,16727.0,20000
+Specimen_005_WT-1_001.fcs,Specimen_005_WT-1_001.fcs/Lymphocytes/Single Cells,60.0,10031.0,20000
+Specimen_005_WT-1_001.fcs,"Specimen_005_WT-1_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",77.6,7787.0,20000
+Specimen_005_WT-1_001.fcs,Mean : Comp-FITC-A = 2145.784423828,2146.0,,20000
+Specimen_005_WT-1_001.fcs,"Specimen_005_WT-1_001.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",87.8,6836.0,20000
+Specimen_005_WT-1_001.fcs,"Specimen_005_WT-1_001.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",69.1,13828.0,20000
+Specimen_005_WT-1_001.fcs,"Specimen_005_WT-1_001.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",1.68,335.0,20000
+Specimen_005_WT-1_001.fcs,"Specimen_005_WT-1_001.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",16.2,3239.0,20000
+Specimen_005_WT-1_001.fcs,"Specimen_005_WT-1_001.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",13.0,2598.0,20000
+Specimen_005_WT.fcs,Specimen_005_WT.fcs/Comp-Pacific Blue-A subset,84.2,16849.0,20000
+Specimen_005_WT.fcs,Specimen_005_WT.fcs/Lymphocytes,84.2,16834.0,20000
+Specimen_005_WT.fcs,Specimen_005_WT.fcs/Lymphocytes/Single Cells,59.8,10075.0,20000
+Specimen_005_WT.fcs,"Specimen_005_WT.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset",79.7,8033.0,20000
+Specimen_005_WT.fcs,Mean : Comp-FITC-A = 2137.739746094,2138.0,,20000
+Specimen_005_WT.fcs,"Specimen_005_WT.fcs/Lymphocytes/Single Cells/Comp-Pacific Blue-A, FSC-A subset/Comp-FITC-A, FSC-A subset",87.4,7022.0,20000
+Specimen_005_WT.fcs,"Specimen_005_WT.fcs/Q1: Comp-Pacific Blue-A- , Comp-FITC-A+",70.8,14163.0,20000
+Specimen_005_WT.fcs,"Specimen_005_WT.fcs/Q2: Comp-Pacific Blue-A+ , Comp-FITC-A+",2.04,409.0,20000
+Specimen_005_WT.fcs,"Specimen_005_WT.fcs/Q3: Comp-Pacific Blue-A+ , Comp-FITC-A-",13.3,2651.0,20000
+Specimen_005_WT.fcs,"Specimen_005_WT.fcs/Q4: Comp-Pacific Blue-A- , Comp-FITC-A-",13.9,2777.0,20000
