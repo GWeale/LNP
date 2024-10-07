@@ -5,33 +5,40 @@ import torch
 import torch.nn as nn
 from sklearn.preprocessing import StandardScaler, MinMaxScaler
 
-
+# Load data
 data = 'flow_cytometry_summary.csv'
-
 df = pd.read_csv(data)
 
+# Rename columns
+df.rename(columns={
+    'Comp-Pacific Blue-A subset': 'cell viability',
+    'After Mean': 'Knockdown'
+}, inplace=True)
 
+# Separate controls
 controls = df[(df['PEI Ratio'] == 0) & (df['NP Ratio'] == 0) & (df['PBA Ratio'] == 0)]
 controls.reset_index(drop=True, inplace=True)
 
+# Remove controls from main dataframe
 df = df[~((df['PEI Ratio'] == 0) & (df['NP Ratio'] == 0) & (df['PBA Ratio'] == 0))]
 df.reset_index(drop=True, inplace=True)
 
-
-X = df[['Comp-Pacific Blue-A subset', 'Mean', 'After Mean']].values
-
+# Select input features (excluding 'Mean') and target ratios
+X = df[['cell viability', 'Knockdown']].values  # Updated to exclude 'Mean'
 y = df[['PEI Ratio', 'NP Ratio', 'PBA Ratio']].values
 
-
+# Scale inputs and outputs
 input_scaler = StandardScaler()
 output_scaler = StandardScaler()
 
 X_scaled = input_scaler.fit_transform(X)
 y_scaled = output_scaler.fit_transform(y)
 
+# Convert to PyTorch tensors
 X_tensor = torch.tensor(X_scaled, dtype=torch.float32)
 y_tensor = torch.tensor(y_scaled, dtype=torch.float32)
 
+# Define the neural network
 class Net(nn.Module):
     def __init__(self, input_size, output_size):
         super(Net, self).__init__()
@@ -49,16 +56,17 @@ class Net(nn.Module):
         out = self.fc3(out)
         return out
 
-model = Net(input_size=3, output_size=3)  
+# Initialize the model with updated input size
+model = Net(input_size=2, output_size=3)  # input_size changed from 3 to 2
 
-def custom_loss(outputs, targets):
-    return criterion(outputs, targets)
-
+# Define loss function and optimizer
 criterion = nn.MSELoss()
 optimizer = torch.optim.Adam(model.parameters(), lr=0.01)
 
+# Training loop
 num_epochs = 500
 for epoch in range(num_epochs):
+    model.train()
     outputs = model(X_tensor)
     loss = criterion(outputs, y_tensor)
     
@@ -66,33 +74,39 @@ for epoch in range(num_epochs):
     loss.backward()
     optimizer.step()
     
-
-    if (epoch+1) % 100 == 0:
+    if (epoch + 1) % 100 == 0:
         print(f'Epoch [{epoch+1}/{num_epochs}], Loss: {loss.item():.4f}')
 
+# Generate grid for prediction using only 'cell viability' and 'Knockdown'
+cell_viability_values = np.linspace(df['cell viability'].min(), df['cell viability'].max(), num=50)
+knockdown_values = np.linspace(df['Knockdown'].min(), df['Knockdown'].max(), num=50)
 
-comp_pacific_values = np.linspace(df['Comp-Pacific Blue-A subset'].max(), df['Comp-Pacific Blue-A subset'].min(), num=50)
-mean_values = np.linspace(df['Mean'].min(), df['Mean'].max(), num=50)
-after_mean_values = np.linspace(df['After Mean'].min(), df['After Mean'].max(), num=50)
+grid = np.meshgrid(cell_viability_values, knockdown_values)
+grid_reshaped = np.stack([grid[0].ravel(), grid[1].ravel()], axis=1)
 
-grid = np.meshgrid(comp_pacific_values, mean_values, after_mean_values)
-grid_reshaped = np.stack([grid[0].ravel(), grid[1].ravel(), grid[2].ravel()], axis=1)
-
+# Scale grid inputs
 grid_scaled = input_scaler.transform(grid_reshaped)
 grid_tensor = torch.tensor(grid_scaled, dtype=torch.float32)
 
+# Make predictions
+model.eval()
 with torch.no_grad():
     predictions_scaled = model(grid_tensor)
     predictions = output_scaler.inverse_transform(predictions_scaled.numpy())
 
-results = pd.DataFrame(grid_reshaped, columns=['Comp-Pacific Blue-A subset', 'Mean', 'After Mean'])
+# Create results dataframe
+results = pd.DataFrame(grid_reshaped, columns=['cell viability', 'Knockdown'])
 results[['PEI Ratio', 'NP Ratio', 'PBA Ratio']] = predictions
 
-results['Score'] = results['Comp-Pacific Blue-A subset'] - results['Mean'] - results['After Mean']
+# Compute score (adjusted to use only the two features)
+results['Score'] = results['cell viability'] - results['Knockdown']
 
+# Get top 5 results based on score
 top_results = results.sort_values('Score', ascending=False).head(5)
 
+# Display top results
 print("\nTop 5 Ratios Predicted to Achieve Desired Outputs:")
 print(top_results[['PEI Ratio', 'NP Ratio', 'PBA Ratio', 'Score']])
 
+# Save results to CSV
 results.to_csv('optimal_ratios.csv', index=False)
