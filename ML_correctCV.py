@@ -18,7 +18,6 @@ df = df[~((df['PEI Ratio'] == 0) & (df['NP Ratio'] == 0) & (df['PBA Ratio'] == 0
 df.reset_index(drop=True, inplace=True)
 
 
-
 X = df[['Comp-Pacific Blue-A subset', 'Mean', 'After Mean']].values
 
 y = df[['PEI Ratio', 'NP Ratio', 'PBA Ratio']].values
