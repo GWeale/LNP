@@ -79,6 +79,8 @@ q1_values = np.linspace(df['q1'].min(), df['q1'].max(), num=5)
 q2_values = np.linspace(df['q2'].min(), df['q2'].max(), num=5)
 q3_values = np.linspace(df['q3'].min(), df['q3'].max(), num=5)
 q4_values = np.linspace(df['q4'].min(), df['q4'].max(), num=5)
+#implements new methods
+
 
 grid = np.meshgrid(comp_pacific_values, mean_values, after_mean_values, q1_values, q2_values, q3_values, q4_values)
 grid_reshaped = np.stack([g.ravel() for g in grid], axis=1)

@@ -82,6 +82,8 @@ for specimen, group in df.groupby('Specimen'):
             row_data['After Mean'] = np.nan
     else:
         row_data['After Mean'] = np.nan
+    #implements new methods
+
 
     # Flatten arrays and handle missing data
     for key in ['Comp-Pacific Blue-A subset', 'q1', 'q2', 'q3', 'q4', 'Mean']:
