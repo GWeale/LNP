@@ -8,6 +8,7 @@ import matplotlib.pyplot as plt
 import signal
 from contextlib import contextmanager
 import time
+import shap
 
 class TimeoutException(Exception): pass
 
@@ -101,7 +102,7 @@ def train_models_with_kfold(X, y_comp_blue, y_after_mean, n_splits=3):
 
 def find_optimal_parameters(model_comp_blue, model_after_mean, data_ranges):
     """Find optimal parameters using grid search"""
-    pei_range = np.linspace(25.0, 80.0, 20)
+    pei_range = np.linspace(50.0, 80.0, 20)
     np_range = np.linspace(0.0, 10.0, 20)
     pba_range = np.linspace(10.0, 77.0, 20)
     
@@ -162,10 +163,86 @@ def plot_feature_importance(model_comp_blue, model_after_mean):
     plt.tight_layout()
     plt.show()
 
+def plot_shap_analysis(model_comp_blue, model_after_mean, X):
+    """
+    Create SHAP plots for both models
+    """
+    # Create figure with two subplots
+    fig, (ax1, ax2) = plt.subplots(2, 1, figsize=(10, 12))
+    
+    # SHAP values for Comp-Pacific Blue-A subset model
+    explainer_comp = shap.TreeExplainer(model_comp_blue.best_estimator_)
+    shap_values_comp = explainer_comp.shap_values(X)
+    
+    # SHAP values for After Mean model
+    explainer_after = shap.TreeExplainer(model_after_mean.best_estimator_)
+    shap_values_after = explainer_after.shap_values(X)
+    
+    # Plot SHAP summary plots
+    plt.subplot(2, 1, 1)
+    shap.summary_plot(shap_values_comp, X, 
+                     feature_names=['PEI Ratio', 'NP Ratio', 'PBA Ratio'],
+                     plot_type="bar",
+                     show=False,
+                     title="SHAP Feature Importance - Comp-Pacific Blue-A subset")
+    
+    plt.subplot(2, 1, 2)
+    shap.summary_plot(shap_values_after, X, 
+                     feature_names=['PEI Ratio', 'NP Ratio', 'PBA Ratio'],
+                     plot_type="bar",
+                     show=False,
+                     title="SHAP Feature Importance - After Mean")
+    
+    plt.tight_layout()
+    plt.show()
+
+def plot_detailed_shap_analysis(model_comp_blue, model_after_mean, X):
+    """
+    Create detailed SHAP dependency plots for each feature
+    """
+    features = ['PEI Ratio', 'NP Ratio', 'PBA Ratio']
+    
+    # Create SHAP explainers
+    explainer_comp = shap.TreeExplainer(model_comp_blue.best_estimator_)
+    explainer_after = shap.TreeExplainer(model_after_mean.best_estimator_)
+    
+    # Calculate SHAP values
+    shap_values_comp = explainer_comp.shap_values(X)
+    shap_values_after = explainer_after.shap_values(X)
+    
+    # Plot dependency plots for each feature
+    for i, feature in enumerate(features):
+        plt.figure(figsize=(15, 10))
+        
+        # Comp-Pacific Blue-A subset
+        plt.subplot(2, 1, 1)
+        shap.dependence_plot(
+            ind=i, 
+            shap_values=shap_values_comp, 
+            features=X,
+            feature_names=features,
+            show=False
+        )
+        plt.title(f'{feature} Impact on Comp-Pacific Blue-A subset')
+        
+        # After Mean
+        plt.subplot(2, 1, 2)
+        shap.dependence_plot(
+            ind=i, 
+            shap_values=shap_values_after, 
+            features=X,
+            feature_names=features,
+            show=False
+        )
+        plt.title(f'{feature} Impact on After Mean')
+        
+        plt.tight_layout()
+        plt.show()
+
 def main():
     try:
         with time_limit(300):  # 5 minutes timeout
-            # Load data
+            # Load and process data
             df = pd.read_csv('flow_cytometry_summary.csv')
             
             # Analyze raw data
@@ -205,13 +282,24 @@ def main():
             print(f"Comp-Pacific Blue-A subset: {optimal_predictions[0]:.2f}")
             print(f"After Mean: {optimal_predictions[1]:.2f}")
             
-            # Plot feature importance
-            plot_feature_importance(model_comp_blue, model_after_mean)
-            
-            return model_comp_blue, model_after_mean
+            # Return the models and data for plotting outside the timeout
+            return model_comp_blue, model_after_mean, X
+
     except TimeoutException as e:
         print("Script timed out after 5 minutes!")
-        return None, None
+        return None, None, None
 
 if __name__ == "__main__":
-    model_comp_blue, model_after_mean = main()
+    # Run main analysis
+    model_comp_blue, model_after_mean, X = main()
+    
+    # If models were successfully trained, create plots
+    if model_comp_blue is not None and model_after_mean is not None:
+        # Plot feature importance
+        plot_feature_importance(model_comp_blue, model_after_mean)
+        
+        # Plot SHAP analysis
+        plot_shap_analysis(model_comp_blue, model_after_mean, X)
+        
+        # Plot detailed SHAP analysis
+        plot_detailed_shap_analysis(model_comp_blue, model_after_mean, X)
