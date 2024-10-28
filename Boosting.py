@@ -5,6 +5,22 @@ from sklearn.model_selection import train_test_split, GridSearchCV, KFold
 from sklearn.metrics import mean_squared_error
 from sklearn.preprocessing import StandardScaler
 import matplotlib.pyplot as plt
+import signal
+from contextlib import contextmanager
+import time
+
+class TimeoutException(Exception): pass
+
+@contextmanager
+def time_limit(seconds):
+    def signal_handler(signum, frame):
+        raise TimeoutException("Timed out!")
+    signal.signal(signal.SIGALRM, signal_handler)
+    signal.alarm(seconds)
+    try:
+        yield
+    finally:
+        signal.alarm(0)
 
 def analyze_data(df):
     """Analyze and print summary statistics of the dataset"""
@@ -152,50 +168,55 @@ def plot_feature_importance(model_comp_blue, model_after_mean):
     plt.show()
 
 def main():
-    # Load data
-    df = pd.read_csv('flow_cytometry_summary.csv')
-    
-    # Analyze raw data
-    analyze_data(df)
-    
-    # Process data
-    processed_data = process_data(df)
-    
-    # Prepare features and targets
-    X = processed_data[['PEI Ratio', 'NP Ratio', 'PBA Ratio']].values
-    y_comp_blue = processed_data['Comp_Blue_mean'].values
-    y_after_mean = processed_data['After_Mean_mean'].values
-    
-    # Calculate data ranges for constraints
-    data_ranges = {
-        'Comp-Pacific Blue-A subset': {
-            'min': df['Comp-Pacific Blue-A subset'].min(),
-            'max': df['Comp-Pacific Blue-A subset'].max()
-        },
-        'After Mean': {
-            'min': df['After Mean'].min(),
-            'max': df['After Mean'].max()
-        }
-    }
-    
-    # Train models
-    model_comp_blue, model_after_mean = train_models_with_kfold(X, y_comp_blue, y_after_mean)
-    
-    # Find optimal parameters
-    optimal_params, optimal_predictions = find_optimal_parameters(model_comp_blue, model_after_mean, data_ranges)
-    
-    print("\nOptimal Parameters:")
-    print(f"PEI Ratio: {optimal_params[0]:.2f}")
-    print(f"NP Ratio: {optimal_params[1]:.2f}")
-    print(f"PBA Ratio: {optimal_params[2]:.2f}")
-    print("\nPredicted Outcomes:")
-    print(f"Comp-Pacific Blue-A subset: {optimal_predictions[0]:.2f}")
-    print(f"After Mean: {optimal_predictions[1]:.2f}")
-    
-    # Plot feature importance
-    plot_feature_importance(model_comp_blue, model_after_mean)
-    
-    return model_comp_blue, model_after_mean
+    try:
+        with time_limit(300):  # 5 minutes timeout
+            # Load data
+            df = pd.read_csv('flow_cytometry_summary.csv')
+            
+            # Analyze raw data
+            analyze_data(df)
+            
+            # Process data
+            processed_data = process_data(df)
+            
+            # Prepare features and targets
+            X = processed_data[['PEI Ratio', 'NP Ratio', 'PBA Ratio']].values
+            y_comp_blue = processed_data['Comp_Blue_mean'].values
+            y_after_mean = processed_data['After_Mean_mean'].values
+            
+            # Calculate data ranges for constraints
+            data_ranges = {
+                'Comp-Pacific Blue-A subset': {
+                    'min': df['Comp-Pacific Blue-A subset'].min(),
+                    'max': df['Comp-Pacific Blue-A subset'].max()
+                },
+                'After Mean': {
+                    'min': df['After Mean'].min(),
+                    'max': df['After Mean'].max()
+                }
+            }
+            
+            # Train models
+            model_comp_blue, model_after_mean = train_models_with_kfold(X, y_comp_blue, y_after_mean)
+            
+            # Find optimal parameters
+            optimal_params, optimal_predictions = find_optimal_parameters(model_comp_blue, model_after_mean, data_ranges)
+            
+            print("\nOptimal Parameters:")
+            print(f"PEI Ratio: {optimal_params[0]:.2f}")
+            print(f"NP Ratio: {optimal_params[1]:.2f}")
+            print(f"PBA Ratio: {optimal_params[2]:.2f}")
+            print("\nPredicted Outcomes:")
+            print(f"Comp-Pacific Blue-A subset: {optimal_predictions[0]:.2f}")
+            print(f"After Mean: {optimal_predictions[1]:.2f}")
+            
+            # Plot feature importance
+            plot_feature_importance(model_comp_blue, model_after_mean)
+            
+            return model_comp_blue, model_after_mean
+    except TimeoutException as e:
+        print("Script timed out after 5 minutes!")
+        return None, None
 
 if __name__ == "__main__":
     model_comp_blue, model_after_mean = main()
