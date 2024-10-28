@@ -57,7 +57,6 @@ def train_models_with_kfold(X, y_comp_blue, y_after_mean, n_splits=3):
         y_comp_blue_train, y_comp_blue_test = y_comp_blue[train_index], y_comp_blue[test_index]
         y_after_mean_train, y_after_mean_test = y_after_mean[train_index], y_after_mean[test_index]
         
-        # Simplified parameter grid with fewer options
         param_grid = {
             'max_depth': [2, 3],           # Reduced options
             'learning_rate': [0.1],        # Single value
@@ -67,7 +66,6 @@ def train_models_with_kfold(X, y_comp_blue, y_after_mean, n_splits=3):
             'subsample': [0.8]             # Single value
         }
         
-        # Train model for Comp-Pacific Blue-A subset
         model_comp_blue = GridSearchCV(
             xgb.XGBRegressor(objective='reg:squarederror', random_state=42),
             param_grid,
@@ -77,7 +75,6 @@ def train_models_with_kfold(X, y_comp_blue, y_after_mean, n_splits=3):
         )
         model_comp_blue.fit(X_train, y_comp_blue_train)
         
-        # Train model for After Mean
         model_after_mean = GridSearchCV(
             xgb.XGBRegressor(objective='reg:squarederror', random_state=42),
             param_grid,
@@ -87,7 +84,6 @@ def train_models_with_kfold(X, y_comp_blue, y_after_mean, n_splits=3):
         )
         model_after_mean.fit(X_train, y_after_mean_train)
         
-        # Evaluate models
         y_comp_blue_pred = model_comp_blue.predict(X_test)
         y_after_mean_pred = model_after_mean.predict(X_test)
         
@@ -105,10 +101,9 @@ def train_models_with_kfold(X, y_comp_blue, y_after_mean, n_splits=3):
 
 def find_optimal_parameters(model_comp_blue, model_after_mean, data_ranges):
     """Find optimal parameters using grid search"""
-    # Create grid of parameters with meaningful bounds
-    pei_range = np.linspace(25.0, 80.0, 20)  # Modified range
-    np_range = np.linspace(0.0, 10.0, 20)    # Modified range
-    pba_range = np.linspace(10.0, 77.0, 20)   # Modified range
+    pei_range = np.linspace(25.0, 80.0, 20)
+    np_range = np.linspace(0.0, 10.0, 20)
+    pba_range = np.linspace(10.0, 77.0, 20)
     
     best_score = float('-inf')
     best_params = None
