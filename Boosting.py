@@ -174,99 +174,71 @@ def plot_feature_importance(model_comp_blue, model_after_mean):
     plt.tight_layout()
     plt.show()
 
-def plot_shap_analysis(model_comp_blue, model_after_mean, X):
+def plot_all_shap_analysis(model_comp_blue, model_after_mean, X):
     """
-    Create publication-style SHAP summary dot plots for both models
-    """
-    # Set style for publication quality plots
-    plt.style.use('seaborn')
-    
-    # Create figure
-    fig, (ax1, ax2) = plt.subplots(2, 1, figsize=(10, 12))
-    
-    # SHAP values for Comp-Pacific Blue-A subset model
-    explainer_comp = shap.TreeExplainer(model_comp_blue.best_estimator_)
-    shap_values_comp = explainer_comp.shap_values(X)
-    
-    # SHAP values for After Mean model
-    explainer_after = shap.TreeExplainer(model_after_mean.best_estimator_)
-    shap_values_after = explainer_after.shap_values(X)
-    
-    # Plot SHAP summary plots (dot plots)
-    plt.subplot(2, 1, 1)
-    shap.summary_plot(shap_values_comp, X, 
-                     feature_names=['PEI Ratio', 'NP Ratio', 'PBA Ratio'],
-                     plot_type="dot",  # Changed to dot plot
-                     show=False,
-                     alpha=0.5,  # Transparency of points
-                     max_display=3)  # Show all 3 features
-    plt.title("SHAP Values Impact on Comp-Pacific Blue-A", pad=20, fontsize=12)
-    
-    plt.subplot(2, 1, 2)
-    shap.summary_plot(shap_values_after, X, 
-                     feature_names=['PEI Ratio', 'NP Ratio', 'PBA Ratio'],
-                     plot_type="dot",  # Changed to dot plot
-                     show=False,
-                     alpha=0.5,  # Transparency of points
-                     max_display=3)  # Show all 3 features
-    plt.title("SHAP Values Impact on After Mean", pad=20, fontsize=12)
-    
-    # Adjust layout
-    plt.tight_layout(pad=3.0)
-    
-    # Save high-resolution figure
-    plt.savefig('shap_summary_plots.png', dpi=300, bbox_inches='tight')
-    plt.show()
-
-def plot_detailed_shap_analysis(model_comp_blue, model_after_mean, X):
-    """
-    Create publication-style SHAP dependence plots for each feature
+    Create all SHAP plots in a single figure
     """
     plt.style.use('seaborn')
     features = ['PEI Ratio', 'NP Ratio', 'PBA Ratio']
     
-    # Create SHAP explainers
-    explainer_comp = shap.TreeExplainer(model_comp_blue.best_estimator_)
-    explainer_after = shap.TreeExplainer(model_after_mean.best_estimator_)
+    # Create a large figure with subplots
+    fig = plt.figure(figsize=(20, 25))
     
     # Calculate SHAP values
+    explainer_comp = shap.TreeExplainer(model_comp_blue.best_estimator_)
+    explainer_after = shap.TreeExplainer(model_after_mean.best_estimator_)
     shap_values_comp = explainer_comp.shap_values(X)
     shap_values_after = explainer_after.shap_values(X)
     
-    # Plot dependency plots for each feature
+    # Summary dot plots (top row)
+    plt.subplot(4, 2, 1)
+    shap.summary_plot(shap_values_comp, X, 
+                     feature_names=features,
+                     plot_type="dot",
+                     show=False,
+                     alpha=0.5,
+                     max_display=3)
+    plt.title("SHAP Values Impact on Comp-Pacific Blue-A", pad=20, fontsize=12)
+    
+    plt.subplot(4, 2, 2)
+    shap.summary_plot(shap_values_after, X, 
+                     feature_names=features,
+                     plot_type="dot",
+                     show=False,
+                     alpha=0.5,
+                     max_display=3)
+    plt.title("SHAP Values Impact on After Mean", pad=20, fontsize=12)
+    
+    # Dependence plots for each feature (remaining rows)
     for i, feature in enumerate(features):
-        fig, (ax1, ax2) = plt.subplots(2, 1, figsize=(8, 12))
-        
-        # Comp-Pacific Blue-A subset
-        plt.subplot(2, 1, 1)
+        # Comp-Pacific Blue-A
+        plt.subplot(4, 2, 2*i + 3)
         shap.dependence_plot(
             ind=i, 
             shap_values=shap_values_comp, 
             features=X,
             feature_names=features,
             show=False,
-            alpha=0.5,
-            ax=ax1
+            alpha=0.5
         )
-        ax1.set_title(f'Impact of {feature} on Comp-Pacific Blue-A', pad=20, fontsize=12)
+        plt.title(f'Impact of {feature} on Comp-Pacific Blue-A', pad=20, fontsize=12)
         
         # After Mean
-        plt.subplot(2, 1, 2)
+        plt.subplot(4, 2, 2*i + 4)
         shap.dependence_plot(
             ind=i, 
             shap_values=shap_values_after, 
             features=X,
             feature_names=features,
             show=False,
-            alpha=0.5,
-            ax=ax2
+            alpha=0.5
         )
-        ax2.set_title(f'Impact of {feature} on After Mean', pad=20, fontsize=12)
-        
-        plt.tight_layout(pad=3.0)
-        # Save each plot
-        plt.savefig(f'shap_dependence_{feature.replace(" ", "_")}.png', dpi=300, bbox_inches='tight')
-        plt.show()
+        plt.title(f'Impact of {feature} on After Mean', pad=20, fontsize=12)
+    
+    # Adjust layout and save
+    plt.tight_layout(pad=3.0)
+    plt.savefig('all_shap_analysis.png', dpi=300, bbox_inches='tight')
+    plt.show()
 
 def main():
     try:
@@ -327,8 +299,5 @@ if __name__ == "__main__":
         # Plot feature importance
         plot_feature_importance(model_comp_blue, model_after_mean)
         
-        # Plot SHAP analysis
-        plot_shap_analysis(model_comp_blue, model_after_mean, X)
-        
-        # Plot detailed SHAP analysis
-        plot_detailed_shap_analysis(model_comp_blue, model_after_mean, X)
+        # Plot all SHAP analysis in one figure
+        plot_all_shap_analysis(model_comp_blue, model_after_mean, X)
