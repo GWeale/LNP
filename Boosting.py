@@ -90,7 +90,7 @@ def train_models_with_kfold(X, y_comp_blue, y_after_mean, n_splits=3):
         model_after_mean = GridSearchCV(
             xgb.XGBRegressor(objective='reg:squarederror', random_state=42),
             param_grid,
-            cv=2,                          # Reduced from 3 to 2
+            cv=2,                          
             scoring='neg_mean_squared_error',
             verbose=1
         )
