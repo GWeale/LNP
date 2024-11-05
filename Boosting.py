@@ -130,9 +130,6 @@ def find_optimal_parameters(model_comp_blue, model_after_mean, data_ranges):
                 comp_blue_pred = model_comp_blue.predict(params)[0]
                 after_mean_pred = model_after_mean.predict(params)[0]
                 
-                # Score based on objectives:
-                # High Comp-Pacific Blue-A subset and low After Mean
-                # With constraints based on observed data ranges
                 if (comp_blue_pred <= data_ranges['Comp-Pacific Blue-A subset']['max'] * 1.1 and
                     comp_blue_pred >= data_ranges['Comp-Pacific Blue-A subset']['min'] * 0.9 and
                     after_mean_pred <= data_ranges['After Mean']['max'] * 1.1 and
@@ -181,16 +178,13 @@ def plot_all_shap_analysis(model_comp_blue, model_after_mean, X):
     plt.style.use('seaborn')
     features = ['PEI Ratio', 'NP Ratio', 'PBA Ratio']
     
-    # Create a large figure with subplots
     fig = plt.figure(figsize=(20, 25))
     
-    # Calculate SHAP values
     explainer_comp = shap.TreeExplainer(model_comp_blue.best_estimator_)
     explainer_after = shap.TreeExplainer(model_after_mean.best_estimator_)
     shap_values_comp = explainer_comp.shap_values(X)
     shap_values_after = explainer_after.shap_values(X)
     
-    # Summary dot plots (top row)
     plt.subplot(4, 2, 1)
     shap.summary_plot(shap_values_comp, X, 
                      feature_names=features,
@@ -209,7 +203,6 @@ def plot_all_shap_analysis(model_comp_blue, model_after_mean, X):
                      max_display=3)
     plt.title("SHAP Values Impact on After Mean", pad=20, fontsize=12)
     
-    # Dependence plots for each feature (remaining rows)
     for i, feature in enumerate(features):
         # Comp-Pacific Blue-A
         plt.subplot(4, 2, 2*i + 3)
