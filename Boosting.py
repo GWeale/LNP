@@ -265,7 +265,7 @@ def main():
             # Train models
             model_comp_blue, model_after_mean = train_models_with_kfold(X, y_comp_blue, y_after_mean)
             
-            # Find optimal parameters
+            # Find  parameters
             optimal_params, optimal_predictions = find_optimal_parameters(model_comp_blue, model_after_mean, data_ranges)
             
             print("\nOptimal Parameters:")
